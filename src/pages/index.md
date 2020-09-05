@@ -109,11 +109,11 @@ subscription:
         industry (especially with hemp flower). By partnering with Elevated
         Trading, we ensure that you receive the same quality, consistency, and
         strains on products throughout the term of your contract. "
-    - description: "Market volatility in the rapidly growing hemp industry causes real
-        challenges for CBD business owners. By subscribing to our program and
-        insulating your business from the volatile supply/demand curves, you're
-        able to accurately forecast your cost of goods and deliver more
-        predictable profit margins. "
+    - description: Market volatility in the rapidly growing hemp industry causes real
+        challenges for CBD business owners. By subscribing to our program, your
+        business is insulated from the volatile supply/demand curves, and you're
+        able to accurately forecast your cost of goods to deliver more
+        predictable profit margins for your stores.
       value: Predictable Projections
 shipping:
   description: Orders are shipped within 24-48 hours of payment, and we ship
