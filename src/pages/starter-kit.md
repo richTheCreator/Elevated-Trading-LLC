@@ -53,19 +53,19 @@ kitValue:
     alt: Cannabis store manager
   callouts:
     - value: Perfect solution for novice smokers
-      description: "Hemp flower is quickly gaining popularity among CBD customers, and
-        the Elevated Essentials kit is perfect for the novice smoker. With
-        detailed instructions and everything your customers need included in the
-        kit, it's the perfect solution to give your customers the confidence and
-        tools needed to truly enjoy the hemp smoking experience. "
+      description: "Hemp flower is quickly gaining popularity among CBD users, and the
+        Elevated Essentials kit is perfect for the novice smoker. With detailed
+        instructions and everything included in the kit, it's the perfect
+        solution to give your customers the confidence and tools needed to truly
+        enjoy the hemp smoking experience. "
     - value: Drive more flower sales
-      description: 'Smoking hemp flower is the most efficient and economical methods
-        of CBD delivery for your customers, and it also happens to be one of the
+      description: 'Smoking hemp flower is the most efficient and economical method of
+        CBD delivery for your customers, and it also happens to be one of the
         most profitable products on a retail shelf. This creates a "win-win"
-        situation for the consumer and retailer. With the kit, your customers
-        receive a low cost entry point into hemp flower, and you receive a new
-        customer that will continue returning to your store once they realize
-        the value and benefits of hemp flower. '
+        situation for the consumer and retailer. With the kit, consumers receive
+        a low cost entry point into hemp flower, and you receive a new customer
+        that will continue returning to your store once they realize the value
+        and benefits of hemp flower. '
     - value: Discreet, professional packaging
       description: 'A lot of our CBD retail customers are wary of introducing a
         selection of glassware and smoking accessories to their inventory based
