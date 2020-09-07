@@ -1,7 +1,7 @@
 ---
 date: 2020-09-07T16:56:40.619Z
-meta_description: "Elevated Trading policies covering CBD shipping, return,
-  exchange, refund, and privacy policy. "
+meta_description: "Elevated Trading policies cover CBD shipping, return,
+  exchange, refund, and privacy all in one place.  "
 templateKey: policies
 hero:
   heading: Policies
