@@ -1,8 +1,8 @@
 ---
 date: 2020-08-30T19:52:01.923Z
-meta_description: The starter kit is the easiest way to offer your customers
-  premium components in an all-in-one package to ensure a positive hemp
-  experience.
+meta_description: The Elevated Essentials starter kit is an all-in-one package
+  of premium hemp smoking components. Pair this with our Oregon hemp flower to
+  deliver an amazing customer experience!
 templateKey: starter-kit
 product_image: /media/hemp-starter-kit.jpg
 title: Hemp Starter Kit
@@ -53,18 +53,20 @@ kitValue:
     alt: Cannabis store manager
   callouts:
     - value: Perfect solution for novice smokers
-      description: "Hemp flower is quickly gaining popularity among CBD customers, and
-        the Elevated Essentials kit is perfect for the novice smoker. With
-        detailed instructions and everything your customers need included in the
-        kit, it's the perfect solution to give your customers the confidence and
-        tools needed to truly enjoy the hemp smoking experience. "
-    - value: SKU Consolidation
-      description: "Maintaining multiple inventory SKUs on glassware, grinders,
-        lighters, etc for your customers to smoke hemp flower is a thing of the
-        past when you introduce the starter kit to your inventory. The Elevated
-        Essentials kit delivers an easy add-on to the flower purchase and
-        increases your transaction value. "
-    - value: Remove the stigma
+      description: "Hemp flower is quickly gaining popularity among CBD users, and the
+        Elevated Essentials kit is perfect for the novice smoker. With detailed
+        instructions and everything included in the kit, it's the perfect
+        solution to give your customers the confidence and tools needed to truly
+        enjoy the hemp smoking experience. "
+    - value: Drive more flower sales
+      description: 'Smoking hemp flower is the most efficient and economical method of
+        CBD delivery for your customers, and it also happens to be one of the
+        most profitable products on a retail shelf. This creates a "win-win"
+        situation for the consumer and retailer. With the kit, consumers receive
+        a low cost entry point into hemp flower, and you receive a new customer
+        that will continue returning to your store once they realize the value
+        and benefits of hemp flower. '
+    - value: Discreet, professional packaging
       description: 'A lot of our CBD retail customers are wary of introducing a
         selection of glassware and smoking accessories to their inventory based
         on the negative stigma associated with "head shops". The discreet
