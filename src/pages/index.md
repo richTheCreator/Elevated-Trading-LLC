@@ -4,7 +4,7 @@ hero:
   heading: Better Wholesale Hemp
   backgroundImg:
     alt: Testing alt
-    image: /media/hemp-delivery.jpg
+    image: /media/darkhemp.jpg
 products:
   heading: High Value, Fair Price
   description: Elevated Trading is focused on delivering the highest quality,
