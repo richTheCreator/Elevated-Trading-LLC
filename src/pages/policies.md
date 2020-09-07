@@ -6,7 +6,7 @@ templateKey: policies
 hero:
   heading: Policies
 ---
-### SHIPPING POLICY
+#### Shipping Policy
 
 Our goal is to ship all orders within 1-2 business days after receiving payment (excludes holidays). This includes any shipments that are drop shipped by our various vendors. If there will be a significant delay in your purchase, you will be contacted by a customer service representative to discuss alternate products or begin processing a full refund.
 
@@ -14,9 +14,7 @@ All orders containing hemp flower are professionally packaged including a “Not
 
 We ship products using legal methods via USPS/UPS, and tracking information will be provided to you once the shipment leaves our facilities. Once in transit via USPS/UPS, Elevated Trading cannot be held responsible for stolen orders, items lost in transit, undelivered items, or mistakenly seized items.
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-### RETURN POLICY
+#### Return Policy
 
 To be eligible for a return, your item must be unused, original seal intact, and in the original packaging. Our return policy lasts 14 days from date of purchase, and return inquiries must be submitted via email to info@elevatedtradingllc.com within 14 days to be eligible for a refund. Buyer is responsible for shipping costs on returned items.
 
@@ -24,23 +22,17 @@ This return policy does exclude hemp flower which is non-refundable. That said, 
 
 If you happen to receive the wrong product, please contact us immediately so we can rectify the situation. Elevated Trading, LLC will cover the return shipping costs if the wrong products are delivered in your order.
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-### EXCHANGE POLICY
+#### Exchange Policy
 
 If you receive products that are defective or damaged, Elevated Trading will replace those items at no cost to you as a customer. Please email pictures of the damaged merchandise to info@elevatedtradingllc.com to being the replacement process.
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-### REFUND POLICY
+#### Refund Policy
 
 Once your return is received, we will send you an email to notify you that we have received your returned items. Once inspected, we will send another email to notify you of the approval or rejection on your refund.
 
 If approved, your refund will be processed and a credit will automatically be applied to your original payment method (credit card or bank account) within 7 business days. If requested, Elevated Trading can also apply the credit to your account for future purchases.
 
-#### \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
-
-### PRIVACY POLICY
+#### Privacy Policy
 
 This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from[www.elevatedtrading.com](http://www.elevatedtrading.com)(the “Site”).
 
