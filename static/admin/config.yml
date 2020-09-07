@@ -110,22 +110,6 @@ collections:
             ],
         }
       - { label: 'Body', name: 'body', widget: 'markdown' }
-  - name: 'blog'
-    label: 'Blog'
-    folder: 'src/pages/blog'
-    slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-    fields:
-      - {
-          label: 'Template Key',
-          name: 'templateKey',
-          widget: 'hidden',
-          default: 'blog-post',
-        }
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'text' }
-      - { label: 'Body', name: 'body', widget: 'markdown' }
-      - { label: 'Tags', name: 'tags', widget: 'list' }
   - name: 'pages'
     label: 'Pages'
     files:
@@ -370,3 +354,84 @@ collections:
                 ],
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+      - file: 'src/pages/lab-results.md'
+        label: 'Lab Results'
+        name: 'lab-results'
+        fields:
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - {
+              label: 'Meta Description',
+              name: 'meta_description',
+              widget: 'string',
+              required: true,
+            }
+          - {
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'lab-results',
+            }
+          - {
+              label: 'Hero',
+              name: 'hero',
+              widget: 'object',
+              fields:
+                [
+                  { label: 'Heading', name: 'heading', widget: 'string' },
+                  {
+                    label: 'Description',
+                    name: 'description',
+                    widget: 'string',
+                  },
+                  {
+                    label: 'Background Image',
+                    name: 'backgroundImg',
+                    widget: 'object',
+                    fields:
+                      [
+                        { label: 'Image', name: 'image', widget: 'image' },
+                        { label: 'Alt', name: 'alt', widget: 'string' },
+                      ],
+                  },
+                ],
+            }
+      - file: 'src/pages/policies.md'
+        label: 'Policies'
+        name: 'policies'
+        fields:
+          - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+          - {
+              label: 'Meta Description',
+              name: 'meta_description',
+              widget: 'string',
+              required: true,
+            }
+          - {
+              label: 'Template Key',
+              name: 'templateKey',
+              widget: 'hidden',
+              default: 'policies',
+            }
+          - {
+              label: 'Hero',
+              name: 'hero',
+              widget: 'object',
+              fields: [{ label: 'Heading', name: 'heading', widget: 'string' }],
+            }
+          - { label: 'Body', name: 'body', widget: 'markdown' }
+#  - name: 'blog'
+#     label: 'Blog'
+#     folder: 'src/pages/blog'
+#     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
+#     fields:
+#       - {
+#           label: 'Template Key',
+#           name: 'templateKey',
+#           widget: 'hidden',
+#           default: 'blog-post',
+#         }
+#       - { label: 'Title', name: 'title', widget: 'string' }
+#       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+#       - { label: 'Description', name: 'description', widget: 'text' }
+#       - { label: 'Body', name: 'body', widget: 'markdown' }
+#       - { label: 'Tags', name: 'tags', widget: 'list' }
