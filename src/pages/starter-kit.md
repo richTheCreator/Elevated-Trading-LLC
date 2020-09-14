@@ -13,9 +13,9 @@ included:
     description: "High quality, 3-piece grinder. This grinder is machined out of
       aluminum and has a durable, black silicone finish with textured sides
       making the experience effortless. The teeth are precision cut and
-      extremely sharp to deliver a precision grind every time. "
+      extremely sharp to deliver a perfect grind, every time. "
     backgroundImg:
-      image: /media/stainless-steel-grinders-3_007-web.jpg
+      image: /media/eleessgri.png
       alt: Hemp grinder
   - title: Glass Jar
     description: "Glass jar is sized to store 1/8oz of hemp flower and includes a
@@ -23,7 +23,7 @@ included:
       you can drop in one of our humidity control packs to maintain freshness
       for future smokes. "
     backgroundImg:
-      image: /media/glass-jar-bamboo-cap-1-1.jpg
+      image: /media/eleessjar.png
       alt: Glass jar
   - title: Glass Pipe
     description: 'The 4" pipe included in the Elevated Essentials kit is made from
@@ -31,14 +31,14 @@ included:
       The pipe has a silicone cover for grip and protection to ensure this pipe
       is always ready for a smoke. '
     backgroundImg:
-      image: /media/miniblackglasspipewmarbleweedbowlsforsalefreeshipping_1_480x480.jpg
+      image: /media/eleesspipe.png
       alt: Glass pipe
   - title: Lighter
     description: "A lighter is included in the kit so your customers can walk out of
       the store with everything they need to experience and enjoy their hemp
       flower purchase. "
     backgroundImg:
-      image: /media/white-lighter-shutterstock_1557340776.jpg
+      image: /media/eleesslit.png
       alt: Lighter
   - title: Premium Packaging
     description: "The Elevated Essentials kit is a discreet, all-in-one solution
