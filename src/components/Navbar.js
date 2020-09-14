@@ -86,6 +86,13 @@ function makeClassComponent(WrappedComponent) {
   }
 }
 
+const mailTo = `mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company`
+
+const sendEmail = (e) => {
+  e.preventDefault()
+  location.href = mailTo
+}
+
 const AnimatedMenu = animated(makeClassComponent(MenuList))
 const AnimatedLink = animated(makeClassComponent(LinkStyle))
 
@@ -123,7 +130,7 @@ const NavbarLG = ({ menuLinks, theme }) => (
             </Row>
           ) : null
         )}
-        <SmallButton to={menuLinks[0].link}> CONTACT US </SmallButton>
+        <SmallButton onClick={(e) => sendEmail(e)}> CONTACT US </SmallButton>
       </Row>
     </Col>
   </Row>

@@ -37,7 +37,7 @@ const Hero = ({
     `${weights[0].value} ${weights[0].metric}`
   )
 
-  const mailTo = `mailto:cody@elevatedtrading.com?cc=justin@elevatedtrading.com&subject=Price%20request%20for%3A%20${title}%20-%20${weightVal}&body=Testing`
+  const mailTo = `mailto:sales@elevatedtrading.com?subject=Price%20request%20for%3A%20${title}%20-%20${weightVal}`
 
   const sendEmail = (e) => {
     e.preventDefault()

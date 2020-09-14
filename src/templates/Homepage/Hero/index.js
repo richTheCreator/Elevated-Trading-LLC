@@ -23,8 +23,8 @@ const Hero = ({
       pb={[0, 0, 0, 6]}
     >
       <SectionMax
-        height={['100%', '100%', '600px', '800px']}
-        style={{ position: 'relative', maxHeight: '900px' }}
+        height={['100%', '100%', '800px', '800px']}
+        style={{ position: 'relative', maxHeight: '800px' }}
         justifyContent={['center', 'center', 'flex-start', 'flex-start']}
         m='auto!important'
         p={[0, 0, 0, 4]}
@@ -42,13 +42,11 @@ const Hero = ({
         />
         <TextContainer
           bg={'black'}
-          lg={6}
+          lg={5}
           md={6}
           xs={11}
-          p={[3, 5]}
-          pt={[5, 5, '100px!important', '100px!important']}
-          pb={[5, 5, '100px!important', '100px!important']}
-          mt={['-50px', '-50px', '50px', '50px']}
+          p={5}
+          mt={['-50px', '-50px', '0px', '0px']}
         >
           <Heading1
             mb={2}

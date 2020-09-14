@@ -14,14 +14,15 @@ const Products = ({ products: { heading, description, productImages } }) => {
     <SectionWrapper bg='ivory'>
       <SectionMax center='xs' style={{ margin: 'auto' }}>
         <Col xs={12}>
-          <Heading2 mt={0} mb={3} textAlign={['left', 'center']}>
+          <Heading2 mt={0} mb={3} textAlign={'center'}>
             {heading}
           </Heading2>
-          <Body1 textAlign={['left', 'center']} maxWidth={'1000px'} m='auto'>
+          <Body1 textAlign={'center'} maxWidth={'1000px'} m='auto'>
             {description}
           </Body1>
           <Button
-            bg={'transparent'}
+            bg={'sage'}
+            color={'ivory'}
             hasBorder
             mt={4}
             mb={6}
@@ -29,16 +30,6 @@ const Products = ({ products: { heading, description, productImages } }) => {
           >
             VIEW PRODUCTS
           </Button>
-          <Row center={'xs'}>
-            {productImages.map((images) => (
-              <Col lg={5} xs={12}>
-                <PreviewCompatibleImage
-                  imageInfo={images}
-                  style={categoryStyles}
-                />
-              </Col>
-            ))}
-          </Row>
         </Col>
       </SectionMax>
     </SectionWrapper>

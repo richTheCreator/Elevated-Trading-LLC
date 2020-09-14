@@ -27,7 +27,7 @@ const formatOptionLabel = ({ value }) => (
 const Hero = ({ title, product_image, meta_description, quantities }) => {
   const [quantityVal, setWeight] = useState(`${quantities[0].value}`)
 
-  const mailTo = `mailto:cody@elevatedtrading.com?cc=justin@elevatedtrading.com&subject=Price%20request%20for%3A%20${title}%20-%20${quantityVal}&body=Testing`
+  const mailTo = `mailto:sales@elevatedtrading.com?subject=Price%20request%20for%3A%20${title}%20-%20${quantityVal}`
 
   const sendEmail = (e) => {
     e.preventDefault()

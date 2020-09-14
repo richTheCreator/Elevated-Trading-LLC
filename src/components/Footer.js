@@ -7,7 +7,7 @@ import { SectionWrapper, SectionMax } from './Containers'
 import { Heading5, Body1, Button, Overline, Caption, Body2 } from './Typography'
 import IG_Logo from '../img/svg/instagram.svg'
 import FB_Logo from '../img/svg/facebook.svg'
-import Phone_Icon from '../img/svg/phone.svg'
+import LI_Logo from '../img/svg/linkedin.svg'
 import Mail_Icon from '../img/svg/mail.svg'
 import useSiteMetadata from './SiteMetadata'
 import { ETCTriangleLogo } from './SVG/ETC_TriangleLogo'
@@ -106,8 +106,8 @@ const Footer = ({ footer }) => {
                 <ContactCTA
                   mb={3}
                   width={'100%'}
-                  url='https://www.instagram.com/elevatedtradingllc/'
-                  text={'Follow us'}
+                  url='https://www.instagram.com/elevatedtradingcbd/'
+                  text={'Instagram'}
                 >
                   <IG_Logo
                     style={{
@@ -116,7 +116,31 @@ const Footer = ({ footer }) => {
                   />
                 </ContactCTA>
                 <ContactCTA
-                  url='mailto:cody@elevatedtrading.com?cc=justin@elevatedtrading.com&subject=Contact%20Elevated%20Trading%20Company'
+                  mb={3}
+                  width={'100%'}
+                  url='https://www.facebook.com/Elevated-Trading-109488510825961'
+                  text={'Facebook'}
+                >
+                  <FB_Logo
+                    style={{
+                      fill: 'white'
+                    }}
+                  />
+                </ContactCTA>
+                <ContactCTA
+                  mb={3}
+                  width={'100%'}
+                  url='https://www.linkedin.com/company/elevated-trading-llc'
+                  text={'Linked In'}
+                >
+                  <FB_Logo
+                    style={{
+                      fill: 'white'
+                    }}
+                  />
+                </ContactCTA>
+                <ContactCTA
+                  url='mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company'
                   mb={4}
                   text={'Contact us'}
                 >
