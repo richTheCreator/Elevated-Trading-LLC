@@ -4,7 +4,7 @@ meta_description: The Elevated Essentials starter kit is an all-in-one package
   of premium hemp smoking components. Pair this with our Oregon hemp flower to
   deliver an amazing customer experience!
 templateKey: starter-kit
-product_image: /media/hemp-starter-kit.jpg
+product_image: /media/eleessbox2.jpg
 title: Hemp Starter Kit
 quantities:
   - value: 20
@@ -45,7 +45,7 @@ included:
       that will consolidate SKUs in your store and provide a convenient way for
       your customers to experience the effects of premium hemp flower. "
     backgroundImg:
-      image: /media/hemp-starter-kit.jpg
+      image: /media/eleessbox2.jpg
       alt: Hemp starter kit
 kitValue:
   backgroundImg:
