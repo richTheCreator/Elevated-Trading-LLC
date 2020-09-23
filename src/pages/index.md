@@ -116,8 +116,11 @@ subscription:
         predictable profit margins for your stores.
       value: Predictable Projections
 shipping:
-  description: Orders are shipped within 24-48 hours of payment, and we ship
-    everything via USPS Priority Mail (with tracking). We can expedite, if
-    needed, so please speak to your account manager if we need to expedite
-    shipping.
+  description: "Orders are shipped within 24-48 hours of payment via USPS (with
+    tracking). All of our hemp flower is vacuum-sealed in TerpeneFresh bags
+    which are specifically designed to lock in the freshness and maintain
+    terpene quality of hemp flower, and we take it one step further to include a
+    humidity pack in each bag to maintain optimal conditions for the flower
+    during transit. We stand behind all of our products with a delivery and
+    satisfaction guarantee. "
 ---
