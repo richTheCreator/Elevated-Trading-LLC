@@ -15,7 +15,6 @@ export const ProductPageTemplate = ({
   details,
   cbd,
   thc,
-  html,
   weights,
   coa_link,
   pathname
@@ -37,7 +36,7 @@ export const ProductPageTemplate = ({
         thc={thc}
         weights={weights}
       />
-      <Description content={html} details={details} />
+      <Description details={details} />
       <Shipping />
       <Subscription />
       <Values />
@@ -59,7 +58,6 @@ const ProductPage = ({ data, location }) => {
       thc={frontmatter.thc}
       weights={frontmatter.weights}
       coa_link={frontmatter.coa_link}
-      html={html}
     />
   )
 }
@@ -69,7 +67,6 @@ export default ProductPage
 export const pageQuery = graphql`
   query ProductPageTemplate($id: String!) {
     products: markdownRemark(id: { eq: $id }) {
-      html
       frontmatter {
         title
         meta_description

@@ -3,11 +3,8 @@ import { Row, Col } from 'react-flexbox-grid'
 import { Heading6, Body2 } from '../../../components/Typography'
 import { SectionMax, SectionWrapper } from '../../../components/Containers'
 import { ValueText, Title } from './styles'
-import Content, { HTMLContent } from '../../../components/Content'
 
-const Description = ({ program, content, contentComponent, details }) => {
-  const PostContent = HTMLContent || Content
-
+const Description = ({ details }) => {
   return (
     <SectionWrapper bg={'black'} className='PDP-Description' pt={[4, 4, 0, 0]}>
       <SectionMax style={{ justifyContent: 'center', margin: 'auto' }}>
@@ -27,9 +24,6 @@ const Description = ({ program, content, contentComponent, details }) => {
               </Col>
             ))}
         </Row>
-        <Col xs={12} lg={10}>
-          <PostContent content={content} />
-        </Col>
       </SectionMax>
     </SectionWrapper>
   )
