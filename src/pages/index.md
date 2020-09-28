@@ -7,25 +7,27 @@ hero:
     image: /media/darkhemp.jpg
 products:
   heading: High Value, Fair Price
-  description: Elevated Trading is focused on delivering the highest quality,
-    Oregon-grown hemp products at a fair price to our customers, and we firmly
-    believe that strong, strategic partnerships with like-minded business owners
-    are the key to future success as the hemp/CBD industry matures. We look
-    forward to demonstrating how we can bring value to your business.
+  description: Elevated Trading is focused on delivering the highest quality hemp
+    products at a fair price to our customers, and we firmly believe that
+    strong, strategic partnerships with like-minded business owners are the key
+    to future success as the hemp/CBD industry matures. We look forward to
+    demonstrating how we can bring value to your business.
   productImages:
     - image: /media/hemp_flower.jpg
       alt: test
     - image: /media/hemp_concentrate.jpg
       alt: test
 rogueValley:
-  heading: Experience Oregon Quality
+  heading: Experience Superior Quality
   description: >
-    Elevated Trading sources our hemp products exclusively from the Rogue Valley
+    Elevated Trading sources our hemp flower exclusively from the Rogue Valley
     of Southern Oregon. Rogue Valley is commonly referred to as the “Napa Valley
     of Hemp” due to the premium quality, sun-grown hemp consistently delivered
     year after year. 
 
     The region’s unique microclimate, superior soil quality and responsible farming practices all unite to deliver a CBD product that simply outperforms other regions in the United States.
+
+    Through Elevated Trading's strategic partnerships, our CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
   backgroundImg:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
@@ -43,10 +45,11 @@ etcValues:
   values:
     - value: Quality
       description: All of our products are 3rd party tested multiple times throughout
-        the supply chain, and we supply documentation with every order.
+        the supply chain, and we supply certified COAs and documentation with
+        every order.
     - value: Reliability
       description: Orders are shipped within 24-48 hours of payment, and we stand
-        behind every product that we sell. If you’re not happy, we fix it
+        behind every product that we sell. If you’re not happy, we fix it.
     - value: Integrity
       description: If we tell you that we can deliver a product or service for your
         business, we will make it happen. Period.
