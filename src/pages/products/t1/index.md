@@ -2,15 +2,15 @@
 date: 2020-08-25T21:31:19.127Z
 meta_description: "Elevated Trading CBD Hemp Flower: T1"
 templateKey: product-details
-product_image: dsc07435.jpg
-title: T1 aka Trump
+product_image: t1_1_09242020.jpg
+title: "T1 "
 category: Flower
-thc: 0.2
-cbd: 15.52
+thc: 0.101
+cbd: 10.61
 weights:
   - metric: lb
     value: 1
-coa_link: et-signature-logo-linkedin.png
+coa_link: elevated-trading-t1-hemp-certificate-of-analysis-sample-id-20a754-lot-no-2001-101-rev01_signed-2-.pdf
 details:
   description: Testing the description area for additional text about the product.
   info:
