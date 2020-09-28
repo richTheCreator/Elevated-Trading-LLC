@@ -16,15 +16,15 @@ We ship products using legal methods via USPS/UPS, and tracking information will
 
 #### Return Policy
 
-To be eligible for a return, your item must be unused, original seal intact, and in the original packaging. Our return policy lasts 14 days from date of purchase, and return inquiries must be submitted via email to info@elevatedtradingllc.com within 14 days to be eligible for a refund. Buyer is responsible for shipping costs on returned items.
+To be eligible for a return, your item must be unused, original seal intact, and in the original packaging. Our return policy lasts 14 days from date of purchase, and return inquiries must be submitted via email to info@elevatedtrading.com within 14 days to be eligible for a refund. Buyer is responsible for shipping costs on returned items.
 
-This return policy does exclude hemp flower which is non-refundable. That said, customer satisfaction is our top priority. If there is an issue with your order of hemp flower, please contact your account manager or email us at info@elevatedtradingllc.com, and we will do everything in our power to find a suitable resolution.
+This return policy does exclude hemp flower which is non-refundable. That said, customer satisfaction is our top priority. If there is an issue with your order of hemp flower, please contact your account manager or email us at info@elevatedtrading.com, and we will do everything in our power to find a suitable resolution.
 
 If you happen to receive the wrong product, please contact us immediately so we can rectify the situation. Elevated Trading, LLC will cover the return shipping costs if the wrong products are delivered in your order.
 
 #### Exchange Policy
 
-If you receive products that are defective or damaged, Elevated Trading will replace those items at no cost to you as a customer. Please email pictures of the damaged merchandise to info@elevatedtradingllc.com to being the replacement process.
+If you receive products that are defective or damaged, Elevated Trading will replace those items at no cost to you as a customer. Please email pictures of the damaged merchandise to info@elevatedtrading.com to begin the replacement process.
 
 #### Refund Policy
 
@@ -34,7 +34,7 @@ If approved, your refund will be processed and a credit will automatically be ap
 
 #### Privacy Policy
 
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from[www.elevatedtrading.com](http://www.elevatedtrading.com)(the “Site”).
+This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from [www.elevatedtrading.com](http://www.elevatedtrading.com)(the “Site”).
 
 **PERSONAL INFORMATION WE COLLECT**
 
@@ -42,13 +42,13 @@ When you visit the Site, we automatically collect certain information about your
 
 We collect Device Information using the following technologies:
 
-\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit<http://www.allaboutcookies.org>.
+\- “Cookies” are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit <http://www.allaboutcookies.org>.
 
 \- “Log files” track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
 
 \- “Web beacons”, “tags”, and “pixels” are electronic files used to record information about how you browse the Site.
 
-Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as “Order Information”.
+Additionally, when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as “Order Information”.
 
 In this Privacy Policy, “Personal Information” includes both Device Information and Order Information.
 
@@ -68,23 +68,27 @@ We use the Device Information that we collect to help us screen for potential ri
 
 **SHARING YOUR PERSONAL INFORMATION**
 
-We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here:<https://tools.google.com/dlpage/gaoptout>. We also leverage HubSpot integrations to help validate our marketing efforts and maintain customer information collected through the Site - you can read more about how your data is managed with Hubspot here:<https://legal.hubspot.com/privacy-policy>.
+We share your Personal Information with third parties to help us use your Personal Information, as described above. For example, we use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: <https://www.google.com/intl/en/policies/privacy/>. 
+
+You can also opt-out of Google Analytics here: <https://tools.google.com/dlpage/gaoptout>. 
+
+We also leverage HubSpot integrations to help validate our marketing efforts and maintain customer information collected through the Site - you can read more about how your data is managed with Hubspot here: <https://legal.hubspot.com/privacy-policy>.
 
 Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
 
 **ADVERTISING**
 
-As described above, we use your Personal Information to deliver targeted advertisements or marketing communications that may be of interest to you. For information about how targeted advertising works, visit Network Advertising Initiative’s page at<http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
+As described above, we use your Personal Information to deliver targeted advertisements or marketing communications that may be of interest to you. For information about how targeted advertising works, visit Network Advertising Initiative’s page at <http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work>.
 
 You can opt out of targeted advertising by using the links below:
 
-\- Google:<https://www.google.com/settings/ads/anonymous>
+\- Google: <https://www.google.com/settings/ads/anonymous>
 
-\-Digital Advertising Allliance:<http://optout.aboutads.info/>
+\-Digital Advertising Allliance: <http://optout.aboutads.info/>
 
 **YOUR RIGHTS**
 
-If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us at[info@elevatedtrading.com](mailto:info@elevatedtrading.com).
+If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us at [info@elevatedtrading.com](mailto:info@elevatedtrading.com).
 
 **DATA RETENTION**
 
@@ -100,10 +104,12 @@ The Site is intended for adults age 21+. The use of this site by minors is prohi
 
 **CONTACT US**
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at[info@elevatedtrading.com](mailto:info@elevatedtrading.com)or by mail using the details provided below:
+For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at [info@elevatedtrading.com](mailto:info@elevatedtrading.com) or by mail using the details provided below:
 
 Elevated Trading, LLC
 
-Re: Website Privacy
+Attn: Website Privacy
 
-425 Pinson Rd. Ste. C, Forney, TX 75126, United States
+425 Pinson Rd. Ste. C, Forney, TX 75126
+
+United States
