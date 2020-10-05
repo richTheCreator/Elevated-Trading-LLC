@@ -6,7 +6,7 @@ product_image: dsc08548.jpg
 title: Lifter
 category: Flower
 thc: 0.023
-cbd: 14.62
+cbd: 16.548
 weights:
   - metric: lb
     value: 1
