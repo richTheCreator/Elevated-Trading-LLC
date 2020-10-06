@@ -14,7 +14,7 @@ weights:
     value: 5
 coa_link: lifter-coa.pdf
 details:
-  description: Premium sun grown hemp from Southern Oregon. Lifter is a stable
+  description: Premium sun grown hemp from Southern Oregon. Lifter is a staple
     among CBD users.
   info:
     - label: Common Effects
