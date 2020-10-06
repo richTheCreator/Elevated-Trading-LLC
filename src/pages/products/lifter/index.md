@@ -6,20 +6,21 @@ product_image: dsc08548.jpg
 title: Lifter
 category: Flower
 thc: 0.023
-cbd: 14.62
+cbd: 16.548
 weights:
   - metric: lb
     value: 1
   - metric: lb
     value: 5
-coa_link: coa-catalog.pdf
+coa_link: lifter-coa.pdf
 details:
-  description: Testing the description area for additional text about the product.
+  description: Premium sun grown hemp from Southern Oregon. Lifter is a staple
+    among CBD users.
   info:
     - label: Common Effects
       items:
-        - item: Focus
-        - item: Energy
+        - item: Calming
+        - item: Energizing
         - item: Uplifting
     - label: Flavor Profile
       items:
