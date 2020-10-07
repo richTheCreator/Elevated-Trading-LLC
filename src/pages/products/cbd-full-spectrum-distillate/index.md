@@ -10,7 +10,7 @@ cbd: 0
 weights:
   - metric: kg
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: elevated-trading-fsd-website.pdf
 details:
   description: CBD | Full-Spectrum Distillate
   info:
