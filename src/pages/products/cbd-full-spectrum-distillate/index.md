@@ -13,4 +13,10 @@ weights:
 coa_link: coa-placeholder.pdf
 details:
   description: CBD | Full-Spectrum Distillate
+  info:
+    - label: Testing
+      items:
+        - item: This is a test while we're working on the site to see how the bullet point
+            looks when we only have one main theme. We will continue to make
+            edits on this page of the site for the next 24 hours.
 ---
