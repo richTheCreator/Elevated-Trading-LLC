@@ -10,7 +10,9 @@ cbd: 84
 weights:
   - metric: kg
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: cbd-isolate-purity-test-website.pdf
+details:
+  description: CBD | Isolate
 ---
 
 CBD | Isolate
