@@ -10,7 +10,9 @@ cbd: 85
 weights:
   - metric: kg
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: winterized-crude-coa-website.pdf
+details:
+  description: CBD | Full-Spectrum Oil
 ---
 
 CBD | Full-Spectrum Oil
