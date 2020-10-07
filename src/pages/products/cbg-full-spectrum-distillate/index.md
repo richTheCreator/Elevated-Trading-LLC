@@ -10,19 +10,9 @@ cbd: 0
 weights:
   - metric: kg
     value: 1
-coa_link: distillatecoa.pdf
+coa_link: cbg-distillate-coa-website.pdf
 details:
-  description: CBD | Broad-Spectrum Distillate
-  info:
-    - label: Extraction Method
-      items:
-        - item: CO2 and Ethanol available
-    - label: Fullfillment
-      items:
-        - item: Fullfillment contracts available
-    - label: Bulk Availability
-      items:
-        - item: Bulk discounts available
+  description: CBG | Full-Spectrum Distillate
 ---
 
 CBG | Full-Spectrum Distillate
