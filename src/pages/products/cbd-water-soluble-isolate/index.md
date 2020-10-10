@@ -10,7 +10,13 @@ cbd: 93
 weights:
   - metric: kg
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: water-soluble-coa-website.pdf
+details:
+  description: CBD | Water-Soluble Isolate
+  info:
+    - label: Test
+      items:
+        - item: Test
 ---
 
 CBD | Water-Soluble Isolate
