@@ -11,10 +11,15 @@ import LI_Logo from '../img/svg/linkedin.svg'
 import Mail_Icon from '../img/svg/mail.svg'
 import useSiteMetadata from './SiteMetadata'
 import { ETCTriangleLogo } from './SVG/ETC_TriangleLogo'
+import { LinkedIn } from './SVG/LinkedIn'
 
 const StyledLogo = styled(ETCTriangleLogo)`
   ${space}
   height: 80px;
+`
+const StyledLI = styled(LinkedIn)`
+  ${space}
+  height: 24px;
 `
 
 const Legal = styled(Row)`
@@ -133,11 +138,7 @@ const Footer = ({ footer }) => {
                   url='https://www.linkedin.com/company/elevated-trading-llc'
                   text={'LinkedIn'}
                 >
-                  <LI_Logo
-                    style={{
-                      fill: 'white'
-                    }}
-                  />
+                  <StyledLI fillColor='ivory' />
                 </ContactCTA>
                 <ContactCTA
                   url='mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company'

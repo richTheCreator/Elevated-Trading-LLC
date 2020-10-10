@@ -94,16 +94,18 @@ collections:
               {
                 label: 'Info',
                 name: 'info',
-                widget: 'list',
+                widget: 'list',,
+                required: true,
                 fields:
                   [
-                    { label: 'Label', name: 'label', widget: 'string' },
+                    { label: 'Label', name: 'label', widget: 'string',required: true },
                     {
                       label: 'Items',
                       name: 'items',
                       widget: 'list',
+                      required: true,
                       fields:
-                        [{ label: 'Item', name: 'item', widget: 'string' }],
+                        [{ label: 'Item', name: 'item', widget: 'string', required: true}],
                     },
                   ],
               },
