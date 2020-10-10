@@ -131,9 +131,9 @@ const Footer = ({ footer }) => {
                   mb={3}
                   width={'100%'}
                   url='https://www.linkedin.com/company/elevated-trading-llc'
-                  text={'Linked In'}
+                  text={'LinkedIn'}
                 >
-                  <FB_Logo
+                  <LI_Logo
                     style={{
                       fill: 'white'
                     }}

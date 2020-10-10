@@ -12,7 +12,17 @@ weights:
     value: 1
 coa_link: coa-placeholder.pdf
 details:
-  description: T-Free Distillate
+  description: CBD | Broad-Spectrum Distillate
+  info:
+    - label: Extraction Method
+      items:
+        - item: CO2 and Ethanol available
+    - label: Fullfillment
+      items:
+        - item: Fullfillment contracts available
+    - label: Bulk Availability
+      items:
+        - item: Bulk discounts available
 ---
 
 CBG | T-Free Distillate
