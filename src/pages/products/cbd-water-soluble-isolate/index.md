@@ -13,6 +13,10 @@ weights:
 coa_link: water-soluble-coa-website.pdf
 details:
   description: CBD | Water-Soluble Isolate
+  info:
+    - label: Test
+      items:
+        - item: Test
 ---
 
 CBD | Water-Soluble Isolate
