@@ -5,8 +5,8 @@ templateKey: product-details
 product_image: distillate.jpg
 title: CBD | Full-Spectrum Distillate
 category: Concentrate
-thc: 0
-cbd: 0
+thc: 3
+cbd: 85
 weights:
   - metric: kg
     value: 1
