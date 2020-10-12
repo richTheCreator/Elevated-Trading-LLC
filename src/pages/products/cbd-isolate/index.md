@@ -10,7 +10,16 @@ cbd: 84
 weights:
   - metric: kg
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: cbd-isolate-purity-test-website.pdf
+details:
+  description: CBD | Isolate
+  info:
+    - label: Elevated Trading CBD Isolate
+      items:
+        - item: "Our CBD Isolate is refined in a highly controlled environment and lab
+            tested to ensure top tier purity. Our consistent supply chain allows
+            us to offer fulfillment contracts and bulk discounts for qualifying
+            customers. "
 ---
 
 CBD | Isolate
