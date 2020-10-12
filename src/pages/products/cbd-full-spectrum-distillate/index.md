@@ -1,22 +1,23 @@
 ---
 date: 2020-10-05T22:37:16.046Z
-meta_description: Elevated Trading CBD Full Spectrum Distillate
+meta_description: Elevated Trading CBD Distillate
 templateKey: product-details
 product_image: distillate.jpg
-title: CBD | Full-Spectrum Distillate
+title: CBD | Distillate
 category: Concentrate
-thc: 0
-cbd: 0
+thc: 3
+cbd: 85
 weights:
   - metric: kg
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: elevated-trading-fsd-website.pdf
 details:
-  description: CBD | Full-Spectrum Distillate
+  description: CBD | Distillate
   info:
-    - label: Testing
+    - label: Full Spectrum and T-Free available
       items:
-        - item: This is a test while we're working on the site to see how the bullet point
-            looks when we only have one main theme. We will continue to make
-            edits on this page of the site for the next 24 hours.
+        - item: Our distillate is extracted in a highly controlled environment to ensure
+            top tier quality. We offer full spectrum distillate containing the
+            highest levels of cannabinoids as well as T-Free that has been
+            refined to contain the lowest possible THC content.
 ---
