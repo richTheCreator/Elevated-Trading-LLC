@@ -1,6 +1,6 @@
 ---
 date: 2020-10-05T22:37:16.046Z
-meta_description: Elevated Trading CBD Full Spectrum Distillate
+meta_description: Elevated Trading CBD Distillate
 templateKey: product-details
 product_image: distillate.jpg
 title: CBD | Full-Spectrum Distillate
