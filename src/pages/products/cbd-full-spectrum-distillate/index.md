@@ -3,7 +3,7 @@ date: 2020-10-05T22:37:16.046Z
 meta_description: Elevated Trading CBD Distillate
 templateKey: product-details
 product_image: distillate.jpg
-title: CBD | Full-Spectrum Distillate
+title: CBD | Distillate
 category: Concentrate
 thc: 3
 cbd: 85
@@ -12,7 +12,7 @@ weights:
     value: 1
 coa_link: elevated-trading-fsd-website.pdf
 details:
-  description: CBD Distillate
+  description: CBD | Distillate
   info:
     - label: Full Spectrum and T-Free available
       items:
