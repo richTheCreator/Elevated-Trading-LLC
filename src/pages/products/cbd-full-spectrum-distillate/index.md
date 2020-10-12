@@ -12,7 +12,7 @@ weights:
     value: 1
 coa_link: elevated-trading-fsd-website.pdf
 details:
-  description: CBD | Full-Spectrum Distillate
+  description: CBD Distillate
   info:
     - label: Full Spectrum and T-Free available
       items:
