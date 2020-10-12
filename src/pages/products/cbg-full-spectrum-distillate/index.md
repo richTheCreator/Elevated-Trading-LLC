@@ -1,28 +1,25 @@
 ---
 date: 2020-08-25T22:16:38.593Z
-meta_description: Elevated Trading CBG Full-Spectrum Distillate
+meta_description: Elevated Trading CBG Distillate
 templateKey: product-details
 product_image: distillate.jpg
-title: CBG | Full-Spectrum Distillate
+title: CBG | Distillate
 category: Concentrate
-thc: 0
-cbd: 0
+thc: 3
+cbd: 85
 weights:
   - metric: kg
     value: 1
-coa_link: distillatecoa.pdf
+coa_link: cbg-distillate-coa-website.pdf
 details:
-  description: CBD | Broad-Spectrum Distillate
+  description: CBG | Distillate
   info:
-    - label: Extraction Method
+    - label: Full spectrum and T-Free available
       items:
-        - item: CO2 and Ethanol available
-    - label: Fullfillment
-      items:
-        - item: Fullfillment contracts available
-    - label: Bulk Availability
-      items:
-        - item: Bulk discounts available
+        - item: Our distillate is extracted in a highly controlled environment to ensure
+            top tier quality. We offer full spectrum distillate containing the
+            highest levels of cannabinoids as well as T-Free that has been
+            refined to contain the lowest possible THC content.
 ---
 
 CBG | Full-Spectrum Distillate
