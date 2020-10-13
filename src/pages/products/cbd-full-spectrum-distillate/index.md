@@ -23,9 +23,7 @@ details:
             when warmed. Most of the flavonoids and phytocannabinoids have been
             removed leaving little adverse taste. This makes our distillate
             optimal for products with mid to high levels of CBD concentration
-            without altering the flavor.
-    - label: "Recommended Use:"
-      items:
-        - item: Vape cartridges, Tinctures, Gummies, Chocolates, Caramels, and other
-            edible products where maintaining delicate flavors is important.
+            without altering the flavor. We recommend using in vape cartridges,
+            tinctures, gummies, chocolates, caramels, and other edible products
+            where maintaining delicate flavors is important.
 ---
