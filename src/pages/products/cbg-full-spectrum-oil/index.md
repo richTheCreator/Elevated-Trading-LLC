@@ -1,6 +1,6 @@
 ---
 date: 2020-08-25T22:18:19.304Z
-meta_description: Elevated Trading CBG Full-Spectrum Oil
+meta_description: Elevated Trading CBG Full-Spectrum Oil (Crude)
 templateKey: product-details
 product_image: crude.jpg
 title: CBG | Full-Spectrum Oil
