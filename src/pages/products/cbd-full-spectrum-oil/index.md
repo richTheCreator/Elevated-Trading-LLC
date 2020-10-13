@@ -24,11 +24,9 @@ details:
             dark green to black hue. Once added to products it will transfer a
             brown to green coloration to the finished product. Crude is optimal
             for products that require a low price point where protecting flavor
-            is not a concern.
-    - label: "Recommended use:"
-      items:
-        - item: Gel caps, pain creams, lotion, topicals, and tinctures where the natural
-            flavors of the plant are encouraged.
+            is not a concern. We recommend using in gel caps, pain creams,
+            lotion, topicals, and tinctures where the natural flavors of the
+            plant are encouraged.
 ---
 
 CBD | Full-Spectrum Oil
