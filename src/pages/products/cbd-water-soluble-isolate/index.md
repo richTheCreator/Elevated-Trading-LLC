@@ -21,7 +21,8 @@ details:
             the use of detergent during the manufacturing process. This product
             is THC free, vegan, and gluten free. There is no taste, cloudiness,
             oils, or detergents that are found in most of the water soluble
-            products on the market
+            products on the market. We recommend using in any water based
+            solution such as sodas, energy shots, drink mixes, and teas.
 ---
 
 CBD | Water-Soluble Isolate
