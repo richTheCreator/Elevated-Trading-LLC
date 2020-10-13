@@ -5,7 +5,7 @@ templateKey: product-details
 product_image: distillate.jpg
 title: CBD | Distillate
 category: Concentrate
-thc: 3
+thc: 2
 cbd: 85
 weights:
   - metric: kg
@@ -14,10 +14,18 @@ coa_link: elevated-trading-fsd-website.pdf
 details:
   description: CBD | Distillate
   info:
-    - label: Full Spectrum and T-Free available
+    - label: Around +/- 85% CBD; around +/- 5% to 15% minor cannabinoids (CBC, CBG,
+        CBN)
       items:
-        - item: Our distillate is extracted in a highly controlled environment to ensure
-            top tier quality. We offer full spectrum distillate containing the
-            highest levels of cannabinoids as well as T-Free that has been
-            refined to contain the lowest possible THC content.
+        - item: Elevated Trading's distillate is refined in a highly controlled
+            environment to ensure the highest quality on the market. Our
+            distillate has a golden to amber hue and the consistency of honey
+            when warmed. Most of the flavonoids and phytocannabinoids have been
+            removed leaving little adverse taste. This makes our distillate
+            optimal for products with mid to high levels of CBD concentration
+            without altering the flavor.
+    - label: "Recommended Use:"
+      items:
+        - item: Vape cartridges, Tinctures, Gummies, Chocolates, Caramels, and other
+            edible products where maintaining delicate flavors is important.
 ---
