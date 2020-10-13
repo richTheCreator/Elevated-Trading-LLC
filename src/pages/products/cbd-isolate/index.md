@@ -5,8 +5,8 @@ templateKey: product-details
 product_image: isolate_740x.jpg
 title: CBD | Isolate
 category: Concentrate
-thc: 99
-cbd: 0
+thc: 0
+cbd: 99
 weights:
   - metric: kg
     value: 1
