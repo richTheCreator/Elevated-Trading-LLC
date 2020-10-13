@@ -3,7 +3,7 @@ date: 2020-08-25T22:18:19.304Z
 meta_description: Elevated Trading CBG Full-Spectrum Oil (Crude)
 templateKey: product-details
 product_image: crude.jpg
-title: CBG | Full-Spectrum Oil
+title: CBG | Full-Spectrum Oil (Crude)
 category: Concentrate
 thc: 2
 cbd: 4
@@ -12,7 +12,7 @@ weights:
     value: 1
 coa_link: coa-placeholder.pdf
 details:
-  description: CBG Crude
+  description: Elevated Trading CBG Full-Spectrum Oil (Crude)
   info:
     - label: AROUND +/- 65% CBG; AROUND +/- 3% TO 6% MINOR CANNABINOIDS (CBC, CBD,
         CBN)
