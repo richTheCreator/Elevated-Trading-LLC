@@ -5,8 +5,8 @@ templateKey: product-details
 product_image: isolate_740x.jpg
 title: CBD | Isolate
 category: Concentrate
-thc: 0
-cbd: 84
+thc: 99
+cbd: 0
 weights:
   - metric: kg
     value: 1
@@ -14,12 +14,20 @@ coa_link: cbd-isolate-purity-test-website.pdf
 details:
   description: CBD | Isolate
   info:
-    - label: Elevated Trading CBD Isolate
+    - label: "99+% of CBD "
       items:
-        - item: "Our CBD Isolate is refined in a highly controlled environment and lab
-            tested to ensure top tier purity. Our consistent supply chain allows
-            us to offer fulfillment contracts and bulk discounts for qualifying
-            customers. "
+        - item: Isolate is the purest form of CBD available. CBD Isolate is a pure,
+            crystalline, flavorless pharmaceutical grade powder that is 99+%
+            pure CBD. This is the end result of the refining process once
+            everything has been removed except for the CBD molecules themselves.
+            Isolate is the only way to achieve true zero THC present end
+            products.
+    - label: "Recommended use:"
+      items:
+        - item: Isolate is useful for nearly every CBD product on the market when minor
+            cannabinoid and phytocannabinoid flavors are not desired. Products
+            where absolute zero THC can be present and ease of dosing are
+            important factors.
 ---
 
 CBD | Isolate
