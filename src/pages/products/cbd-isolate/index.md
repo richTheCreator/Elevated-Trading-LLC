@@ -17,17 +17,14 @@ details:
     - label: "99+% of CBD "
       items:
         - item: Isolate is the purest form of CBD available. CBD Isolate is a pure,
-            crystalline, flavorless pharmaceutical grade powder that is 99+%
+            crystalline, and flavorless pharmaceutical grade powder that is 99+%
             pure CBD. This is the end result of the refining process once
             everything has been removed except for the CBD molecules themselves.
             Isolate is the only way to achieve true zero THC present end
-            products.
-    - label: "Recommended use:"
-      items:
-        - item: Isolate is useful for nearly every CBD product on the market when minor
-            cannabinoid and phytocannabinoid flavors are not desired. Products
-            where absolute zero THC can be present and ease of dosing are
-            important factors.
+            products. Isolate is useful for nearly every CBD product on the
+            market when minor cannabinoid and phytocannabinoid flavors are not
+            desired. Isolate is optimal for products where absolute zero THC can
+            be present and ease of dosing are important factors.
 ---
 
 CBD | Isolate
