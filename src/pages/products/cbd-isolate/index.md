@@ -2,7 +2,7 @@
 date: 2020-08-25T22:10:20.237Z
 meta_description: Elevated Trading CBD Isolate
 templateKey: product-details
-product_image: isolate_740x.jpg
+product_image: isolate.jpeg
 title: CBD | Isolate
 category: Concentrate
 thc: 0
