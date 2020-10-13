@@ -2,7 +2,7 @@
 date: 2020-08-25T21:48:46.057Z
 meta_description: Elevated Trading CBD Full-Spectrum Oil (Crude)
 templateKey: product-details
-product_image: crude.jpg
+product_image: cbd18_square_cbd_global.jpg
 title: CBD | Full-Spectrum Oil (Crude)
 category: Concentrate
 thc: 2
