@@ -32,7 +32,7 @@ rogueValley:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
 etcValues:
-  heading: Elevating The Wholesale Hemp Market
+  heading: Elevating The Hemp Market
   description: >
     We formed Elevated Trading to address the unreliable supply chain issues
     that have plagued the wholesale CBD industry for years. We’re elevating the
