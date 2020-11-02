@@ -16,5 +16,15 @@ details:
   info:
     - label: Wholesale Delta 8 Vape Cartridge
       items:
-        - item: "****"
+        - item: We run our Delta 8 distillate for these wholesale Delta 8 vape cartridges
+            through a falling film filtration system to enhance flavor while
+            reducing the hemp flavor. This makes our wholesale Delta 8 vape
+            cartridges the best tasting cartridges on the market. We have the
+            customer testimonies to back it up! Our wholesale Delta 8 vape
+            cartridges have custom formulated, plant derived terpene flavor
+            profiles. This ensures that the strain specific flavors are
+            available for all of our wholesale Delta 8 vape cartridges. We do
+            NOT use cotton in our wholesale Delta 8 vape cartridges. Instead, we
+            use all ceramic coils. This gives longevity to the cartridge while
+            enhancing flavor.
 ---
