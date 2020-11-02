@@ -29,13 +29,13 @@ rogueValley:
     and responsible farming practices). Our greenhouse wholesale hemp flower is
     sourced from reputable growers across the country, and we put all of our
     farmers through rigorous testing protocols before pulling their products
-    into our portfolio. 
+    into our portfolio.
 
 
-    Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.  
+    Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.
 
 
-    Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading. 
+    Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading.
 
 
     Retail-Ready CBD products - Are you opening a CBD retail store? Thinking about bringing on a quality brand of products that you can trust? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic and value points for your CBD consumers. 
