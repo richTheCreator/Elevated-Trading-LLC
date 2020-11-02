@@ -3,7 +3,7 @@ date: 2020-11-02T16:37:58.648Z
 meta_description: Elevated Trading's wholesale Delta 8 Chocolates are the only...
 templateKey: product-details
 product_image: d8chocltndrk.jpg
-title: Wholesale Delta 8 Chocolates
+title: Delta 8 Chocolates
 category: Concentrate
 thc: 0
 cbd: 0
