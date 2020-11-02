@@ -23,17 +23,19 @@ products:
 rogueValley:
   heading: Experience Superior Quality
   description: >-
-    Wholesale Hemp Flower - Elevated Trading sources our wholesale hemp flower
-    exclusively from the Rogue Valley of Southern Oregon. Rogue Valley is
-    commonly referred to as the “Napa Valley of Hemp” due to the region’s
-    microclimate, soil quality, and responsible farming practices that unite to
-    create the highest quality, sun-grown hemp CBD flower. 
+    Wholesale Hemp Flower - Elevated Trading sources our sun-grown, wholesale
+    hemp flower from the Rogue Valley of Southern Oregon (often referred to as
+    the “Napa Valley of Hemp” due to the region’s microclimate, soil quality,
+    and responsible farming practices). Our greenhouse wholesale hemp flower is
+    sourced from reputable growers across the country, and we put all of our
+    farmers through rigorous testing protocols before pulling their products
+    into our portfolio.
 
 
-    Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.  
+    Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.
 
 
-    Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading. 
+    Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading.
 
 
     Retail-Ready CBD products - Are you opening a CBD retail store? Thinking about bringing on a quality brand of products that you can trust? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic and value points for your CBD consumers. 
@@ -67,12 +69,12 @@ farming:
   heading: Equity Driven Farms
   description: >-
     Let’s face it, without the cultivators putting in the hard work during the
-    grow season and choosing to grow hemp on their farms, the CBD industry would
-    not be possible. We’re passionate about delivering the highest value for our
-    customers while ensuring that Rogue Valley hemp cultivators are profitable
-    and able to reinvest for future harvests.
+    grow season and choosing to grow  our wholesale hemp flower on their farms,
+    the CBD industry would not be possible. We’re passionate about delivering
+    the highest value for our customers while ensuring that the farming
+    community is profitable for future harvests.
 
-    Elevated Trading has done the “leg work” and vetted farms extensively to form strategic partnerships with the premier grow operations and extraction facilities in Southern Oregon. Our customers are welcome to visit our farms and extraction facilities to see how much care and effort goes into maintaining a premium, compliant, and consistent portfolio of wholesale hemp products.
+    Elevated Trading has done the “leg work” and vetted farms extensively to form strategic partnerships with the premier grow operations and extraction facilities across the country. Our customers are welcome to visit our farms and extraction facilities to see how much care and effort goes into maintaining a premium, compliant, and consistent portfolio of wholesale hemp products.
   backgroundImg:
     alt: Wholesale Hemp Farmers
     image: /media/rogue_valley_hempfarm.jpg
