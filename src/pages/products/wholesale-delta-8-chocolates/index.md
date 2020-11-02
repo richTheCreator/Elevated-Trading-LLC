@@ -16,7 +16,8 @@ details:
   info:
     - label: Wholesale Delta 8 Chocolates
       items:
-        - item: Taste was important to us when we developed our wholesale Delta 8
+        - item: Our wholesale Delta 8 chocolates are vegan, non-GMO, Gluten free. Taste
+            was important to us when we developed our wholesale Delta 8
             chocolates. That is why we had a professionally trained chocolatier
             develop these delicious wholesale Delta 8 chocolates. They are
             infused with top quality Delta 8 distillate that leaves behind no
