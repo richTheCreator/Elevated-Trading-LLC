@@ -16,9 +16,9 @@ details:
   info:
     - label: Wholesale Delta 8 Vape Cartridge
       items:
-        - item: We run our Delta 8 distillate for these wholesale Delta 8 vape cartridges
+        - item: Our Delta 8 distillate for these wholesale Delta 8 vape cartridges is run
             through a falling film filtration system to enhance flavor while
-            reducing the hemp flavor. This makes our wholesale Delta 8 vape
+            reducing the hemp taste. This makes our wholesale Delta 8 vape
             cartridges the best tasting cartridges on the market. We have the
             customer testimonies to back it up! Our wholesale Delta 8 vape
             cartridges have custom formulated, plant derived terpene flavor
