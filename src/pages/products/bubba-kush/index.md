@@ -12,7 +12,24 @@ weights:
     value: 1
 coa_link: bubba-kush-shipping-coa.pdf
 details:
-  description: Testing the description area for additional text about the product.
+  description: >-
+    As an indica-dominant strain, the wholesale Bubba Kush CBD flower that we
+    offer is one of the most potent relaxation and calming strains on the market
+    today. This CBD flower is perfect when life gets overwhelming and you need
+    something that will relax and calm both the body and mind. Our wholesale
+    Bubba Kush has a skunky, earthy nose from the kush and has a subtle hint of
+    sweetness that makes it a powerhouse smoke when you wind down before bed.
+
+
+    Wholesale Bubba Kush CBD Flower Contains 15.89% CBD
+
+    Sun-grown Oregon CBD Flower
+
+    Hand Trimmed Buds
+
+    Lab Tested for Compliance and No Pesticides
+
+    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
   info:
     - label: Common Effects
       items:
