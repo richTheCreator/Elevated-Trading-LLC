@@ -12,7 +12,25 @@ weights:
     value: 1
 coa_link: t2-coa.pdf
 details:
-  description: Testing the description area for additional text about the product.
+  description: >-
+    Our wholesale T2 CBD flower is ideal for those users looking for an
+    energizing clear headed experience. Strong citrus notes, a clean earthy
+    finish, and a very smooth smoke are what you can expect from the wholesale
+    T1 flower. The cannabinoid profile on this flower is robust, and users will
+    be thrilled with the “entourage effect” that comes from smoking the
+    wholesale T1 flower. This strain makes a great daily smoke, and we include
+    this flower in a lot of our pre rolls because of the benefits against
+    anxiety and common daily stress.  
+     
+    Wholesale T2 CBD Flower Contains 15.89% CBD
+
+    Sun-grown Oregon CBD Flower
+
+    Hand Trimmed Buds
+
+    Lab Tested for Compliance and No Pesticides
+
+    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
   info:
     - label: Common Effects
       items:
