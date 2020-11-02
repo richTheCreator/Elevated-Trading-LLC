@@ -7,11 +7,14 @@ hero:
     image: /media/darkhemp.jpg
 products:
   heading: High Value, Fair Price
-  description: Elevated Trading is focused on delivering the highest quality
-    wholesale hemp products at a fair price to our customers, and we firmly
-    believe that strong, strategic partnerships with like-minded business owners
-    are the key to future success as the hemp/CBD industry matures. We look
-    forward to demonstrating how we can bring value to your business.
+  description: Elevated Trading supplies high quality, wholesale hemp products to
+    CBD manufacturers and CBD retailers across the United States. We’re
+    elevating the supply chain experience across the wholesale hemp industry. We
+    form deep, strategic relationships with our CBD customers to ensure you
+    receive value well beyond the transaction. If you’re searching for wholesale
+    hemp CBD flower, bulk CBD or CBG concentrates, Delta 8 products, or
+    shelf-ready retail CBD and Delta 8 products, contact us today to discuss the
+    wide selection of quality wholesale hemp products that we offer.
   productImages:
     - image: /media/hemp_flower.jpg
       alt: test
@@ -19,41 +22,47 @@ products:
       alt: test
 rogueValley:
   heading: Experience Superior Quality
-  description: >
-    Elevated Trading sources our wholesale hemp flower exclusively from the
-    Rogue Valley of Southern Oregon. Rogue Valley is commonly referred to as the
-    “Napa Valley of Hemp” due to the premium quality, sun-grown hemp
-    consistently delivered year after year. 
+  description: >-
+    Wholesale Hemp Flower - Elevated Trading sources our wholesale hemp flower
+    exclusively from the Rogue Valley of Southern Oregon. Rogue Valley is
+    commonly referred to as the “Napa Valley of Hemp” due to the region’s
+    microclimate, soil quality, and responsible farming practices that unite to
+    create the highest quality, sun-grown hemp CBD flower. 
 
-    The region’s unique microclimate, superior soil quality and responsible farming practices all unite to deliver a CBD product that simply outperforms other regions in the United States.
 
-    Through Elevated Trading's strategic partnerships, our CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
+    Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.  
+
+
+    Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading. 
+
+
+    Retail-Ready CBD products - Are you opening a CBD retail store? Thinking about bringing on a quality brand of products that you can trust? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic and value points for your CBD consumers. 
   backgroundImg:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
 etcValues:
   heading: Elevating The Wholesale Hemp Market
-  description: >
+  description: >-
     We formed Elevated Trading to address the unreliable supply chain issues
-    that have plagued the wholesale CBD industry for years. We’re elevating the
-    supply chain experience for our customers, and enabling our customers to
-    scale their business without friction in the supply chain. 
-
-    As an Elevated customer, you can focus on growing your customer base knowing we’re hard at work ensuring the highest quality and reliability of every wholesale hemp product that we supply for your business.
+    that have plagued the wholesale hemp industry for years. We’re removing
+    friction from your wholesale buying experience and elevating your profits by
+    helping you deliver more value to your CBD customers.
+     
+    With Elevated Trading on your team, you focus on growing your CBD business knowing we’re hard at work ensuring the highest quality, wholesale hemp products for your business. Contact us today to set up a free consultation with one of our CBD consultants.
   peeksImage: /media/mountain_peeks.png
   backgroundImg: /media/Rouge_Valley_Hemp.jpg
   values:
     - value: Quality
       description: All of our wholesale hemp products are 3rd party tested multiple
-        times throughout the supply chain, and we supply certified COAs and
-        documentation with every order.
+        times throughout the supply chain, and we supply certified COAs with
+        every order.
     - value: Reliability
       description: Orders are shipped within 24-48 hours of payment, and we stand
         behind every wholesale hemp product that we sell. If you’re not happy,
         we fix it.
     - value: Integrity
       description: If we tell you that we can deliver a wholesale hemp product or
-        service for your business, we will make it happen. Period.
+        service for your CBD business, we will make it happen. Period.
 farming:
   heading: Equity Driven Farms
   description: >-
