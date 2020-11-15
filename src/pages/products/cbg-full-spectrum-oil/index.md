@@ -2,7 +2,7 @@
 date: 2020-08-25T22:18:19.304Z
 meta_description: Elevated Trading CBG Full-Spectrum Oil (Crude)
 templateKey: product-details
-product_image: cbd18_square_cbd_global.jpg
+product_image: crude.jpg
 title: CBG | Full-Spectrum Oil (Crude)
 category: Concentrate
 thc: 2
