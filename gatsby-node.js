@@ -21,6 +21,7 @@ exports.createPages = ({ actions, graphql }) => {
             }
             frontmatter {
               templateKey
+              blogTags
             }
           }
         }
@@ -48,29 +49,29 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // // Tag pages:
-    // let tags = []
-    // // Iterate through each post, putting all found tags into `tags`
-    // posts.forEach(edge => {
-    //   if (_.get(edge, 'node.frontmatter.tags')) {
-    //     tags = tags.concat(edge.node.frontmatter.tags)
-    //   }
-    // })
-    // // Eliminate duplicate tags
-    // tags = _.uniq(tags)
+    // Tag pages:
+    let tags = []
+    // Iterate through each post, putting all found tags into `tags`
+    posts.forEach(edge => {
+      if (_.get(edge, 'node.frontmatter.blogTags')) {
+        console.log('tags -------------------------', edge.node.frontmatter.blogTags)
+        tags = [...tags, ...edge.node.frontmatter.blogTags]
+      }
+    })
+    // Eliminate duplicate tags
+    tags = _.uniq(tags)
 
-    // // Make tag pages
-    // tags.forEach(tag => {
-    //   const tagPath = `/tags/${_.kebabCase(tag)}/`
-
-    //   createPage({
-    //     path: tagPath,
-    //     component: path.resolve('src/templates/tags.js'),
-    //     context: {
-    //       tag
-    //     }
-    //   })
-    // })
+    // Make tag pages
+    tags.forEach(tag => {
+      const tagPath = `blog/tags/${_.kebabCase(tag)}/`
+      createPage({
+        path: tagPath,
+        component: path.resolve('src/templates/blog-tags.js'),
+        context: {
+          tag
+        }
+      })
+    })
   })
 }
 

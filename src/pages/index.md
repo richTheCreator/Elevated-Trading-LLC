@@ -31,12 +31,9 @@ rogueValley:
     farmers through rigorous testing protocols before pulling their products
     into our portfolio.
 
-
     Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.
 
-
     Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading.
-
 
     Retail-Ready CBD products - Are you opening a CBD retail store? Thinking about bringing on a quality brand of products that you can trust? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic and value points for your CBD consumers. 
   backgroundImg:
@@ -49,7 +46,7 @@ etcValues:
     that have plagued the wholesale hemp industry for years. We’re removing
     friction from your wholesale buying experience and elevating your profits by
     helping you deliver more value to your CBD customers.
-     
+    
     With Elevated Trading on your team, you focus on growing your CBD business knowing we’re hard at work ensuring the highest quality, wholesale hemp products for your business. Contact us today to set up a free consultation with one of our CBD consultants.
   peeksImage: /media/mountain_peeks.png
   backgroundImg: /media/Rouge_Valley_Hemp.jpg

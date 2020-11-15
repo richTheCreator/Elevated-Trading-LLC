@@ -1,7 +1,7 @@
 import React, { useState, useRef } from 'react'
 import { Link, navigate } from 'gatsby'
 import { Row, Col } from 'react-flexbox-grid'
-import AniLink from 'gatsby-plugin-transition-link/AniLink'
+// import Link from 'gatsby-plugin-transition-link/Link'
 import { useSpring, useTransition, useChain, animated } from 'react-spring'
 import { justifyContent, fontSize, fontWeight } from 'styled-system'
 import { Body2 } from '../components/Typography'
@@ -35,18 +35,31 @@ const InfoBanner = styled.div`
   overflow-y: hidden;
   white-space: nowrap;
 `
-const LinkStyle = styled(AniLink)`
+const LinkStyle = styled.a`
   ${fontSize}
   ${fontWeight}
   vertical-align: middle;
   display: table-cell;
   height: 55px;
   padding: 0px 24px;
+  cursor:pointer;
   text-decoration: none;
   color: ${(props) => props.theme.colors.black};
   letter-spacing: ${(props) => props.theme.letterSpacings[8]};
 `
-const SmallButton = styled(Link)`
+const LinkTo = styled(Link)`
+  ${fontSize}
+  ${fontWeight}
+  vertical-align: middle;
+  display: table-cell;
+  height: 55px;
+  padding: 0px 24px;
+  cursor:pointer;
+  text-decoration: none;
+  color: ${(props) => props.theme.colors.black};
+  letter-spacing: ${(props) => props.theme.letterSpacings[8]};
+`
+const SmallButton = styled.a`
   text-decoration: none;
   border-radius: 15px;
   background: ${(props) => props.theme.colors.sage};
@@ -78,15 +91,15 @@ const MenuList = styled(Col)`
   background: ${(props) => props.theme.colors.white};
 `
 
-function makeClassComponent(WrappedComponent) {
+function makeClassComponent (WrappedComponent) {
   return class extends React.Component {
-    render() {
+    render () {
       return <WrappedComponent {...this.props} />
     }
   }
 }
 
-const mailTo = `mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company`
+const mailTo = 'mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company'
 
 const sendEmail = (e) => {
   e.preventDefault()
@@ -94,9 +107,9 @@ const sendEmail = (e) => {
 }
 
 const AnimatedMenu = animated(makeClassComponent(MenuList))
-const AnimatedLink = animated(makeClassComponent(LinkStyle))
+const AnimatedLink = LinkStyle
 
-const NavbarLG = ({ menuLinks, theme }) => (
+const NavbarLG = ({ menuLinks, theme, menuClick }) => (
   <Row
     className='hidden-xs hidden-sm hidden-md'
     middle='xs'
@@ -108,25 +121,23 @@ const NavbarLG = ({ menuLinks, theme }) => (
     }}
   >
     <Col xs={1} style={{ alignItems: 'center' }}>
-      <AniLink cover bg='#727A68' direction='up' to='/' title='Logo'>
+      <Link cover bg='#727A68' direction='up' to='/' title='Logo'>
         <StyledLogo />
-      </AniLink>
+      </Link>
     </Col>
     <Col xs={11} style={{ padding: '0px 16px' }}>
       <Row middle='xs' center='xs'>
         {menuLinks.map((navItems) =>
           navItems.name !== 'Home' ? (
             <Row style={{ display: 'table' }}>
-              <LinkStyle
+              <LinkTo
                 cover
-                bg='#727A68'
-                direction='up'
                 fontSize={2}
                 fontWeight={2}
                 to={navItems.link}
               >
                 {navItems.name}
-              </LinkStyle>
+              </LinkTo>
             </Row>
           ) : null
         )}
@@ -168,9 +179,9 @@ const NavbarSM = ({ menuLinks, toggleMenu }) => (
       }}
       xs={10}
     >
-      <AniLink cover bg='#727A68' direction='up' to='/' title='Logo'>
+      <Link cover bg='#727A68' direction='up' to='/' title='Logo'>
         <StyledLogo />
-      </AniLink>
+      </Link>
     </Col>
   </Row>
 )
@@ -183,6 +194,8 @@ const Navbar = ({ menuLinks }) => {
 
   const menuClick = (e, to) => {
     e.preventDefault()
+    navigate(to)
+
     setTimeout(() => {
       toggleMenu()
     }, 500)
@@ -222,7 +235,7 @@ const Navbar = ({ menuLinks }) => {
         </Body2>
       </InfoBanner>
       <NavSection style={{ height: '75px' }}>
-        <NavbarLG menuLinks={menuLinks} />
+        <NavbarLG menuLinks={menuLinks} menuClick={menuClick}/>
         <NavbarSM menuLinks={menuLinks} toggleMenu={toggleMenu} />
       </NavSection>
       <AnimatedMenu
@@ -234,7 +247,7 @@ const Navbar = ({ menuLinks }) => {
       >
         {transitions.map(({ item, key, props }) => (
           <Row style={{ display: 'table', margin: '24px 0' }}>
-            <AnimatedLink
+            <LinkStyle
               cover
               bg='#727A68'
               direction='up'
@@ -242,11 +255,11 @@ const Navbar = ({ menuLinks }) => {
               fontWeight={3}
               key={key}
               style={props}
-              to={item.link}
+              // to={item.link}
               onClick={(e) => menuClick(e, item.link)}
             >
               {item.name}
-            </AnimatedLink>
+            </LinkStyle>
           </Row>
         ))}
       </AnimatedMenu>

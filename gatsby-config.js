@@ -40,6 +40,10 @@ module.exports = {
       {
         name: 'POLICIES',
         link: '/policies'
+      },
+      {
+        name: 'BLOG',
+        link: '/blog'
       }
     ]
   },
@@ -54,7 +58,6 @@ module.exports = {
         // other options
       }
     },
-    'gatsby-plugin-transition-link',
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',

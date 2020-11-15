@@ -39,7 +39,7 @@ export const pageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 80) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -52,7 +52,7 @@ export const pageQuery = graphql`
           productImages {
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 80) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -67,7 +67,7 @@ export const pageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 80) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -83,7 +83,7 @@ export const pageQuery = graphql`
           }
           peeksImage {
             childImageSharp {
-              fluid(maxWidth: 600, quality: 100) {
+              fluid(maxWidth: 600, quality: 80) {
                 ...GatsbyImageSharpFluid_withWebp
               }
             }
@@ -96,7 +96,7 @@ export const pageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 80) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -110,7 +110,7 @@ export const pageQuery = graphql`
             alt
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 80) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }
@@ -119,7 +119,7 @@ export const pageQuery = graphql`
           supplyImages {
             image {
               childImageSharp {
-                fluid(maxWidth: 800, quality: 100) {
+                fluid(maxWidth: 800, quality: 80) {
                   ...GatsbyImageSharpFluid_withWebp
                 }
               }

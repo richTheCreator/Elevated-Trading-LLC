@@ -30,7 +30,7 @@ export const GlobalStyle = createGlobalStyle`
     font-size: ${theme.fontSizes[11]};
     font-weight: ${theme.fontWeights[2]};
     color: ${theme.colors.black};
-    line-height: ${theme.lineHeights[9]};
+    line-height: ${theme.lineHeights[7]};
     letter-spacing: ${theme.letterSpacings[0]};
     font-family: ${theme.fonts.sans}
   }
@@ -123,5 +123,19 @@ export const GlobalStyle = createGlobalStyle`
 
   .PDP-Description p{
     margin: 16px 0px
+  }
+  .Blog-Description p{
+    margin: 16px 0px
+  }
+  .Blog-Description *{
+    color: ${theme.colors.ivory}
+  }
+  .Blog-Description p span {
+    width: 100%;
+    margin-top:32px;
+    margin-bottom:32px;
+    max-width: 100% !important;
+    margin-left: 0px !important;
+    margin-right: 0px !important;
   }
 `

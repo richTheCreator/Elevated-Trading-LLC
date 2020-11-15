@@ -1,8 +1,8 @@
 import React from 'react'
 import { Row, Col } from 'react-flexbox-grid'
 import { Link } from 'gatsby'
-import AniLink from 'gatsby-plugin-transition-link/AniLink'
-import { Body1, formattedDescription, Heading5 } from '../Typography'
+// import Link from 'gatsby-plugin-transition-link/Link'
+import { Heading5 } from '../Typography'
 import {
   ProductImage,
   BaseBorder,
@@ -21,7 +21,7 @@ const ProductCard = ({
 }) => {
   return (
     <Col>
-      <AniLink
+      <Link
         cover
         bg='#727A68'
         direction='down'
@@ -72,7 +72,7 @@ const ProductCard = ({
             </LogoContainer>
           </InfoContainer>
         </Wrapper>
-      </AniLink>
+      </Link>
     </Col>
   )
 }

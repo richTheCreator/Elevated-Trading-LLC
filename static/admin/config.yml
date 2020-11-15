@@ -47,7 +47,8 @@ collections:
           name: 'category',
           widget: 'select',
           multiple: false,
-          options: ['Flower', 'Concentrate'],
+          options:
+            ['Flower', 'Concentrate', 'Edible', 'Vape', 'Tincture', 'Smokable'],
           required: true,
           default: 'Flower',
         }
@@ -192,7 +193,7 @@ collections:
                     label: 'Values',
                     name: 'values',
                     widget: 'list',
-                    allow_add: 'false',
+                    allow_add: false,
                     fields:
                       [
                         { label: 'Value', name: 'value', widget: 'string' },
@@ -432,6 +433,64 @@ collections:
               fields: [{ label: 'Heading', name: 'heading', widget: 'string' }],
             }
           - { label: 'Body', name: 'body', widget: 'markdown' }
+  - name: 'blog'
+    label: 'Blog'
+    folder: 'src/pages/blog'
+    label_singular: 'Blog'
+    create: true
+    editor:
+      preview: false
+    slug: '{{slug}}'
+    path: '{{slug}}/index'
+    media_folder: ''
+    public_folder: ''
+    preview_path: 'blog/{{slug}}/index'
+    fields:
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - {
+          label: 'Meta Description',
+          name: 'meta_description',
+          widget: 'string',
+          required: true,
+        }
+      - {
+          label: 'Template Key',
+          name: 'templateKey',
+          widget: 'hidden',
+          default: 'blog-post',
+        }
+      - {
+          label: 'Product Image',
+          name: 'product_image',
+          widget: 'image',
+          required: true,
+        }
+      - { label: 'Title', name: 'title', widget: 'string', required: true }
+      - {
+          label: 'Topics',
+          name: 'blogTags',
+          widget: 'select',
+          multiple: true,
+          options:
+            [
+              'CBD',
+              'Concentrate',
+              'Hemp Flower',
+              'Retail',
+              'Manufacturing',
+              'Delta 8',
+              'Legal',
+            ],
+          required: true,
+          default: 'CBD',
+        }
+      - {
+          label: 'Featured',
+          name: 'is_featured',
+          widget: 'boolean',
+          default: false,
+        }
+      - { label: 'Content', name: 'body', widget: 'markdown' }
 #  - name: 'blog'
 #     label: 'Blog'
 #     folder: 'src/pages/blog'

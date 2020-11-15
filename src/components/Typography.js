@@ -8,6 +8,7 @@ const textStyles = [
   'fontWeight',
   'fontStyle',
   'color',
+  'border',
   'lineHeight',
   'letterSpacing',
   'space',
@@ -217,9 +218,9 @@ const ListItemSquare = styled.li`
 
 export const formattedDescription = (description) => {
   return description
-    .split(`\n\n`)
-    .map((paragraph) => `${paragraph.replace(/\n/g, `<br> <br>`)}`)
-    .join(``)
+    .split('\n\n')
+    .map((paragraph) => `${paragraph.replace(/\n/g, '<br> <br>')}`)
+    .join('')
 }
 
 export const WithDecorator = ({ bodyText, bodyColor, decoratorColor }) => (

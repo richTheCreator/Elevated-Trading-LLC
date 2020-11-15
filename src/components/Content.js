@@ -6,8 +6,8 @@ export const HTMLContent = ({ content, className }) => (
   <div dangerouslySetInnerHTML={{ __html: content }} />
 )
 
-const Content = ({ content, className }) => (
-  <Col className={className}>{content}</Col>
+const Content = ({ content, className, color }) => (
+  <Col className={className} style={{ color: color }}>{content}</Col>
 )
 
 Content.propTypes = {
