@@ -1,6 +1,7 @@
 import React, { useState, useRef } from 'react'
 import { Link, navigate } from 'gatsby'
 import { Row, Col } from 'react-flexbox-grid'
+import { Flex, Box } from 'reflexbox/styled-components'
 // import Link from 'gatsby-plugin-transition-link/Link'
 import { useSpring, useTransition, useChain, animated } from 'react-spring'
 import { justifyContent, fontSize, fontWeight } from 'styled-system'
@@ -30,7 +31,8 @@ const InfoBanner = styled.div`
   width: auto;
   display: flex;
   padding: 0px 32px;
-  background: ${(props) => props.theme.colors.midnight};
+  background-color: #727a68;
+  background-image: linear-gradient(315deg, #727a68 0%, #242221 74%);
   align-items: center;
   overflow-y: hidden;
   white-space: nowrap;
@@ -110,15 +112,11 @@ const AnimatedMenu = animated(makeClassComponent(MenuList))
 const AnimatedLink = LinkStyle
 
 const NavbarLG = ({ menuLinks, theme, menuClick }) => (
-  <Row
-    className='hidden-xs hidden-sm hidden-md'
-    middle='xs'
-    style={{
-      height: '100%',
-      width: '100%',
-      maxWidth: '1200px',
-      margin: 'auto'
-    }}
+  <Box
+    width={1}
+    display={['none', 'none', 'none', 'flex']}
+    maxWidth='1200px'
+    m='auto'
   >
     <Col xs={1} style={{ alignItems: 'center' }}>
       <Link cover bg='#727A68' direction='up' to='/' title='Logo'>
@@ -144,13 +142,14 @@ const NavbarLG = ({ menuLinks, theme, menuClick }) => (
         <SmallButton onClick={(e) => sendEmail(e)}> CONTACT US </SmallButton>
       </Row>
     </Col>
-  </Row>
+  </Box>
 )
 const NavbarSM = ({ menuLinks, toggleMenu }) => (
-  <Row
-    style={{ height: '100%', width: '100%' }}
-    className='hidden-xl hidden-lg'
-    middle='xs'
+  <Box
+    width={1}
+    flexDirection={'row'}
+    display={['flex', 'flex', 'flex', 'none']}
+    alignItems='center'
   >
     <Col>
       <Row around='xs'>
@@ -183,7 +182,7 @@ const NavbarSM = ({ menuLinks, toggleMenu }) => (
         <StyledLogo />
       </Link>
     </Col>
-  </Row>
+  </Box>
 )
 
 const Navbar = ({ menuLinks }) => {
@@ -228,12 +227,13 @@ const Navbar = ({ menuLinks }) => {
 
   return (
     <NavWrapper>
-      <InfoBanner justifyContent='center'>
-        <Body2 textAlign='center' color='white'>
-          {' '}
-          New hemp starter kit - now available{' '}
-        </Body2>
-      </InfoBanner>
+      <Link to={'/starter-kit'} style={{ textDecoration: 'none' }}>
+        <InfoBanner justifyContent='center'>
+          <Body2 textAlign='center' color='white' style={{ textDecoration: 'underline' }}>
+            New hemp starter kit - now available →
+          </Body2>
+        </InfoBanner>
+      </Link>
       <NavSection style={{ height: '75px' }}>
         <NavbarLG menuLinks={menuLinks} menuClick={menuClick}/>
         <NavbarSM menuLinks={menuLinks} toggleMenu={toggleMenu} />
