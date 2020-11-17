@@ -14,8 +14,7 @@ coa_link: winterized-crude-coa-website.pdf
 details:
   description: CBD | Full-Spectrum Oil (Crude)
   info:
-    - label: Around +/- 65% CBD; around +/- 3% to 6% minor cannabinoids (CBC, CBG,
-        CBN)
+    - label: Around 65% CBD - around 3% to 6% minor cannabinoids (CBC, CBG, CBN)
       items:
         - item: Crude refers to the base product produced after the initial extraction
             process. This is the most accurate representation of the plant
