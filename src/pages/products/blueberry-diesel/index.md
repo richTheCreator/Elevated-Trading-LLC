@@ -12,5 +12,21 @@ weights:
     value: 1
 coa_link: blueberry-diesel-hemp-flower-1-.pdf
 details:
-  description: TBD
+  description: Coming Soon!
+  info:
+    - label: Common Effects
+      items:
+        - item: "Calming "
+        - item: Energizing
+        - item: Uplifting
+    - label: Flavor Profile
+      items:
+        - item: Fruity
+        - item: Herbal
+        - item: Gas
+    - label: Dominant Terpenes
+      items:
+        - item: Myrcene
+        - item: Caryophyllene
+        - item: Ocimene
 ---
