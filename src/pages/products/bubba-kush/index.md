@@ -10,6 +10,10 @@ cbd: 15.83
 weights:
   - metric: lb
     value: 1
+  - metric: lb
+    value: 5
+  - metric: lb
+    value: 20
 coa_link: bubba-kush-shipping-coa.pdf
 details:
   description: >-
