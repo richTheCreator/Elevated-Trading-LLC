@@ -10,6 +10,10 @@ cbd: 16.9
 weights:
   - metric: lb
     value: 1
+  - metric: lb
+    value: 5
+  - metric: lb
+    value: 20
 coa_link: blueberry-diesel-hemp-flower-1-.pdf
 details:
   description: Coming Soon!
