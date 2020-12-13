@@ -10,6 +10,10 @@ cbd: 8
 weights:
   - metric: lb
     value: 1
+  - metric: lb
+    value: 5
+  - metric: lb
+    value: 20
 coa_link: cbg-flower.pdf
 details:
   description: "This bright white CBG strain is the perfect nighttime smoke when
