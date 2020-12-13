@@ -2,11 +2,11 @@
 date: 2020-08-24T23:07:59.226Z
 meta_description: "Elevated Trading CBD Hemp Flower: Bubba Kush"
 templateKey: product-details
-product_image: bubba-kush.jpg
+product_image: img_0031.jpg
 title: Bubba Kush
 category: Flower
-thc: 0.06
-cbd: 16
+thc: 0.2
+cbd: 15.83
 weights:
   - metric: lb
     value: 1
@@ -21,7 +21,7 @@ details:
     sweetness that makes it a powerhouse smoke when you wind down before bed.
 
 
-    Wholesale Bubba Kush CBD Flower Contains 15.89% CBD
+    Wholesale Bubba Kush CBD Flower Contains 15.83% CBD
 
     Sun-grown Oregon CBD Flower
 
