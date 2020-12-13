@@ -10,6 +10,10 @@ cbd: 17.8
 weights:
   - metric: lb
     value: 1
+  - metric: lb
+    value: 5
+  - metric: lb
+    value: 20
 coa_link: sour-sauce-hemp-flower.pdf
 details:
   description: "Sour Sauce is a hybrid with a sweet and sour taste and aroma that
