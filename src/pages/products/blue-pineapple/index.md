@@ -9,7 +9,7 @@ thc: 0.28
 cbd: 13.01
 weights:
   - metric: lb
-    value: -2
+    value: 1
 coa_link: blue-pineapple-hemp-flower.pdf
 details:
   description: >
