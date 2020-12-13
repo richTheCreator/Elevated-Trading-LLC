@@ -2,16 +2,18 @@
 date: 2020-08-24T18:25:04.678Z
 meta_description: "Elevated Trading CBD Hemp Flower: Lifter"
 templateKey: product-details
-product_image: dsc08548.jpg
+product_image: img_0116.jpg
 title: Lifter
 category: Flower
 thc: 0.023
-cbd: 16.548
+cbd: 14.83
 weights:
   - metric: lb
     value: 1
   - metric: lb
     value: 5
+  - metric: lb
+    value: 20
 coa_link: lifter-coa.pdf
 details:
   description: >-
@@ -21,7 +23,7 @@ details:
     makes our wholesale Lifter a great day time smoke. This is a high
     CBD,  terpene-rich strain and one of our top sellers.
      
-    Wholesale Lifter CBD Flower Contains 15.89% CBD
+    Wholesale Lifter CBD Flower Contains 14.83% CBD
 
     Sun-Grown Oregon CBD Flower
 
