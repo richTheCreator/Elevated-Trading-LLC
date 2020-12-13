@@ -6,7 +6,7 @@ product_image: img_0062.jpg
 title: CBG White
 category: Flower
 thc: 0.08
-cbd: 8
+cbd: 11.82
 weights:
   - metric: lb
     value: 1
