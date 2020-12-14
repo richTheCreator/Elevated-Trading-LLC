@@ -39,10 +39,8 @@ For retailers, it’s crucial to buy delta-8 distillate from a reputable vendor 
 
 **Elevated Trading Insider Tip:** Always ask to see the product’s Certificate of Analysis (COA). A COA is an official report from an unbiased third-party lab that has analyzed the product. **Retailers should refuse to buy any hemp-derived product from a company that won’t provide third-party lab results.**
 
-The percentage of delta-8 in the product
-
+* The percentage of delta-8 in the product
 * If any, the amount of THC in the product
-* The number of other cannabinoids
-* Any contaminants like pesticides, heavy metals, or residual solvents
+* The concentration of other cannabinoids
 
 Find a vendor that produces high-quality delta-8 distillate with a fair price. While there is an abundance of companies to choose from, choose a supplier you can trust. Elevate.
