@@ -27,15 +27,11 @@ rogueValley:
     hemp flower from the Rogue Valley of Southern Oregon (often referred to as
     the “Napa Valley of Hemp” due to the region’s microclimate, soil quality,
     and responsible farming practices). Our greenhouse wholesale hemp flower is
-    sourced from reputable growers across the country, and we put all of our
-    farmers through rigorous testing protocols before pulling their products
-    into our portfolio.
+    sourced from reputable growers across the country.
 
-    Wholesale CBD Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale CBD/CBG/CBN concentrate that you need, we can source it at a fair market price - guaranteed.
+    Wholesale Concentrates - Our wholesale CBD concentrates are sourced from well-established, premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. If there is a wholesale Delta 8/CBD/CBG/CBN/etc. concentrate that you need, we can source it at a fair market price - guaranteed.
 
-    Wholesale Delta 8 - All of the wholesale Delta 8 concentrates and products that we sell are guaranteed compliant and our labs stand behind their manufacturing practices with a money-back guarantee. Feel confident in your supplier - choose Elevated Trading.
-
-    Retail-Ready CBD products - Are you opening a CBD retail store? Thinking about bringing on a quality brand of products that you can trust? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic and value points for your CBD consumers. 
+    Retail-Ready CBD products - Are you opening a CBD retail store? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic and value points for your CBD consumers. 
   backgroundImg:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
@@ -129,11 +125,11 @@ subscription:
         predictable profit margins for your stores.
       value: Predictable Projections
 shipping:
-  description: "Orders are shipped within 24-48 hours of payment via USPS (with
-    tracking). All of our hemp flower is vacuum-sealed in TerpeneFresh bags
-    which are specifically designed to lock in the freshness and maintain
-    terpene quality of hemp flower, and we take it one step further to include a
-    humidity pack in each bag to maintain optimal conditions for the flower
-    during transit. We stand behind all of our products with a delivery and
-    satisfaction guarantee. "
+  description: "Orders are shipped within 24-48 hours of payment (with tracking).
+    All of our hemp flower is vacuum-sealed in TerpeneFresh bags which are
+    specifically designed to lock in the freshness and maintain terpene quality
+    of hemp flower, and we take it one step further to include a humidity pack
+    in each bag to maintain optimal conditions for the flower during transit. We
+    stand behind all of our products with a delivery and satisfaction guarantee.
+    "
 ---
