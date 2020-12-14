@@ -16,7 +16,7 @@ Cannabidiol (CBD) and delta-9 tetrahydrocannabinol (THC) are the two rich cannab
 
 **What is Delta 8?**
 
-Delta-8 is an isomer of delta-9 THC. Typical cannabis plants can have THC levels reaching above 40 percent, whereas delta-8 THC levels remain less than 1 percent. Certainly not a new kid on the block, delta 8 has recently fueled-up the retail side of the hemp industry. When hemp derived, it’s legal, prevalent, therapeutic — and now — widely accessible.
+Delta-8 is an isomer of delta-9 THC. Typical cannabis plants can have THC levels reaching above 20 percent, whereas delta-8 THC levels remain significantly less than 1 percent (trace amounts). Certainly not a new kid on the block, delta-8 has recently fueled-up the retail side of the hemp industry. When hemp derived, it’s legal, prevalent, therapeutic — and now — widely accessible.
 
 Consumers can find delta-8 products in many of the same forms as CBD products, including:
 
@@ -45,10 +45,4 @@ The percentage of delta-8 in the product
 * The number of other cannabinoids
 * Any contaminants like pesticides, heavy metals, or residual solvents
 
-**Identifying Safe Delta-8 Products**
-
-Recently reports surfaced that brands were selling contaminated delta-8 products. Claims were made that naturally rose color delta-8 distillate were bleached to appease to consumers who sought clear distillate products — often a sign of quality for distillates.
-
-While it is unclear whether the claims are valid, it is important to identify safe delta-8 products before purchase. ALWAYS make sure the COA is free of heavy metals residual solvents to ensure safety and purity. A proper lab test will show ‘ND’ for non-detected in all categories.
-
-Retailers should find a vendor that produces high-quality delta-8 distillate with a fair price — worth the cost. While there is an abundance of companies to choose from, choose a supplier you can trust. Elevate.
+Find a vendor that produces high-quality delta-8 distillate with a fair price. While there is an abundance of companies to choose from, choose a supplier you can trust. Elevate.
