@@ -24,7 +24,6 @@ details:
     Bubba Kush has a skunky, earthy nose from the kush and has a subtle hint of
     sweetness that makes it a powerhouse smoke when you wind down before bed.
 
-
     Wholesale Bubba Kush CBD Flower Contains 15.83% CBD
 
     Sun-grown Oregon CBD Flower

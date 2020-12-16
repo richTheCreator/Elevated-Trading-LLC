@@ -1,6 +1,6 @@
 import React from 'react'
 import { Row, Col } from 'react-flexbox-grid'
-import { Heading6, Body2 } from '../../../components/Typography'
+import { Heading6, Body2, Body1, formattedDescription } from '../../../components/Typography'
 import { SectionMax, SectionWrapper } from '../../../components/Containers'
 import { ValueText, Title } from './styles'
 
@@ -12,6 +12,15 @@ const Description = ({ details }) => {
           <Title mb={3} mt={0}>
             Description
           </Title>
+          {details.description &&
+             <Body1
+               dangerouslySetInnerHTML={{
+                 __html: formattedDescription(details.description)
+               }}
+               textAlign='left'
+               color={'ivory'}
+             />
+          }
         </Col>
         <Row style={{ width: '100%' }}>
           {details &&
