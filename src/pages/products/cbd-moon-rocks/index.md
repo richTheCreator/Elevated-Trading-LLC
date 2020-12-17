@@ -6,19 +6,28 @@ product_image: img_0673.jpg
 title: Delta 8 Moon Rocks
 category: Flower
 thc: 0.2
-cbd: 15
+cbd: 24.7
 weights:
   - metric: lb
     value: 1
 coa_link: blue-pineapple-hemp-flower.pdf
 details:
-  info:
-    - label: Delta 8 Infused Moon Rocks
-      items:
-        - item: Our wholesale Delta 8 Moon Rocks are made from our Bubba Kush, Lifter,
-            Special Sauce and Sour Sour Space Candy strains. We coat our buds
-            with crystal clear Delta 8 distillate and rolled them in CBG
-            kief.  This takes their total cannabinoid content up to 35% with the
-            added effects from our Delta 8 distillate.
-  description: Coming soon!
+  info: []
+  description: >-
+    Hand selected hemp flower coated in D8 extract with our solvent-free
+    operating system. These dense, sitcky buds are then heavily rolled through
+    our dry extracted CBG kief. The result is out of this world! A thick, golden
+    dusted outer surface harmonizes with the D8 and qulaity flower to create a
+    full spectrum experience.
+
+
+    Wholesale Moon Rocks contain 24.7% Total Cannabinoids
+
+    Sun-grown Oregon CBD Flower
+
+    Hand Trimmed Buds
+
+    Lab Tested for Compliance and No Pesticides
+
+    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
 ---
