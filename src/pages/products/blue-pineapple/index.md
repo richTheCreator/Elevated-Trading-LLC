@@ -16,9 +16,21 @@ weights:
     value: 20
 coa_link: blue-pineapple-hemp-flower.pdf
 details:
-  description: "Top shelf exotic hemp flower. This sativa is perfect for daytime
-    use. It is regarded by some for possibly boosting focus and having pain
-    relief properties. This is one of our most unique offerings this season. "
+  description: >-
+    Top shelf exotic hemp flower. This sativa is perfect for daytime use. It is
+    regarded by some for possibly boosting focus and having pain relief
+    properties. This is one of our most unique offerings this season. 
+
+
+    Wholesale Blue Pineapple CBD Flower Contains 13.01% CBD
+
+    Sun-grown Oregon CBD Flower
+
+    Hand Trimmed Buds
+
+    Lab Tested for Compliance and No Pesticides
+
+    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
   info:
     - label: Common Effects
       items:
