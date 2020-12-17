@@ -6,7 +6,7 @@ product_image: img_0158.jpg
 title: Delta 8 Infused Flower
 category: Flower
 thc: 0.2
-cbd: 24.7
+cbd: 24.71
 weights:
   - metric: lb
     value: 1
