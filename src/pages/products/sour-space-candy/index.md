@@ -24,7 +24,7 @@ details:
     afternoon smoke to clear the stress of the day.  
 
 
-    Wholesale Sour Space Candy CBD Flower Contains 15.89% CBD
+    Wholesale Sour Space Candy CBD Flower Contains 15.87% CBD
 
     Sun-grown Oregon CBD Flower
 
