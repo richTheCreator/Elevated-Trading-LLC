@@ -12,20 +12,12 @@ weights:
     value: 1
 coa_link: winterized-crude-coa-website.pdf
 details:
-  description: CBD | Full-Spectrum Oil (Crude)
-  info:
-    - label: Around 65% CBD - around 3% to 6% minor cannabinoids (CBC, CBG, CBN)
-      items:
-        - item: Crude refers to the base product produced after the initial extraction
-            process. This is the most accurate representation of the plant
-            material post extraction. This "crude" oil still contains
-            Chlorophyll, terpenes, flavonoids, and phytocannabinoids giving it a
-            dark green to black hue. Once added to products it will transfer a
-            brown to green coloration to the finished product. Crude is optimal
-            for products that require a low price point where protecting flavor
-            is not a concern. We recommend using in gel caps, pain creams,
-            lotion, topicals, and tinctures where the natural flavors of the
-            plant are encouraged.
+  description: >-
+    Around 65% CBD - around 3% to 6% minor cannabinoids (CBC, CBG, CBN)
+
+
+    Crude refers to the base product produced after the initial extraction process. This is the most accurate representation of the plant material post extraction. This "crude" oil still contains Chlorophyll, terpenes, flavonoids, and phytocannabinoids giving it a dark green to black hue. Once added to products it will transfer a brown to green coloration to the finished product. Crude is optimal for products that require a low price point where protecting flavor is not a concern. We recommend using in gel caps, pain creams, lotion, topicals, and tinctures where the natural flavors of the plant are encouraged.
+  info: []
 ---
 
 CBD | Full-Spectrum Oil
