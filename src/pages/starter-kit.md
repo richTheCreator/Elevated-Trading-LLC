@@ -7,7 +7,7 @@ templateKey: starter-kit
 product_image: /media/eleessbox2.jpg
 title: Hemp Starter Kit
 quantities:
-  - value: 25
+  - value: 10
 included:
   - title: Aluminum Grinder
     description: "High quality, 3-piece grinder. This grinder is machined out of
