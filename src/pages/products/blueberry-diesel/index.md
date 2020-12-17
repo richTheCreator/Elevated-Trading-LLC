@@ -16,9 +16,21 @@ weights:
     value: 20
 coa_link: blueberry-diesel-hemp-flower-1-.pdf
 details:
-  description: This well balanced CBD flower is a hybrid of indica Blueberry and
-    sativa Sour Diesel. The best of both worlds, it pairs that signature sour,
-    yet gaseous, aroma with a strong therapeutic effect.
+  description: >-
+    This well balanced CBD flower is a hybrid of indica Blueberry and sativa
+    Sour Diesel. The best of both worlds, it pairs that signature sour, yet
+    gaseous, aroma with a strong therapeutic effect.
+
+
+    Wholesale Blueberry Diesel CBD Flower Contains 16.98% CBD
+
+    Sun-grown Oregon CBD Flower
+
+    Hand Trimmed Buds
+
+    Lab Tested for Compliance and No Pesticides
+
+    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
   info:
     - label: Common Effects
       items:
