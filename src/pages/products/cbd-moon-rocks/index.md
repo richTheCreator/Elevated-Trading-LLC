@@ -6,7 +6,7 @@ product_image: img_0673.jpg
 title: Delta 8 Moon Rocks
 category: Flower
 thc: 0.2
-cbd: 15
+cbd: 24.7
 weights:
   - metric: lb
     value: 1
