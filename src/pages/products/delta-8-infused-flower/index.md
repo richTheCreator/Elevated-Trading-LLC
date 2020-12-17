@@ -16,10 +16,24 @@ weights:
     value: 20
 coa_link: blue-pineapple-hemp-flower.pdf
 details:
-  description: We are now offering Delta 8 infused flower! Our impressive
-    selection of hemp is hand picked and trimmed to perfection. This dense,
-    tight structured base is then generously coated with high quality Delta 8
-    extracts. Using a solvent-free operating system results in an incredibly
-    complex nose and rich, smooth flavor profile.
+  description: >-
+    We are now offering Delta 8 infused flower! Our impressive selection of hemp
+    is hand picked and trimmed to perfection. This dense, tight structured base
+    is then generously coated with high quality Delta 8 extracts. Using a
+    solvent-free operating system results in an incredibly complex nose and
+    rich, smooth flavor profile.
+
+
+    We currently offer wholesale Delta 8 infused flower in the following strains:
+
+    Bubba Kush
+
+    CBG
+
+    Lifter
+
+    Special Sauce
+
+    Sour Space Candy
   info: []
 ---
