@@ -13,8 +13,5 @@ weights:
 coa_link: d8-distillate-coa-website.pdf
 details:
   description: Wholesale Delta 8 Distillate
-  info:
-    - label: Wholesale Delta 8 Distillate
-      items:
-        - item: TO BE FILLED OUT WHEN PHOTO IS UPDATED
+  info: []
 ---
