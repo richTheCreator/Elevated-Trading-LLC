@@ -20,5 +20,5 @@ details:
     Delta 8 gummies are not only infused with top quality Delta 8 distillate,
     but they taste great as well. There is no "hempy" flavor in any of our
     wholesale Delta 8 products and these wholesale Delta 8 gummies will have
-    your customers coming back for more!
+    your customers coming back for more! Each gummy contains a true 25mg dose.
 ---
