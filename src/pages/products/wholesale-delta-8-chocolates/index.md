@@ -20,6 +20,7 @@ details:
     wonder if there is any Delta 8 in them at all until the euphoric effects
     kick in! The relaxing effects of these wholesale Delta 8 chocolates will
     leave your customers feeling good about their purchase, and the taste will
-    keep them coming back for more.
+    keep them coming back for more. 250mg bars contain 25mg per dose and 500mg
+    bars contain 50mg per dose.
   info: []
 ---
