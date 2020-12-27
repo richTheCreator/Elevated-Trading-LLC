@@ -2,7 +2,7 @@
 date: 2020-08-25T22:13:18.439Z
 meta_description: Elevated Trading CBD Water-Soluble Powder
 templateKey: product-details
-product_image: isolate.jpg
+product_image: cbd-isolate.jpg
 title: CBD | Water-Soluble Powder
 category: Concentrate
 thc: 0.03
