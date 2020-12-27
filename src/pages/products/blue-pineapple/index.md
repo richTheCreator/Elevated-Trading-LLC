@@ -2,7 +2,7 @@
 date: 2020-12-13T20:07:54.393Z
 meta_description: "Elevated Trading CBD Hemp Flower: Blue Pineapple"
 templateKey: product-details
-product_image: img_0116.jpg
+product_image: blue-pineapple.jpg
 title: Blue Pineapple
 category: Flower
 thc: 0.02
