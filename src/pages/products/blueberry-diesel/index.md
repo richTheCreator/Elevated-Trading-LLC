@@ -2,7 +2,7 @@
 date: 2020-12-08T14:00:47.392Z
 meta_description: "Elevated Trading CBD Hemp Flower: Blueberry Diesel"
 templateKey: product-details
-product_image: e10d164a-5486-4a6b-ad18-7e5dd15c5703.jpeg
+product_image: blueberry-diesel.jpg
 title: Blueberry Diesel
 category: Flower
 thc: 0.04
