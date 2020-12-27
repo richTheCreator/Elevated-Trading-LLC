@@ -2,7 +2,7 @@
 date: 2020-08-24T18:33:45.703Z
 meta_description: Elevated Trading CBD Hemp Flower
 templateKey: product-details
-product_image: img_0216.jpg
+product_image: sour-space-candy.jpg
 title: Sour Space Candy
 category: Flower
 thc: 0.282
