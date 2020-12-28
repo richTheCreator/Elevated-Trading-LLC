@@ -12,6 +12,6 @@ weights:
     value: 1
 coa_link: d8-distillate-coa-website.pdf
 details:
-  description: Wholesale Delta 8 Distillate
   info: []
 ---
+Wholesale Delta 8 Distillate

@@ -85,13 +85,8 @@ collections:
             ],
         }
       - { label: 'COA Upload', name: 'coa_link', widget: 'file' }
-      - {
-          label: 'Details',
-          name: 'details',
-          widget: 'object',
-          fields:
-            [
-              { label: 'Description', name: 'description', widget: 'markdown' },
+      - { label: 'Details', name: 'details', widget: 'object', fields: [
+              # { label: 'Description', name: 'description', widget: 'markdown' },
               {
                 label: 'Info',
                 name: 'info',
@@ -122,8 +117,8 @@ collections:
                     },
                   ],
               },
-            ],
-        }
+            ] }
+      - { label: 'Description', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
     files:

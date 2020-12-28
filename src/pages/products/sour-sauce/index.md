@@ -16,21 +16,6 @@ weights:
     value: 20
 coa_link: sour-sauce-hemp-flower.pdf
 details:
-  description: >-
-    Sour Sauce is an uplifting strain with a full bodied sour nose that produces
-    a delicious sweet flavor. Optimal for daytime use and has been said to help
-    with stress, inflammation, pain, and anxiety.
-
-
-    Wholesale Sour Sauce CBD Flower Contains 17.82% CBD
-
-    Sun-grown Oregon CBD Flower
-
-    Hand Trimmed Buds
-
-    Lab Tested for Compliance and No Pesticides
-
-    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
   info:
     - label: Common Effects
       items:
@@ -48,3 +33,12 @@ details:
         - item: Pinene
         - item: Ocimene
 ---
+Sour Sauce is an uplifting strain with a full bodied sour nose that produces
+a delicious sweet flavor. Optimal for daytime use and has been said to help
+with stress, inflammation, pain, and anxiety.
+
+* Wholesale Sour Sauce CBD Flower Contains 17.82% CBD
+* Sun-grown Oregon CBD Flower
+* Hand Trimmed Buds
+* Lab Tested for Compliance and No Pesticides
+* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC

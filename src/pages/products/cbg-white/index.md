@@ -16,21 +16,6 @@ weights:
     value: 20
 coa_link: cbg-flower.pdf
 details:
-  description: >-
-    This exquisite CBG strain by Crawford Genetics is delicate, but packs a high
-    quality punch. As one of the finest CBG strains available today, it boasts a
-    strong grapefruit aroma. Truly top shelf!
-
-
-    Wholesale White CBG Flower Contains 14.1% CBGa
-
-    Sun-grown Oregon CBD Flower
-
-    Hand Trimmed Buds
-
-    Lab Tested for Compliance and No Pesticides
-
-    Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
   info:
     - label: Common Effects
       items:
@@ -43,3 +28,12 @@ details:
         - item: Earthy
         - item: Spicy
 ---
+This exquisite CBG strain by Crawford Genetics is delicate, but packs a high
+quality punch. As one of the finest CBG strains available today, it boasts a
+strong grapefruit aroma. Truly top shelf!
+
+* Wholesale White CBG Flower Contains 14.1% CBGa
+* Sun-grown Oregon CBD Flower
+* Hand Trimmed Buds
+* Lab Tested for Compliance and No Pesticides
+* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC

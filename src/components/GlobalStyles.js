@@ -138,4 +138,7 @@ export const GlobalStyle = createGlobalStyle`
     margin-left: 0px !important;
     margin-right: 0px !important;
   }
+  .PDP-Description *{
+    color: ${theme.colors.ivory}
+  }
 `

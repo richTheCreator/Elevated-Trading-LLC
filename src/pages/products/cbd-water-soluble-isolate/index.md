@@ -12,12 +12,8 @@ weights:
     value: 1
 coa_link: water-soluble-coa-website.pdf
 details:
-  description: >-
-    Nano emulsified for truly water soluble CBD
-
-
-    Our wholesale water soluble powder is formulated using nano technology to allow stable and homogenous suspension in water based solutions without the use of detergent during the manufacturing process. This product is THC free, vegan, and gluten free. There is no taste, cloudiness, oils, or detergents that are found in most of the water soluble products on the market. We recommend using in any water based solution such as sodas, energy shots, drink mixes, and teas.
   info: []
 ---
+Nano emulsified for truly water soluble CBD
 
-CBD | Water-Soluble Isolate
+Our wholesale water soluble powder is formulated using nano technology to allow stable and homogenous suspension in water based solutions without the use of detergent during the manufacturing process. This product is THC free, vegan, and gluten free. There is no taste, cloudiness, oils, or detergents that are found in most of the water soluble products on the market. We recommend using in any water based solution such as sodas, energy shots, drink mixes, and teas.
