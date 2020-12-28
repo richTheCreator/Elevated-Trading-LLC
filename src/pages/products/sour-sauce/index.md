@@ -2,7 +2,7 @@
 date: 2020-12-13T20:28:15.411Z
 meta_description: "Elevated Trading CBD Hemp Flower: Sour Sauce"
 templateKey: product-details
-product_image: img_0174.jpg
+product_image: sour-sauce.jpg
 title: Sour Sauce
 category: Flower
 thc: 0.07
