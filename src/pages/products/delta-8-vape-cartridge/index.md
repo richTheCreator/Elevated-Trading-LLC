@@ -10,7 +10,7 @@ cbd: 0
 weights:
   - metric: lb
     value: 1
-coa_link: coa-placeholder.pdf
+coa_link: copy-of-d8-hemp-cartridge.pdf
 details:
   info: []
 ---
