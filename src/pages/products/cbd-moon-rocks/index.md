@@ -10,7 +10,7 @@ cbd: 24.7
 weights:
   - metric: lb
     value: 1
-coa_link: blue-pineapple-hemp-flower.pdf
+coa_link: copy-of-d8-moonrocks.pdf
 details:
   info: []
 ---
