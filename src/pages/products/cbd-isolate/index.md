@@ -10,7 +10,7 @@ cbd: 99
 weights:
   - metric: kg
     value: 1
-coa_link: cbd-isolate-purity-test-website.pdf
+coa_link: cbd-isolate-coa-and-purity-test.pdf
 details:
   info: []
 ---
