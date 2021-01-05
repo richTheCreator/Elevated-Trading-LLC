@@ -8,7 +8,7 @@ blogTags:
   - CBD
   - Retail
   - Legal
-is_featured: true
+is_featured: false
 ---
 Elevated Trading is on a mission to help retailers understand the laws that govern the hemp industry. Legislators have introduced measures to legalize the manufacturing and selling of hemp flower — a prized marvel. This article is meant as a general guide. Always consult with an attorney for specific legal advice.
 
