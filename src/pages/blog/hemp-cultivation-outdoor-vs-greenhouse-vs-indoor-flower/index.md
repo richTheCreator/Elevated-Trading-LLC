@@ -2,7 +2,7 @@
 date: 2021-01-05T16:31:32.707Z
 meta_description: "Hemp Cultivation: Outdoor Vs. Greenhouse Vs. Indoor Flower"
 templateKey: blog-post
-product_image: greenhouseflower.jpg
+product_image: hempcultivation.jpg
 title: "Hemp Cultivation: Outdoor Vs. Greenhouse Vs. Indoor Flower"
 blogTags:
   - CBD
