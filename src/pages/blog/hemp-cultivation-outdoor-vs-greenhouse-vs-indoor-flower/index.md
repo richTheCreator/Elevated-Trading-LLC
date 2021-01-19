@@ -8,7 +8,7 @@ blogTags:
   - CBD
   - Hemp Flower
   - Retail
-is_featured: true
+is_featured: false
 ---
 ## Hemp Cultivation: Outdoor Vs. Greenhouse Vs. Indoor Flower
 
