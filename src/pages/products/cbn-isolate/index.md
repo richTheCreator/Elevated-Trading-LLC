@@ -3,7 +3,7 @@ date: 2021-01-26T22:49:59.402Z
 meta_description: Elevated Trading CBN Isolate
 templateKey: product-details
 product_image: cbd-isolate.jpg
-title: CBN Isolate
+title: CBN | Isolate
 category: Concentrate
 thc: 0
 cbd: 0
