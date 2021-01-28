@@ -8,7 +8,7 @@ hero:
 ---
 #### Shipping Policy
 
-Our goal is to ship all orders within 1-2 business days after receiving payment (excludes holidays). This includes any shipments that are drop shipped by our various vendors. If there will be a significant delay in your purchase, you will be contacted by a customer service representative to discuss alternate products or begin processing a full refund.
+Our goalis to ship all orders within 1-2 business days after receiving payment (excludes holidays). This includes any shipments that are drop shipped by our various vendors. If there will be a significant delay in your purchase, you will be contacted by a customer service representative to discuss alternate products or begin processing a full refund.
 
 All orders containing hemp flower are professionally packaged including a “Notice to Law Enforcement” describing a legal hemp shipment along with a copy of the Certificate of Analysis for the products enclosed.
 
