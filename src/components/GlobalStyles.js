@@ -121,7 +121,7 @@ export const GlobalStyle = createGlobalStyle`
     margin-right: 0px;
   }
 
-  .PDP-Description p{
+  .PDP-Description p, .Policies-Description p{
     margin: 16px 0px
   }
   .Blog-Description p{
@@ -140,5 +140,8 @@ export const GlobalStyle = createGlobalStyle`
   }
   .PDP-Description *{
     color: ${theme.colors.ivory}
+  }
+  .Policies-Description{
+    color: ${theme.colors.black}
   }
 `
