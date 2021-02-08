@@ -2,7 +2,7 @@
 date: 2020-11-05T15:55:28.574Z
 meta_description: Wholesale Delta 8 Distillate
 templateKey: product-details
-product_image: distillate.jpg
+product_image: distillate-w_logo.png
 title: Delta 8 Distillate
 category: Concentrate
 thc: 0
