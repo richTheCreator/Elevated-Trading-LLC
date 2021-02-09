@@ -8,7 +8,7 @@ blogTags:
   - CBD
   - Hemp Flower
   - Manufacturing
-is_featured: true
+is_featured: false
 ---
 ## Selling or Buying Hemp Flower: Learn How it Should Be Stored 
 
