@@ -3,7 +3,7 @@ date: 2021-02-09T16:44:03.513Z
 meta_description: "# Higher Demand for CBD Isolate Due to Increased Delta 8 Production"
 templateKey: blog-post
 product_image: higher-demand-for-cbd-isolate-due-to-increased-delta-8-production.jpg
-title: "# Higher Demand for CBD Isolate Due to Increased Delta 8 Production"
+title: Higher Demand for CBD Isolate Due to Increased Delta 8 Production
 blogTags:
   - CBD
   - Concentrate
