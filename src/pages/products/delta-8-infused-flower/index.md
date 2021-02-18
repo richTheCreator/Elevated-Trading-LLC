@@ -14,7 +14,7 @@ weights:
     value: 5
   - metric: lb
     value: 20
-coa_link: blue-pineapple-hemp-flower.pdf
+coa_link: d8-lifter-13-.pdf
 details:
   info: []
 ---
@@ -26,8 +26,8 @@ rich, smooth flavor profile.
 
 We currently offer wholesale Delta 8 infused flower in the following strains:
 
-* Bubba Kush
-* CBG
-* Lifter
-* Special Sauce
-* Sour Space Candy
+* Bubba Kush (Delta 8: 10% Delta 9: <LOQ Total Cannabinoids: 24%)
+* CBG (Delta 8: 21% Total THC: 0.1% Total Cannabinoids: 29%)
+* Lifter (Delta 8: 13% Delta 9: <LOQ Total Cannabinoids: 26%)
+* Sour Space Candy (Delta 8: 31% Total THC: .31% Total Cannabinoids: 41%)
+* Special Sauce (Delta 8: 24% Delta 9: <LOQ Total Cannabinoids: 36%)
