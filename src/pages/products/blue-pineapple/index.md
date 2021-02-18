@@ -5,8 +5,8 @@ templateKey: product-details
 product_image: blue-pineapple.jpg
 title: Blue Pineapple
 category: Flower
-thc: 0.02
-cbd: 13.01
+thc: 0.03
+cbd: 16.1
 weights:
   - metric: lb
     value: 1
@@ -16,23 +16,10 @@ weights:
     value: 20
 coa_link: blue-pineapple-hemp-flower.pdf
 details:
-  info:
-    - label: Common Effects
-      items:
-        - item: Creativity
-        - item: Calming
-        - item: Relaxing
-    - label: Flavor Profile
-      items:
-        - item: Fruity
-        - item: Sweet
-        - item: Herbal
+  info: []
 ---
-Top shelf exotic hemp flower. This sativa is perfect for daytime use. It is
-regarded by some for possibly boosting focus and having pain relief
-properties. This is one of our most unique offerings this season. 
 
-* Wholesale Blue Pineapple CBD Flower Contains 13.01% CBD
+
 * Sun-grown Oregon CBD Flower
 * Hand Trimmed Buds
 * Lab Tested for Compliance and No Pesticides
