@@ -6,7 +6,7 @@ product_image: blue-pineapple.jpg
 title: Blue Pineapple
 category: Flower
 thc: 0.03
-cbd: 16.1
+cbd: 13
 weights:
   - metric: lb
     value: 1
