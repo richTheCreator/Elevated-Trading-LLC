@@ -1,6 +1,6 @@
 ---
 date: 2020-08-24T18:33:45.703Z
-meta_description: Elevated Trading CBD Hemp Flower
+meta_description: "Elevated Trading CBD Hemp Flower: Sour Space Candy"
 templateKey: product-details
 product_image: sour-space-candy.jpg
 title: Sour Space Candy
