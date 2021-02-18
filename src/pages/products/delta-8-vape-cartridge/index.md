@@ -2,9 +2,7 @@
 date: 2020-11-02T16:52:20.443Z
 meta_description: Elevated Trading's Delta 8 vape cartridges are the only vape cartridge...
 templateKey: product-details
-imageInfo:
-  alt: Detla 8 vape cartridge
-  image: d8cart.jpg
+product_image: d8cart.jpg
 title: Delta 8 Vape Cartridge
 category: Concentrate
 thc: 0
@@ -16,13 +14,7 @@ coa_link: copy-of-d8-hemp-cartridge.pdf
 details:
   info: []
 ---
-Our Delta 8 distillate for these wholesale Delta 8 vape cartridges
-is run through a falling film filtration system to enhance flavor while
-reducing the hemp taste. This makes our wholesale Delta 8 vape cartridges
-the best tasting cartridges on the market. We have the customer testimonies
-to back it up! Our wholesale Delta 8 vape cartridges have custom formulated,
-plant derived terpene flavor profiles. This ensures that the strain specific
-flavors are available for all of our wholesale Delta 8 vape cartridges. We
-do NOT use cotton in our wholesale Delta 8 vape cartridges. Instead, we use
-all ceramic coils. This gives longevity to the cartridge while enhancing
-flavor.
+One gram D8 cartridges in high quality AVD hardware to ensure strong pull and consistent plume without clogging. Perfectly golden in color with uniform clarity, this vape is proudly made with natural botanical derived terpenes. Contains 850mg of D8.
+
+* Blueberry Afgoo | Lemon Haze | Pineapple Express | Strawberry Cough | Girl Scout Cookies
+* Gelato | OG Kush | Runtz | Sour Tangie | Wedding Cake | Mango Kush
