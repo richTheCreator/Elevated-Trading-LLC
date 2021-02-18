@@ -2,9 +2,7 @@
 date: 2020-12-13T22:53:49.484Z
 meta_description: Elevated Trading Wholesale Delta 8 Slabs
 templateKey: product-details
-imageInfo: 
-  alt: Delta 8 slabs
-  image: img_0661.jpg
+product_image: img_0661.jpg
 title: Delta 8 Slabs
 category: Concentrate
 thc: 0
@@ -20,5 +18,7 @@ Premium distillate pull and snap made from D8 extracts. Our
 expertly created product is stable, with amazing consistency and smooth
 taste. Made with botanical derived terpenes for excellent nose and complex
 flavor while remaining federally compliant. Outstanding clarity with a
-uniform golden hue. Contains 850mg of Delta 8 in every gram with 83.4% in
-Total cannabinoid content.
+uniform golden hue. Contains 850mg of Delta 8 in every gram.
+
+* Blueberry Afgoo | Lemon Haze | Pineapple Express | Strawberry Cough | Girl Scout Cookies
+* Gelato | OG Kush | Runtz | Sour Tangie | Wedding Cake | Mango Kush
