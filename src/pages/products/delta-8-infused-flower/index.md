@@ -2,7 +2,9 @@
 date: 2020-12-13T22:44:33.981Z
 meta_description: Elevated Trading Wholesale Delta 8 Flower
 templateKey: product-details
-product_image: lifter-d8-.jpg
+imageInfo: 
+  alt: Delta 8 infused flower
+  image: lifter-d8-.jpg
 title: Delta 8 Infused Flower
 category: Flower
 thc: 0.2

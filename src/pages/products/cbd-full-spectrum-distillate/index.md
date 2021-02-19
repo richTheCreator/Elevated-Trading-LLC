@@ -2,7 +2,9 @@
 date: 2020-10-05T22:37:16.046Z
 meta_description: Elevated Trading CBD Distillate
 templateKey: product-details
-product_image: Distillate.jpg
+imageInfo:
+  alt: Cbd distillate
+  image: Distillate.jpg
 title: CBD | Distillate
 category: Concentrate
 thc: 2

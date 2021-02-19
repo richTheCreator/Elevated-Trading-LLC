@@ -2,7 +2,9 @@
 date: 2020-12-13T22:26:51.189Z
 meta_description: "Elevated Trading Wholesale Hemp: Delta 8 infused Moon Rocks"
 templateKey: product-details
-product_image: bubba-kush-moon-rock-.jpg
+imageInfo:
+  alt: Delta 8 Moon Rocks
+  image: bubba-kush-moon-rock-.jpg
 title: Delta 8 Moon Rocks
 category: Flower
 thc: 0.2

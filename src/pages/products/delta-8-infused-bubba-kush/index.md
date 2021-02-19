@@ -2,7 +2,9 @@
 date: 2021-02-18T19:50:11.801Z
 meta_description: "Elevated Trading Delta 8 Infused Flower: Bubba Kush"
 templateKey: product-details
-product_image: img_0301.jpg-d8-bubba-kush-1-.jpg
+imageInfo:
+  alt: Delta 8 infused bubba kush
+  image: img_0301.jpg-d8-bubba-kush-1-.jpg
 title: Delta 8 Infused Bubba Kush
 category: Flower
 thc: 0.02

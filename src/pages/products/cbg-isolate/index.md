@@ -2,7 +2,9 @@
 date: 2020-08-25T22:19:33.680Z
 meta_description: Elevated Trading CBG Isolate
 templateKey: product-details
-product_image: cbd-isolate.jpg
+imageInfo:
+  alt: CBG isolate
+  image: cbd-isolate.jpg
 title: CBG | Isolate
 category: Concentrate
 thc: 0

@@ -2,7 +2,9 @@
 date: 2021-02-18T18:56:11.991Z
 meta_description: "Elevated Trading CBD Hemp Flower: Oregon Blueberry"
 templateKey: product-details
-product_image: oregon-blueberry.jpg
+imageInfo:
+  alt: Oregon blueberry
+  image: oregon-blueberry.jpg
 title: Oregon Blueberry
 category: Flower
 thc: 0.03

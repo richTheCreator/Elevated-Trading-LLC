@@ -2,7 +2,9 @@
 date: 2020-08-24T18:25:04.678Z
 meta_description: "Elevated Trading CBD Hemp Flower: Lifter"
 templateKey: product-details
-product_image: blue-pineapple.jpg
+imageInfo:
+  alt: Lifter CBD flower
+  image: blue-pineapple.jpg
 title: Lifter
 category: Flower
 thc: 0.023

@@ -140,10 +140,13 @@ export default () => (
                 cbd
                 thc
                 templateKey
-                product_image {
-                  childImageSharp {
-                    fluid(maxWidth: 800, quality: 80) {
-                      ...GatsbyImageSharpFluid_withWebp
+                imageInfo {
+                  alt
+                  image {
+                    childImageSharp {
+                      fluid(maxWidth: 800, quality: 80) {
+                        ...GatsbyImageSharpFluid_withWebp
+                      }
                     }
                   }
                 }

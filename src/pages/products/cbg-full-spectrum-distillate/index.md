@@ -2,7 +2,9 @@
 date: 2020-08-25T22:16:38.593Z
 meta_description: Elevated Trading CBG Distillate
 templateKey: product-details
-product_image: distillate.jpg
+imageInfo:
+  alt: CBG distillate
+  image: distillate.jpg
 title: CBG | Distillate
 category: Concentrate
 thc: 1

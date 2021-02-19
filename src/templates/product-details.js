@@ -10,7 +10,7 @@ import { Subscription, Shipping, Values } from '../components'
 export const ProductPageTemplate = ({
   title,
   metaDescription,
-  productImage,
+  imageInfo,
   category,
   details,
   cbd,
@@ -26,11 +26,11 @@ export const ProductPageTemplate = ({
         pathname={pathname}
         title={title}
         desc={metaDescription}
-        banner={productImage.childImageSharp.fluid.src}
+        banner={imageInfo.image.childImageSharp.fluid.src}
       />
       <Hero
         title={title}
-        productImage={productImage.childImageSharp.fluid}
+        imageInfo={imageInfo.image.childImageSharp.fluid}
         category={category}
         coa_link={coa_link}
         cbd={cbd}
@@ -53,7 +53,7 @@ const ProductPage = ({ data, location }) => {
       details={frontmatter.details}
       title={frontmatter.title}
       metaDescription={frontmatter.meta_description}
-      productImage={frontmatter.product_image}
+      imageInfo={frontmatter.imageInfo}
       category={frontmatter.category}
       cbd={frontmatter.cbd}
       thc={frontmatter.thc}
@@ -93,10 +93,13 @@ export const pageQuery = graphql`
         }
         thc
         cbd
-        product_image {
-          childImageSharp {
-            fluid(maxWidth: 800, quality: 100) {
-              ...GatsbyImageSharpFluid_withWebp
+        imageInfo {
+          alt
+          image {
+            childImageSharp {
+              fluid(maxWidth: 800, quality: 100) {
+                ...GatsbyImageSharpFluid_withWebp
+              }
             }
           }
         }

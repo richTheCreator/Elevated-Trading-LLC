@@ -37,9 +37,18 @@ collections:
         }
       - {
           label: 'Product Image',
-          name: 'product_image',
-          widget: 'image',
-          required: true,
+          name: 'imageInfo',
+          widget: 'object',
+          fields:
+            [
+              {
+                label: 'Image',
+                name: 'image',
+                widget: 'image',
+                required: true,
+              },
+              { label: 'Alt', name: 'alt', widget: 'string' },
+            ],
         }
       - { label: 'Title', name: 'title', widget: 'string', required: true }
       - {

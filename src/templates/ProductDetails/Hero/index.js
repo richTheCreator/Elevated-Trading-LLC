@@ -25,7 +25,7 @@ const formatOptionLabel = ({ value, metric }) => (
 
 const Hero = ({
   title,
-  productImage,
+  imageInfo,
   category,
   cbd,
   thc,
@@ -59,7 +59,7 @@ const Hero = ({
         p={[0, 4]}
       >
         <ProductImg
-          fluid={productImage}
+          fluid={imageInfo}
           height={['300px', '300px', '460px', '460px']}
           position={[
             'relative',

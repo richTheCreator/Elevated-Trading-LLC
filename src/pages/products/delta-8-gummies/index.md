@@ -2,7 +2,9 @@
 date: 2020-11-02T16:07:48.592Z
 meta_description: Elevated Trading Delta 8 Gummies are the best tasting D8 gummies on the market!
 templateKey: product-details
-product_image: d8gummy.jpg
+imageInfo:
+  alt: Delta 8 gummies
+  image: d8gummy.jpg
 title: Delta 8 Gummies
 category: Concentrate
 thc: 0

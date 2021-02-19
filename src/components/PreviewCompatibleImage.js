@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import Img from 'gatsby-image'
 
 const PreviewCompatibleImage = ({ imageInfo, style, imgStyle, isFixed }) => {
-  const { alt = '', childImageSharp, image } = imageInfo
+  const { alt, childImageSharp, image } = imageInfo
 
   const imageType = isFixed ? 'fixed' : 'fluid'
   if (!!image && !!image.childImageSharp) {
@@ -14,6 +14,7 @@ const PreviewCompatibleImage = ({ imageInfo, style, imgStyle, isFixed }) => {
         fixed={isFixed ? image.childImageSharp[`${imageType}`] : null}
         fluid={!isFixed ? image.childImageSharp[`${imageType}`] : null}
         alt={alt}
+        title={alt}
       />
     )
   }
@@ -26,6 +27,7 @@ const PreviewCompatibleImage = ({ imageInfo, style, imgStyle, isFixed }) => {
         style={style}
         imgStyle={imgStyle}
         alt={alt}
+        title={alt}
       />
     )
   }

@@ -16,7 +16,7 @@ const ProductCard = ({
   post: {
     id,
     fields,
-    frontmatter: { title, category, thc, cbd, product_image }
+    frontmatter: { title, category, thc, cbd, imageInfo }
   }
 }) => {
   return (
@@ -28,7 +28,7 @@ const ProductCard = ({
         to={fields.slug}
         style={{ textDecoration: 'none' }}
       >
-        <ProductImage fluid={product_image.childImageSharp.fluid} />
+        <ProductImage fluid={imageInfo.image.childImageSharp.fluid} />
         <Wrapper bg='ivory' p={2}>
           <Heading5 pl={0} pr={0} pt={2} pb={2} m={0}>
             {title}
