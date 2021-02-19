@@ -2,8 +2,8 @@
 date: 2021-02-18T17:03:13.311Z
 meta_description: "Elevated Trading CBD Hemp Flower: Abacus"
 templateKey: product-details
-imageInfo: 
-  alt: Abacus flower cbd
+imageInfo:
+  alt: Testing deploy time
   image: abacus.jpg
 title: Abacus
 category: Flower
