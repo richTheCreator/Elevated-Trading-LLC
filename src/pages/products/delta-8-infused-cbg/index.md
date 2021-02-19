@@ -2,7 +2,9 @@
 date: 2021-02-18T20:00:37.688Z
 meta_description: "Elevated Trading Delta 8 Infused Flower: CBG"
 templateKey: product-details
-product_image: img_0103_d8-cbg.jpg
+imageInfo:
+  image: img_0103_d8-cbg.jpg
+  alt: "Delta 8 Infused Flower: CBG"
 title: "Delta 8 Infused CBG "
 category: Flower
 thc: 0.1
@@ -15,9 +17,8 @@ weights:
   - metric: lb
     value: 20
 coa_link: d8-cbg-21-.pdf
+product_image: img_0103_d8-cbg.jpg
 ---
-
-
 * Sun-grown Oregon CBD Flower
 * Delta 8 Infused Flower - 21% Delta 8
 * Hand Trimmed Buds
