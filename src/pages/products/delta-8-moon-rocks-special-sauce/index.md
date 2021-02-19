@@ -2,7 +2,9 @@
 date: 2021-02-18T21:27:01.211Z
 meta_description: "Elevated Trading Wholesale Hemp: Delta 8 Moon Rocks - Special Sauce"
 templateKey: product-details
-product_image: bubba-kush-moon-rock-.jpg
+imageInfo:
+  image: bubba-kush-moon-rock-.jpg
+  alt: Delta 8 Moon Rocks - Special Sauce
 title: Delta 8 Moon Rocks - Special Sauce
 category: Flower
 thc: 0.02
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 10
 coa_link: moonrocks-special-sauce-55-.pdf
+product_image: bubba-kush-moon-rock-.jpg
 ---
 
 
