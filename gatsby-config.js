@@ -150,7 +150,7 @@ module.exports = {
       options: {
         custom: {
           families: ['Fortika'],
-          urls: ['/fonts/fonts.css']
+          // urls: ['/fonts/fonts.css']
         },
         google: {
           families: ['Poppins:400,400i,700,700i']
