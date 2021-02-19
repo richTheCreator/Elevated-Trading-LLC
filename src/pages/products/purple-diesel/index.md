@@ -2,7 +2,9 @@
 date: 2021-02-18T18:58:06.479Z
 meta_description: "Elevated Trading CBD Hemp Flower: Purple Diesel"
 templateKey: product-details
-product_image: purple-diesel.jpg
+imageInfo:
+  image: purple-diesel.jpg
+  alt: Purple Diesel
 title: Purple Diesel
 category: Flower
 thc: 0.05
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 20
 coa_link: purple-diesel-full-panel.pdf
+product_image: purple-diesel.jpg
 ---
 
 
