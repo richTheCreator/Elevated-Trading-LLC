@@ -2,7 +2,9 @@
 date: 2021-02-18T21:24:21.561Z
 meta_description: "Elevated Trading Wholesale Hemp: Delta 8 Moon Rocks - Sour Space Candy"
 templateKey: product-details
-product_image: bubba-kush-moon-rock-.jpg
+imageInfo:
+  image: bubba-kush-moon-rock-.jpg
+  alt: Delta 8 Moon Rocks - Sour Space Candy
 title: Delta 8 Moon Rocks - Sour Space Candy
 category: Flower
 thc: 0.02
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 20
 coa_link: moonrocks-sour-space-candy-54-.pdf
+product_image: bubba-kush-moon-rock-.jpg
 ---
 
 
