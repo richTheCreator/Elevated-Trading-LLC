@@ -1,8 +1,10 @@
 ---
 date: 2020-11-02T16:52:20.443Z
-meta_description: Elevated Trading's Delta 8 vape cartridges are the only vape cartridge...
+meta_description: Elevated Trading Delta 8 Vape Cartridge
 templateKey: product-details
-product_image: d8cart.jpg
+imageInfo:
+  image: d8cart.jpg
+  alt: Delta 8 Vape Cartridge
 title: Delta 8 Vape Cartridge
 category: Concentrate
 thc: 0
@@ -13,6 +15,7 @@ weights:
 coa_link: copy-of-d8-hemp-cartridge.pdf
 details:
   info: []
+product_image: d8cart.jpg
 ---
 One gram D8 cartridges in high quality AVD hardware to ensure strong pull and consistent plume without clogging. Perfectly golden in color with uniform clarity, this vape is proudly made with natural botanical derived terpenes. Contains 850mg of D8.
 
