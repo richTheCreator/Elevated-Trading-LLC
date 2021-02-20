@@ -2,7 +2,9 @@
 date: 2021-02-18T21:22:10.796Z
 meta_description: "Elevated Trading Wholesale Hemp: Delta 8 Moon Rocks - Lifter"
 templateKey: product-details
-product_image: bubba-kush-moon-rock-.jpg
+imageInfo:
+  image: bubba-kush-moon-rock-.jpg
+  alt: Delta 8 Moon Rocks - Lifter
 title: Delta 8 Moon Rocks - Lifter
 category: Flower
 thc: 2
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 10
 coa_link: moonrocks-lifter-44-.pdf
+product_image: bubba-kush-moon-rock-.jpg
 ---
 
 
