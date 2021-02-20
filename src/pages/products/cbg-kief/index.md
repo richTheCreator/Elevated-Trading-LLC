@@ -2,7 +2,9 @@
 date: 2021-02-18T19:20:26.194Z
 meta_description: Elevated Trading CBG Kief
 templateKey: product-details
-product_image: cbg-kief.jpg
+imageInfo:
+  image: cbg-kief.jpg
+  alt: CBG Kief
 title: CBG Kief
 category: Flower
 thc: 0.02
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 20
 coa_link: cbg-kief.pdf
+product_image: cbg-kief.jpg
 ---
 
 
