@@ -2,7 +2,9 @@
 date: 2021-02-18T20:06:03.092Z
 meta_description: "Elevated Trading Delta 8 Infused Flower: Sour Space Candy"
 templateKey: product-details
-product_image: img_0329.jpg-d8-sour-space-candy.jpg
+imageInfo:
+  image: img_0329.jpg-d8-sour-space-candy.jpg
+  alt: Delta 8 Infused Sour Space Candy
 title: Delta 8 Infused Sour Space Candy
 category: Flower
 thc: 0.08
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 20
 coa_link: d8-sour-space-candy-31-.pdf
+product_image: img_0329.jpg-d8-sour-space-candy.jpg
 ---
 
 
