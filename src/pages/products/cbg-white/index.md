@@ -2,7 +2,9 @@
 date: 2020-12-13T20:48:22.632Z
 meta_description: "Elevated Trading CBD Hemp Flower: White Series CBG"
 templateKey: product-details
-product_image: white-cbg.jpg
+imageInfo:
+  image: white-cbg.jpg
+  alt: White Series CBG
 title: White Series CBG
 category: Flower
 thc: 0.08
@@ -17,6 +19,7 @@ weights:
 coa_link: cbg-full-panel.pdf
 details:
   info: []
+product_image: white-cbg.jpg
 ---
 
 
