@@ -2,7 +2,9 @@
 date: 2021-02-18T21:45:15.217Z
 meta_description: "Elevated Trading Wholesale Hemp: Retail-Ready Delta 8 Slabs"
 templateKey: product-details
-product_image: retail-slabs.jpg
+imageInfo:
+  image: retail-slabs.jpg
+  alt: Retail-Ready D8 Slabs
 title: Retail-Ready Delta 8 Slabs
 category: Concentrate
 thc: 0.02
@@ -11,6 +13,7 @@ weights:
   - metric: lb
     value: 1
 coa_link: d8-slabs-full-panel-with-terps.pdf
+product_image: retail-slabs.jpg
 ---
 Multiple Size Options:
 
