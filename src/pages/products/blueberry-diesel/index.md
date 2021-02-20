@@ -2,7 +2,9 @@
 date: 2020-12-08T14:00:47.392Z
 meta_description: "Elevated Trading CBD Hemp Flower: Blueberry Diesel"
 templateKey: product-details
-product_image: blueberry-diesel.jpg
+imageInfo:
+  image: blueberry-diesel.jpg
+  alt: Blueberry Diesel
 title: Blueberry Diesel
 category: Flower
 thc: 0.05
@@ -17,9 +19,9 @@ weights:
 coa_link: blueberry-diesel-hemp-flower-1-.pdf
 details:
   info: []
+product_image: blueberry-diesel.jpg
 ---
-
-
+* Indica Hybrid
 * Sun-grown Oregon CBD Flower
 * Hand Trimmed Buds
 * Lab Tested for Compliance and No Pesticides
