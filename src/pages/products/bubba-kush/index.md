@@ -2,7 +2,9 @@
 date: 2020-08-24T23:07:59.226Z
 meta_description: "Elevated Trading CBD Hemp Flower: Bubba Kush"
 templateKey: product-details
-product_image: bubba-kush.jpg
+imageInfo:
+  image: bubba-kush.jpg
+  alt: Bubba Kush
 title: Bubba Kush
 category: Flower
 thc: 0.2
@@ -17,6 +19,7 @@ weights:
 coa_link: bubba-kush-full-panel.pdf
 details:
   info: []
+product_image: bubba-kush.jpg
 ---
 
 
