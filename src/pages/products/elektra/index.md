@@ -2,7 +2,9 @@
 date: 2021-02-18T18:48:36.120Z
 meta_description: "Elevated Trading CBD Hemp Flower: Elektra"
 templateKey: product-details
-product_image: elektra.jpg
+imageInfo:
+  image: elektra.jpg
+  alt: Elektra
 title: Elektra
 category: Flower
 thc: 0.03
@@ -15,9 +17,9 @@ weights:
   - metric: lb
     value: 20
 coa_link: elektra-full-panel.pdf
+product_image: elektra.jpg
 ---
-
-
+* Sativa
 * Sun-grown Oregon CBD Flower
 * Hand Trimmed Buds
 * Lab Tested for Compliance and No Pesticides
