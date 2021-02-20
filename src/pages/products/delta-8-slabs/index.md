@@ -23,5 +23,7 @@ taste. Made with botanical derived terpenes for excellent nose and complex
 flavor while remaining federally compliant. Outstanding clarity with a
 uniform golden hue. Contains 850mg of Delta 8 in every gram.
 
+* 1 Gram
+* 3 Gram
 * Blueberry Afgoo | Lemon Haze | Pineapple Express | Strawberry Cough | Girl Scout Cookies
 * Gelato | OG Kush | Runtz | Sour Tangie | Wedding Cake | Mango Kush
