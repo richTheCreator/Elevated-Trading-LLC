@@ -1,14 +1,14 @@
 ---
 date: 2020-12-13T20:48:22.632Z
-meta_description: "Elevated Trading CBD Hemp Flower: White CBG"
+meta_description: "Elevated Trading CBD Hemp Flower: White Series CBG"
 templateKey: product-details
 imageInfo:
-  alt: CBG white
   image: white-cbg.jpg
-title: CBG White
+  alt: White Series CBG
+title: White Series CBG
 category: Flower
 thc: 0.08
-cbd: 14.1
+cbd: 12.9
 weights:
   - metric: lb
     value: 1
@@ -16,25 +16,15 @@ weights:
     value: 5
   - metric: lb
     value: 20
-coa_link: cbg-flower.pdf
+coa_link: cbg-full-panel.pdf
 details:
-  info:
-    - label: Common Effects
-      items:
-        - item: Sleep
-        - item: Comfort
-        - item: Relax
-    - label: Flavor Profile
-      items:
-        - item: Peppery
-        - item: Earthy
-        - item: Spicy
+  info: []
+product_image: white-cbg.jpg
 ---
-This exquisite CBG strain by Crawford Genetics is delicate, but packs a high
-quality punch. As one of the finest CBG strains available today, it boasts a
-strong grapefruit aroma. Truly top shelf!
 
-* Wholesale White CBG Flower Contains 14.1% CBGa
+
+* Sativa
+* Wholesale White CBG Flower Contains 12.9% CBGa
 * Sun-grown Oregon CBD Flower
 * Hand Trimmed Buds
 * Lab Tested for Compliance and No Pesticides
