@@ -2,7 +2,9 @@
 date: 2021-02-18T21:18:54.396Z
 meta_description: "Elevated Trading Wholesale Hemp: Delta 8 Moon Rocks - Bubba Kush"
 templateKey: product-details
-product_image: bubba-kush-moon-rock-.jpg
+imageInfo:
+  image: bubba-kush-moon-rock-.jpg
+  alt: Delta 8 Moon Rocks - Bubba Kush
 title: Delta 8 Moon Rocks - Bubba Kush
 category: Flower
 thc: 0.02
@@ -15,6 +17,7 @@ weights:
   - metric: lb
     value: 20
 coa_link: moonrocks-bubba-47-.pdf
+product_image: bubba-kush-moon-rock-.jpg
 ---
 
 
