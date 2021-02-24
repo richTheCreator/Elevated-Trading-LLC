@@ -5,7 +5,7 @@ import SEO from '../../src/components/SEO/SEO'
 import { FeaturedBlog } from '../components/FeaturedBlog'
 
 const BlogResultsPage = ({ data, location }) => {
-  console.log('BLOG------PAGE------RENDER')
+
   return (
     <>
       <SEO />

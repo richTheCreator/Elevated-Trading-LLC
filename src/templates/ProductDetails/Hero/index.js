@@ -32,7 +32,7 @@ const Hero = ({
   weights,
   coa_link
 }) => {
-  console.log('coa', coa_link)
+
   const [weightVal, setWeight] = useState(
     `${weights[0].value} ${weights[0].metric}`
   )

@@ -12,8 +12,6 @@ import SEO from '../components/SEO/SEO'
 const IndexPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
-  console.log(frontmatter.farming)
-
   return (
     <>
       <SEO />

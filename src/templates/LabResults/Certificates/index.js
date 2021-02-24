@@ -3,7 +3,7 @@ import { Row, Col } from 'react-flexbox-grid'
 import { SectionWrapper, SectionMax } from '../../../components/Containers'
 import { CertificateCard } from '../../../components'
 const Certificates = ({ products }) => {
-  console.log('products----', products)
+
   return (
     <SectionWrapper bg='ivory'>
       <SectionMax style={{ margin: 'auto' }}>

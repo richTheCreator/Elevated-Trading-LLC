@@ -94,39 +94,39 @@ collections:
             ],
         }
       - { label: 'COA Upload', name: 'coa_link', widget: 'file' }
-      - { label: 'Details', name: 'details', widget: 'object', fields: [
-              # { label: 'Description', name: 'description', widget: 'markdown' },
-              {
-                label: 'Info',
-                name: 'info',
-                widget: 'list',
-                required: true,
-                fields:
-                  [
-                    {
-                      label: 'Label',
-                      name: 'label',
-                      widget: 'string',
-                      required: true,
-                    },
-                    {
-                      label: 'Items',
-                      name: 'items',
-                      widget: 'list',
-                      required: true,
-                      fields:
-                        [
-                          {
-                            label: 'Item',
-                            name: 'item',
-                            widget: 'string',
-                            required: true,
-                          },
-                        ],
-                    },
-                  ],
-              },
-            ] }
+      # - { label: 'Details', name: 'details', widget: 'object', fields: [
+      #         # { label: 'Description', name: 'description', widget: 'markdown' },
+      #         {
+      #           label: 'Info',
+      #           name: 'info',
+      #           widget: 'list',
+      #           required: true,
+      #           fields:
+      #             [
+      #               {
+      #                 label: 'Label',
+      #                 name: 'label',
+      #                 widget: 'string',
+      #                 required: true,
+      #               },
+      #               {
+      #                 label: 'Items',
+      #                 name: 'items',
+      #                 widget: 'list',
+      #                 required: true,
+      #                 fields:
+      #                   [
+      #                     {
+      #                       label: 'Item',
+      #                       name: 'item',
+      #                       widget: 'string',
+      #                       required: true,
+      #                     },
+      #                   ],
+      #               },
+      #             ],
+      #         },
+      #       ] }
       - { label: 'Description', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'

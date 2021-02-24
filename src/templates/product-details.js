@@ -12,7 +12,7 @@ export const ProductPageTemplate = ({
   metaDescription,
   imageInfo,
   category,
-  details,
+  // details,
   cbd,
   thc,
   weights,
@@ -37,7 +37,10 @@ export const ProductPageTemplate = ({
         thc={thc}
         weights={weights}
       />
-      <Description details={details} content={content} />
+      <Description 
+        // details={details} 
+        content={content} 
+      />
       <Shipping />
       <Subscription />
       <Values />
@@ -50,7 +53,7 @@ const ProductPage = ({ data, location }) => {
   return (
     <ProductPageTemplate
       pathname={location.pathname}
-      details={frontmatter.details}
+      // details={frontmatter.details}
       title={frontmatter.title}
       metaDescription={frontmatter.meta_description}
       imageInfo={frontmatter.imageInfo}
@@ -77,14 +80,6 @@ export const pageQuery = graphql`
         weights {
           value
           metric
-        }
-        details {
-          info {
-            label
-            items {
-              item
-            }
-          }
         }
         coa_link {
           name

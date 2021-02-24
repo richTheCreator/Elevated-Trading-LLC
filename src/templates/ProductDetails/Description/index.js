@@ -17,7 +17,7 @@ const Description = ({ details, content }) => {
           </Title>
           <PostContent content={content} />
         </Col>
-        <Row style={{ width: '100%' }}>
+        {/* <Row style={{ width: '100%' }}>
           {details &&
             details.info.map((d) => (
               <Col xs style={{ minWidth: '270px' }}>
@@ -27,7 +27,7 @@ const Description = ({ details, content }) => {
                 ))}
               </Col>
             ))}
-        </Row>
+        </Row> */}
       </SectionMax>
     </SectionWrapper>
   )

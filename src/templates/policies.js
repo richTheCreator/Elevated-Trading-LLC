@@ -7,7 +7,7 @@ import SEO from '../components/SEO/SEO'
 import Policies from './Policiespage'
 
 const ProductPage = ({ data }) => {
-  console.log('data', data)
+
   const { frontmatter, html } = data.markdownRemark
   return (
     <>

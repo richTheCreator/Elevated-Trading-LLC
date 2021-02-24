@@ -35,7 +35,6 @@ exports.createPages = ({ actions, graphql }) => {
 
     const posts = result.data.allMarkdownRemark.edges
     posts.forEach((edge) => {
-      console.log('POSTS----------------->', edge.node.fields.slug)
       const id = edge.node.id
       createPage({
         path: edge.node.fields.slug,
@@ -55,7 +54,6 @@ exports.createPages = ({ actions, graphql }) => {
     // Iterate through each post, putting all found tags into `tags`
     posts.forEach(edge => {
       if (_.get(edge, 'node.frontmatter.blogTags')) {
-        console.log('tags -------------------------', edge.node.frontmatter.blogTags)
         tags = [...tags, ...edge.node.frontmatter.blogTags]
       }
     })

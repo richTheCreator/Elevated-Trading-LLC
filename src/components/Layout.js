@@ -18,7 +18,6 @@ const TemplateWrapper = ({ children }) => {
     }
   } = useStaticQuery(query)
 
-  console.log('global', footer)
   const { menuLinks } = useSiteMetadata()
   const [open, setOpen] = useState()
   const [verified, setVerify] = useState()
