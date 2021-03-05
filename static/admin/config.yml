@@ -94,39 +94,6 @@ collections:
             ],
         }
       - { label: 'COA Upload', name: 'coa_link', widget: 'file' }
-      # - { label: 'Details', name: 'details', widget: 'object', fields: [
-      #         # { label: 'Description', name: 'description', widget: 'markdown' },
-      #         {
-      #           label: 'Info',
-      #           name: 'info',
-      #           widget: 'list',
-      #           required: true,
-      #           fields:
-      #             [
-      #               {
-      #                 label: 'Label',
-      #                 name: 'label',
-      #                 widget: 'string',
-      #                 required: true,
-      #               },
-      #               {
-      #                 label: 'Items',
-      #                 name: 'items',
-      #                 widget: 'list',
-      #                 required: true,
-      #                 fields:
-      #                   [
-      #                     {
-      #                       label: 'Item',
-      #                       name: 'item',
-      #                       widget: 'string',
-      #                       required: true,
-      #                     },
-      #                   ],
-      #               },
-      #             ],
-      #         },
-      #       ] }
       - { label: 'Description', name: 'body', widget: 'markdown' }
   - name: 'pages'
     label: 'Pages'
@@ -495,19 +462,3 @@ collections:
           default: false,
         }
       - { label: 'Content', name: 'body', widget: 'markdown' }
-#  - name: 'blog'
-#     label: 'Blog'
-#     folder: 'src/pages/blog'
-#     slug: '{{year}}-{{month}}-{{day}}-{{slug}}'
-#     fields:
-#       - {
-#           label: 'Template Key',
-#           name: 'templateKey',
-#           widget: 'hidden',
-#           default: 'blog-post',
-#         }
-#       - { label: 'Title', name: 'title', widget: 'string' }
-#       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-#       - { label: 'Description', name: 'description', widget: 'text' }
-#       - { label: 'Body', name: 'body', widget: 'markdown' }
-#       - { label: 'Tags', name: 'tags', widget: 'list' }
