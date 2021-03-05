@@ -7,7 +7,7 @@ import { categoryStyles } from './styles'
 import PreviewCompatibleImage from '../../../components/PreviewCompatibleImage'
 import { Row, Col } from 'react-flexbox-grid'
 
-const Products = ({ products: { heading, description, productImages } }) => {
+const Products = ({ products: { heading, description } }) => {
   const { menuLinks } = useSiteMetadata()
 
   return (

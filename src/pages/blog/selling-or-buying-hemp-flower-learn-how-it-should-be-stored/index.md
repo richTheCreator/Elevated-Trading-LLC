@@ -1,20 +1,21 @@
 ---
 date: 2021-01-19T15:05:54.520Z
-meta_description: "Selling or Buying Hemp Flower: Learn How it Should Be Stored "
+meta_description: 'Selling or Buying Hemp Flower: Learn How it Should Be Stored '
 templateKey: blog-post
-product_image: sellinghemp.jpg
-title: "Selling or Buying Hemp Flower: Learn How it Should Be Stored "
+product_image: selling-hemp.jpg
+title: 'Selling or Buying Hemp Flower: Learn How it Should Be Stored '
 blogTags:
   - CBD
   - Hemp Flower
   - Manufacturing
 is_featured: false
 ---
+
 ## Selling or Buying Hemp Flower: Learn How it Should Be Stored 
 
-CBD products have been progressively growing in popularity because of the wide variety of potential therapeutic benefits. 
+CBD products have been progressively growing in popularity because of the wide variety of potential therapeutic benefits.
 
-![Selling or Buying Hemp Flower: Learn How it Should Be Stored ](sellinghemp.jpg "Selling or Buying Hemp Flower: Learn How it Should Be Stored ")
+![Selling or Buying Hemp Flower: Learn How it Should Be Stored ](selling-hemp.jpg 'Selling or Buying Hemp Flower: Learn How it Should Be Stored ')
 
 However, there are still many uncertainties surrounding CBD [hemp flower](https://www.elevatedtrading.com/blog/selling-hemp-flower-legalities-and-guidelines-for-retailers/) and how you should store it — making retailers unsure of how to store hemp properly.
 
@@ -26,9 +27,9 @@ CBD hemp flower is the raw or dried hemp flower buds of the Cannabis sativa plan
 
 Hemp flower is rapidly growing in popularity for:
 
-* The health benefits of full-spectrum cannabis
-* A way to use cannabis without an unwanted psychoactive effect
-* A more straightforward, legal way to buy cannabis flower
+- The health benefits of full-spectrum cannabis
+- A way to use cannabis without an unwanted psychoactive effect
+- A more straightforward, legal way to buy cannabis flower
 
 Retailers: Learn the Proper Way to Store Hemp Flower
 

@@ -47,16 +47,6 @@ export const pageQuery = graphql`
         products {
           heading
           description
-          productImages {
-            image {
-              childImageSharp {
-                fluid(maxWidth: 800, quality: 80) {
-                  ...GatsbyImageSharpFluid_withWebp
-                }
-              }
-            }
-            alt
-          }
         }
         rogueValley {
           heading

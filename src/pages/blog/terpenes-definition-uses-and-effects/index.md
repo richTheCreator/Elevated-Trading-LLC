@@ -1,19 +1,20 @@
 ---
 date: 2021-01-12T21:22:12.812Z
-meta_description: "Terpenes: Definition, Uses, and Effects"
+meta_description: 'Terpenes: Definition, Uses, and Effects'
 templateKey: blog-post
-product_image: medical-marijuana-cannabis-cbd-oil-cbd-oil-hemp-pr-gz6r2ps-min.jpg
-title: "Terpenes: Definition, Uses, and Effects"
+product_image: medical-marijuana-cannabis-cbd-oil-cbd-oil-hemp.jpg
+title: 'Terpenes: Definition, Uses, and Effects'
 blogTags:
   - CBD
   - Hemp Flower
 is_featured: false
 ---
-![Terpenes: Definition, Uses, and Effects](medical-marijuana-cannabis-cbd-oil-cbd-oil-hemp-pr-gz6r2ps-min.jpg "Terpenes: Definition, Uses, and Effects")
+
+![Terpenes: Definition, Uses, and Effects](medical-marijuana-cannabis-cbd-oil-cbd-oil-hemp.jpg 'Terpenes: Definition, Uses, and Effects')
 
 One of the most significant aspects of living in the current age is witnessing the hemp industry’s growing field of cannabinoid research.
 
-Most of the research into hemp’s therapeutic benefits focuses on cannabinoids — CBD, CBN, CBG, CBC, and THC. 
+Most of the research into hemp’s therapeutic benefits focuses on cannabinoids — CBD, CBN, CBG, CBC, and THC.
 
 Besides cannabinoids, an often overlooked component of the equation is terpenes. Known for their potent aromatic characteristics, terpenes are what provide various hemp strains with exclusive flavor profiles. Beyond infusing hemp with unique tastes and smells, researchers deem terpenes to play a vital role in the future of [hemp products](https://www.elevatedtrading.com/products).
 

@@ -149,7 +149,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         custom: {
-          families: ['Fortika'],
+          families: ['Fortika']
           // urls: ['/fonts/fonts.css']
         },
         google: {

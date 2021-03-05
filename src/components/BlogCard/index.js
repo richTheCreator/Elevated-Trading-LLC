@@ -23,6 +23,8 @@ const BlogCard = ({
     frontmatter: { title, category, thc, cbd, product_image, date, blogTags }
   }
 }) => {
+  console.log('title------', title)
+  console.log('product_image------', product_image)
   return (
     <Link
       cover
@@ -32,37 +34,44 @@ const BlogCard = ({
       style={{ textDecoration: 'none', width: '100%' }}
     >
       <Container>
-        <Wrapper order={[2, 1]} py={1} pr={[0, 3]} width={[1, 2 / 3]} justifyContent="space-between">
+        <Wrapper
+          order={[2, 1]}
+          py={1}
+          pr={[0, 3]}
+          width={[1, 2 / 3]}
+          justifyContent='space-between'
+        >
           <div>
-            <Overline color="ivory" mb={0}>
+            <Overline color='ivory' mb={0}>
               {date}
             </Overline>
-            <Heading4 color="ivory" pl={0} pr={0} pt={2} m={0}>
+            <Heading4 color='ivory' pl={0} pr={0} pt={2} m={0}>
               {title}
             </Heading4>
-            <Body2 color="ivory">
-              {excerpt}
-            </Body2>
+            <Body2 color='ivory'>{excerpt}</Body2>
           </div>
-          <Flex flexDirection="row" flexWrap='wrap'>
-            {
-              blogTags.map((tag) => (
-                <Link
-                  cover
-                  bg='#727A68'
-                  direction='down'
-                  to={`/blog/tags/${_.kebabCase(tag)}`}
-                  style={{ textDecoration: 'none' }}
-                >
-                  <Overline mb={0} bg="sage" color="ivory" py={1} px={2} mr={3}>
+          <Flex flexDirection='row' flexWrap='wrap'>
+            {blogTags.map((tag) => (
+              <Link
+                cover
+                bg='#727A68'
+                direction='down'
+                to={`/blog/tags/${_.kebabCase(tag)}`}
+                style={{ textDecoration: 'none' }}
+              >
+                <Overline mb={0} bg='sage' color='ivory' py={1} px={2} mr={3}>
                   #{tag}
-                  </Overline>
-                </Link>
-              ))
-            }
+                </Overline>
+              </Link>
+            ))}
           </Flex>
         </Wrapper>
-        <Flex order={[1, 2]} flexDirection="column" flexWrap="wrap" width={[1, 1 / 3]}>
+        <Flex
+          order={[1, 2]}
+          flexDirection='column'
+          flexWrap='wrap'
+          width={[1, 1 / 3]}
+        >
           <ProductImage fluid={product_image.childImageSharp.fluid} />
         </Flex>
       </Container>

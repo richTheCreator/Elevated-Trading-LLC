@@ -52,7 +52,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Tag pages:
     let tags = []
     // Iterate through each post, putting all found tags into `tags`
-    posts.forEach(edge => {
+    posts.forEach((edge) => {
       if (_.get(edge, 'node.frontmatter.blogTags')) {
         tags = [...tags, ...edge.node.frontmatter.blogTags]
       }
@@ -61,7 +61,7 @@ exports.createPages = ({ actions, graphql }) => {
     tags = _.uniq(tags)
 
     // Make tag pages
-    tags.forEach(tag => {
+    tags.forEach((tag) => {
       const tagPath = `blog/tags/${_.kebabCase(tag)}/`
       createPage({
         path: tagPath,
