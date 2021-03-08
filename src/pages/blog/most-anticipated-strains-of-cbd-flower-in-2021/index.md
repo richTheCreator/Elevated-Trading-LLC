@@ -11,8 +11,6 @@ is_featured: false
 ---
 # Most Anticipated Strains of CBD Flower in 2021
 
-
-
 One hit of Bubba Kush and Blueberry Diesel — and you’ll quickly understand why they are making waves in the CBD flower market. 
 
 CBD flower is a thriving market as an increasing number of consumers are shifting to CBD strains because of the various therapeutic benefits compared to THC. For many retailers, the strain content is a critical factor when it comes to stocking the shelves.
