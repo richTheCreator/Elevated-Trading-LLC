@@ -11,8 +11,8 @@ import BlogFilters from './BlogFilters'
 const BlogTitle = styled(Heading1)`
   -webkit-text-stroke-width: 1px;
   -webkit-text-stroke-color: ${(props) => props.theme.colors.ivory};
-  color:transparent;
-  line-height: 100%!important;
+  color: transparent;
+  line-height: 100% !important;
 `
 const BlogResults = ({ data, pageContext, location }) => {
   const { edges: posts } = data.allMarkdownRemark
@@ -32,12 +32,19 @@ const BlogResults = ({ data, pageContext, location }) => {
           {/* RESULTS */}
           <Flex flexDirection='row' flexWrap='wrap' mx={-3}>
             {posts &&
-              posts.map(({ node: post }) => (
-                !post.frontmatter.is_featured &&
-                <Flex flexDirection='column' width={[1, 1 / 2]} mb={4} px={3}>
-                  <BlogCard post={post} />
-                </Flex>
-              ))}
+              posts.map(
+                ({ node: post }) =>
+                  !post.frontmatter.is_featured && (
+                    <Flex
+                      flexDirection='column'
+                      width={[1, 1 / 2]}
+                      mb={4}
+                      px={3}
+                    >
+                      <BlogCard post={post} />
+                    </Flex>
+                  )
+              )}
           </Flex>
         </Flex>
       </SectionMax>

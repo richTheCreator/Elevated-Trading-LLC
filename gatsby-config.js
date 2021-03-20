@@ -149,8 +149,8 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         custom: {
-          families: ['Fortika']
-          // urls: ['/fonts/fonts.css']
+          families: ['Fortika'],
+          urls: ['/fonts/fonts.css']
         },
         google: {
           families: ['Poppins:400,400i,700,700i']

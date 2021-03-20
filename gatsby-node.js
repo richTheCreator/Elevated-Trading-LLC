@@ -22,6 +22,7 @@ exports.createPages = ({ actions, graphql }) => {
             frontmatter {
               templateKey
               blogTags
+              category
             }
           }
         }
@@ -33,8 +34,9 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const posts = result.data.allMarkdownRemark.edges
-    posts.forEach((edge) => {
+    //  CREATE SITE PAGES -------------
+    const sitePages = result.data.allMarkdownRemark.edges
+    sitePages.forEach((edge) => {
       const id = edge.node.id
       createPage({
         path: edge.node.fields.slug,
@@ -49,10 +51,35 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    // Tag pages:
+    //  CREATE PRODUCT CATEGORY PAGES -------------
+    let categories = []
+    // Iterate through each product, putting all found categories into array
+    sitePages.forEach((page) => {
+      if (_.get(page, 'node.frontmatter.category')) {
+        categories = [...categories, page.node.frontmatter.category]
+      }
+    })
+
+    // Eliminate duplicate categories
+    categories = _.uniq(categories)
+
+    // Make category pages
+    categories.forEach((category) => {
+      const categoryPath = `products/${_.kebabCase(category)}/`
+      console.log('category-----node', category)
+      createPage({
+        path: categoryPath,
+        component: path.resolve('src/templates/product-categories.js'),
+        context: {
+          category
+        }
+      })
+    })
+
+    //  CREATE TAG PAGES -------------
     let tags = []
     // Iterate through each post, putting all found tags into `tags`
-    posts.forEach((edge) => {
+    sitePages.forEach((edge) => {
       if (_.get(edge, 'node.frontmatter.blogTags')) {
         tags = [...tags, ...edge.node.frontmatter.blogTags]
       }
@@ -63,6 +90,7 @@ exports.createPages = ({ actions, graphql }) => {
     // Make tag pages
     tags.forEach((tag) => {
       const tagPath = `blog/tags/${_.kebabCase(tag)}/`
+      console.log('tag-----node', tag)
       createPage({
         path: tagPath,
         component: path.resolve('src/templates/blog-tags.js'),

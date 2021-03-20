@@ -8,8 +8,8 @@ const BlogTagsPage = ({ data, count, pageContext, location }) => {
   return (
     <>
       <SEO />
-      <FeaturedBlog/>
-      <BlogResults data={data} pageContext={pageContext} location={location}/>
+      <FeaturedBlog />
+      <BlogResults data={data} pageContext={pageContext} location={location} />
     </>
   )
 }
@@ -17,34 +17,34 @@ const BlogTagsPage = ({ data, count, pageContext, location }) => {
 export default BlogTagsPage
 
 export const pageQuery = graphql`
-      query TagPage($tag: String) {
-        allMarkdownRemark(
-          limit: 10
-          filter: { frontmatter: { blogTags: { in: [$tag] } } }
-        ) {
-          totalCount
-          edges {
-            node {
-              excerpt(pruneLength: 200)
-              fields {
-                slug
-              }
-              frontmatter {
-                title
-                blogTags
-                is_featured
-                templateKey
-                product_image {
-                  childImageSharp {
-                    fluid(maxWidth: 800, quality: 100) {
-                      ...GatsbyImageSharpFluid_withWebp
-                    }
-                  }
+  query TagPage($tag: String) {
+    allMarkdownRemark(
+      limit: 10
+      filter: { frontmatter: { blogTags: { in: [$tag] } } }
+    ) {
+      totalCount
+      edges {
+        node {
+          excerpt(pruneLength: 200)
+          fields {
+            slug
+          }
+          frontmatter {
+            title
+            blogTags
+            is_featured
+            templateKey
+            product_image {
+              childImageSharp {
+                fluid(maxWidth: 800, quality: 100) {
+                  ...GatsbyImageSharpFluid_withWebp
                 }
-                date(formatString: "MMMM DD, YYYY")
               }
             }
+            date(formatString: "MMMM DD, YYYY")
           }
         }
       }
-    `
+    }
+  }
+`

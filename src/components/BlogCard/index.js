@@ -23,8 +23,6 @@ const BlogCard = ({
     frontmatter: { title, category, thc, cbd, product_image, date, blogTags }
   }
 }) => {
-  console.log('title------', title)
-  console.log('product_image------', product_image)
   return (
     <Link
       cover
