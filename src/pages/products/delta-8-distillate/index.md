@@ -6,7 +6,7 @@ imageInfo:
   alt: Delta 8 distillate
   image: distillate-w_logo.png
 title: Delta 8 Distillate
-category: Concentrate
+category: Distillate
 thc: 0
 cbd: 0
 weights:
@@ -16,4 +16,5 @@ coa_link: d8-distillate-coa-website.pdf
 details:
   info: []
 ---
+
 Wholesale Delta 8 Distillate

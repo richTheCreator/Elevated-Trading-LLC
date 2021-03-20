@@ -57,7 +57,16 @@ collections:
           widget: 'select',
           multiple: false,
           options:
-            ['Flower', 'Concentrate', 'Edible', 'Vape', 'Tincture', 'Smokable'],
+            [
+              Flower,
+              Distillate,
+              Crude,
+              Isolate,
+              Kief,
+              Edibles,
+              Concentrate,
+              Vape,
+            ],
           required: true,
           default: 'Flower',
         }

@@ -6,7 +6,7 @@ imageInfo:
   image: cbg-kief.jpg
   alt: CBG Kief
 title: CBG Kief
-category: Flower
+category: Kief
 thc: 0.02
 cbd: 36.2
 weights:
@@ -20,7 +20,6 @@ coa_link: cbg-kief.pdf
 product_image: cbg-kief.jpg
 ---
 
-
-* Sun-grown Oregon CBG Kief
-* Lab Tested for Compliance and No Pesticides
-* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
+- Sun-grown Oregon CBG Kief
+- Lab Tested for Compliance and No Pesticides
+- Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC

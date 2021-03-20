@@ -6,7 +6,7 @@ imageInfo:
   image: cbd-kief.jpg
   alt: CBD Kief
 title: CBD Kief
-category: Flower
+category: Kief
 thc: 0.02
 cbd: 14.6
 weights:
@@ -20,7 +20,6 @@ coa_link: cbd-kief.pdf
 product_image: cbd-kief.jpg
 ---
 
-
-* Sun-grown Oregon CBD Kief
-* Lab Tested for Compliance and No Pesticides
-* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
+- Sun-grown Oregon CBD Kief
+- Lab Tested for Compliance and No Pesticides
+- Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC

@@ -8,7 +8,7 @@ imageInfo:
   alt: Delta 8 gummies
   image: d8gummy.jpg
 title: Delta 8 Gummies
-category: Edible
+category: Edibles
 thc: 0
 cbd: 0
 weights:
@@ -16,12 +16,13 @@ weights:
     value: 1
 coa_link: d8-gummies-coa.pdf
 ---
+
 Our wholesale Delta 8 gummies are non-GMO and gluten free.
 Elevated Trading's wholesale Delta 8 THC gummies are the best tasting Delta 8 gummies on the market! We ensure that all of the ingredients that go into our wholesale Delta 8 gummies are of the highest quality. These wholesale Delta 8 gummies are infused with top quality Delta 8 distillate, and they taste great! There is no "hempy" flavor in any of our wholesale Delta 8 products and these wholesale Delta 8 gummies will have your customers coming back for more! Each gummy contains a true 25mg dose.
 
 Available in the following flavors:
 
-* Kiwi Grapefruit
+- Kiwi Grapefruit
 
   Strawberry
 
