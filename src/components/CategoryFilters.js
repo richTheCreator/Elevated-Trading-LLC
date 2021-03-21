@@ -7,13 +7,19 @@ import _ from 'lodash'
 
 // set a default active category state
 
-const Filter = ({ category, activeCategory }) => {
+const Filter = ({ category, activeCategory, location }) => {
   const categoryUrl =
     category !== 'all' ? `/products/${_.kebabCase(category)}/` : '/products/'
+
+  console.log('location.state.key', location?.state?.key)
   return (
     <Link
       to={categoryUrl}
-      state={{ activeCategory: category }}
+      state={{
+        activeCategory: category,
+        prevPath: location.pathname,
+        prevKey: location?.state?.key
+      }}
       style={{ display: 'inline-block', cursor: 'pointer' }}
     >
       <Button
@@ -35,7 +41,6 @@ const Filter = ({ category, activeCategory }) => {
   )
 }
 const CategoryFilters = ({ data, location }) => {
-  console.log('category------data', data)
   const { state = {} } = location
   let activeCategory = null
   if (location.state) {
@@ -54,8 +59,6 @@ const CategoryFilters = ({ data, location }) => {
   })
 
   categories = _.uniq(categories)
-
-  console.log(categories)
 
   return (
     <Flex
@@ -76,7 +79,11 @@ const CategoryFilters = ({ data, location }) => {
       }}
     >
       {categories.map((category) => (
-        <Filter category={category} activeCategory={activeCategory || 'all'} />
+        <Filter
+          category={category}
+          activeCategory={activeCategory || 'all'}
+          location={location}
+        />
       ))}
     </Flex>
   )

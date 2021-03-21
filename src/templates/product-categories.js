@@ -4,8 +4,6 @@ import ProductResults from '../../src/components/ProductResults'
 import SEO from '../../src/components/SEO/SEO'
 
 const ProductCategory = ({ data, count, pageContext, location }) => {
-  console.log('data', data)
-  console.log('pageContext', pageContext)
   return (
     <>
       <SEO />

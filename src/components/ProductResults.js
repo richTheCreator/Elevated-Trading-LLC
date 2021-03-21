@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
+import React, { useEffect } from 'react'
 import PropTypes from 'prop-types'
-import { Link, graphql, StaticQuery } from 'gatsby'
+import { useScrollRestoration } from 'gatsby'
 import styled from 'styled-components'
 import { space } from 'styled-system'
 import { ProductCard } from './ProductCard'
@@ -20,6 +20,17 @@ const RowWrapper = styled(Row)`
 `
 const ProductResults = ({ data, pageContext, location }) => {
   const { edges: posts } = data.allMarkdownRemark
+  useEffect(() => {
+    const { key, pathname, state } = location
+    console.log('state', state)
+    const scrollPos = `@@scroll|${state.prevPath}|${state.prevKey}`
+    console.log(scrollPos)
+    if (typeof window !== 'undefined') {
+      let currentPosition = window.sessionStorage.getItem(scrollPos)
+      console.log('currentPos', currentPosition)
+      window.scrollTo(0, currentPosition)
+    }
+  })
 
   // array of unique categories in current products & an All option
   // const defaultCat = 'all'
@@ -62,7 +73,7 @@ const ProductResults = ({ data, pageContext, location }) => {
 
   // const { filteredData, appliedFilter, categories } = state
   return (
-    <SectionWrapper bg='black'>
+    <SectionWrapper bg='black' style={{ overflowY: 'auto' }}>
       <SectionMax style={{ margin: 'auto' }}>
         <Col xs={12} style={{ padding: '0px' }}>
           {/* HEMP STARTER KIT */}

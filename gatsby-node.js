@@ -66,7 +66,6 @@ exports.createPages = ({ actions, graphql }) => {
     // Make category pages
     categories.forEach((category) => {
       const categoryPath = `products/${_.kebabCase(category)}/`
-      console.log('category-----node', category)
       createPage({
         path: categoryPath,
         component: path.resolve('src/templates/product-categories.js'),
@@ -90,7 +89,6 @@ exports.createPages = ({ actions, graphql }) => {
     // Make tag pages
     tags.forEach((tag) => {
       const tagPath = `blog/tags/${_.kebabCase(tag)}/`
-      console.log('tag-----node', tag)
       createPage({
         path: tagPath,
         component: path.resolve('src/templates/blog-tags.js'),
