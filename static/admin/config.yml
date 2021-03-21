@@ -102,6 +102,32 @@ collections:
               },
             ],
         }
+      - {
+          label: 'Cannabinoids',
+          name: 'cannabinoids',
+          widget: 'list',
+          min: 2,
+          max: 2,
+          fields:
+            [
+              {
+                label: 'Value',
+                name: 'value',
+                widget: 'number',
+                valueType: 'float',
+                required: true,
+              },
+              {
+                label: 'Type',
+                name: 'type',
+                widget: 'select',
+                multiple: false,
+                options: ['CBD', 'CBG', 'CBN', '∆9-THC', '∆8-THC', Total T],
+                default: '∆9-THC',
+                required: true,
+              },
+            ],
+        }
       - { label: 'COA Upload', name: 'coa_link', widget: 'file' }
       - { label: 'Description', name: 'body', widget: 'markdown' }
   - name: 'pages'
