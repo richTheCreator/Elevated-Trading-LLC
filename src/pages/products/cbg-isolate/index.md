@@ -7,11 +7,14 @@ imageInfo:
   image: cbd-isolate.jpg
 title: CBG | Isolate
 category: Isolate
-thc: 0
-cbd: 0
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBG
+    value: 99.53
+  - type: ∆9 THC
+    value: 0
 coa_link: cbg-isolate-coa.pdf
 details:
   info: []

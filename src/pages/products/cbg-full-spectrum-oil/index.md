@@ -7,11 +7,14 @@ imageInfo:
   image: crude.jpg
 title: CBG | Full-Spectrum Oil (Crude)
 category: Crude
-thc: 2
-cbd: 4
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBG
+    value: 65
+  - type: ∆9 THC
+    value: 1.28
 coa_link: coa-placeholder.pdf
 details:
   info: []

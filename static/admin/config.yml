@@ -71,7 +71,7 @@ collections:
           default: 'Flower',
         }
       - {
-          label: '∆9-THC %',
+          label: '∆9 THC %',
           name: 'thc',
           widget: 'number',
           valueType: 'float',
@@ -122,8 +122,8 @@ collections:
                 name: 'type',
                 widget: 'select',
                 multiple: false,
-                options: ['CBD', 'CBG', 'CBN', '∆9-THC', '∆8-THC', Total T],
-                default: '∆9-THC',
+                options: ['CBD', 'CBG', 'CBN', '∆9 THC', '∆8 THC', Total T],
+                default: '∆9 THC',
                 required: true,
               },
             ],

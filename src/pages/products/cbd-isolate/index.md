@@ -7,11 +7,14 @@ imageInfo:
   image: cbd-isolate.jpg
 title: CBD | Isolate
 category: Isolate
-thc: 0
-cbd: 99
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBD
+    value: 99.3
+  - type: ∆9 THC
+    value: 0
 coa_link: cbd-isolate-coa-and-purity-test.pdf
 details:
   info: []

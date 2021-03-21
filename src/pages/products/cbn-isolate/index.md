@@ -7,11 +7,14 @@ imageInfo:
   image: cbd-isolate.jpg
 title: CBN | Isolate
 category: Isolate
-thc: 0
-cbd: 0
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBN
+    value: 98.57
+  - type: ∆9 THC
+    value: 0
 coa_link: cbn-isolate-coa-98.5-.pdf
 ---
 

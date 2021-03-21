@@ -7,11 +7,14 @@ imageInfo:
   image: Crude.jpg
 title: CBD | Full-Spectrum Oil (Crude)
 category: Crude
-thc: 2
-cbd: 65
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBD
+    value: 4
+  - type: ∆9 THC
+    value: 2
 coa_link: winterized-crude-coa-website.pdf
 details:
   info: []

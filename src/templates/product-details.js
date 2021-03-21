@@ -12,9 +12,8 @@ export const ProductPageTemplate = ({
   metaDescription,
   imageInfo,
   category,
+  cannabinoids,
   // details,
-  cbd,
-  thc,
   weights,
   coa_link,
   content,
@@ -33,13 +32,12 @@ export const ProductPageTemplate = ({
         imageInfo={imageInfo.image.childImageSharp.fluid}
         category={category}
         coa_link={coa_link}
-        cbd={cbd}
-        thc={thc}
+        cannabinoids={cannabinoids}
         weights={weights}
       />
-      <Description 
-        // details={details} 
-        content={content} 
+      <Description
+        // details={details}
+        content={content}
       />
       <Shipping />
       <Subscription />
@@ -58,8 +56,7 @@ const ProductPage = ({ data, location }) => {
       metaDescription={frontmatter.meta_description}
       imageInfo={frontmatter.imageInfo}
       category={frontmatter.category}
-      cbd={frontmatter.cbd}
-      thc={frontmatter.thc}
+      cannabinoids={frontmatter.cannabinoids}
       weights={frontmatter.weights}
       coa_link={frontmatter.coa_link}
       content={html}
@@ -86,8 +83,10 @@ export const pageQuery = graphql`
           extension
           publicURL
         }
-        thc
-        cbd
+        cannabinoids {
+          type
+          value
+        }
         imageInfo {
           alt
           image {

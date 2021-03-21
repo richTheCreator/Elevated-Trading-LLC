@@ -27,11 +27,12 @@ const Hero = ({
   title,
   imageInfo,
   category,
-  cbd,
-  thc,
   weights,
-  coa_link
+  coa_link,
+  cannabinoids
 }) => {
+  const canna1 = cannabinoids[0]
+  const canna2 = cannabinoids[1]
 
   const [weightVal, setWeight] = useState(
     `${weights[0].value} ${weights[0].metric}`
@@ -97,8 +98,8 @@ const Hero = ({
           <Row style={{ width: '100%' }}>
             <BaseBorder xs={3} borderWidth='2px 2px 2px 0px' pl={0}>
               <ButtonText textAlign='left' fontSize={'18px'} color='black'>
-                {cbd}% <br />
-                <span style={{ fontSize: '11.85px' }}>CBD</span>
+                {canna1.value}% <br />
+                <span style={{ fontSize: '11.85px' }}>{canna1.type}</span>
               </ButtonText>
             </BaseBorder>
             <BaseBorder xs={6} borderWidth='2px 2px 2px 0px'>
@@ -108,8 +109,8 @@ const Hero = ({
             </BaseBorder>
             <BaseBorder xs={3} borderWidth='2px 0px 2px 0px' pr={0}>
               <ButtonText textAlign='right' fontSize={'18px'} color='black'>
-                {thc}% <br />
-                <span style={{ fontSize: '11.85px' }}>∆9-THC</span>
+                {canna2.value}% <br />
+                <span style={{ fontSize: '11.85px' }}>{canna2.type}</span>
               </ButtonText>
             </BaseBorder>
           </Row>

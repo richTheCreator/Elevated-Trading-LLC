@@ -9,11 +9,14 @@ imageInfo:
   image: d8gummy.jpg
 title: Delta 8 Gummies
 category: Edibles
-thc: 0
-cbd: 0
 weights:
   - metric: lb
     value: 1
+cannabinoids:
+  - type: ∆8 THC
+    value: 25
+  - type: ∆9 THC
+    value: 0.02
 coa_link: d8-gummies-coa.pdf
 ---
 

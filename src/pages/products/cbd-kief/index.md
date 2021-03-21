@@ -7,8 +7,6 @@ imageInfo:
   alt: CBD Kief
 title: CBD Kief
 category: Kief
-thc: 0.02
-cbd: 14.6
 weights:
   - metric: lb
     value: 1
@@ -16,6 +14,11 @@ weights:
     value: 5
   - metric: lb
     value: 20
+cannabinoids:
+  - type: CBD
+    value: 14.6
+  - type: ∆9 THC
+    value: 0.02
 coa_link: cbd-kief.pdf
 product_image: cbd-kief.jpg
 ---

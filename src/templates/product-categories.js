@@ -41,8 +41,10 @@ export const pageQuery = graphql`
           frontmatter {
             title
             category
-            cbd
-            thc
+            cannabinoids {
+              type
+              value
+            }
             templateKey
             imageInfo {
               alt

@@ -7,8 +7,6 @@ imageInfo:
   alt: CBG Kief
 title: CBG Kief
 category: Kief
-thc: 0.02
-cbd: 36.2
 weights:
   - metric: lb
     value: 1
@@ -16,6 +14,11 @@ weights:
     value: 5
   - metric: lb
     value: 20
+cannabinoids:
+  - type: CBG
+    value: 31.94
+  - type: ∆9 THC
+    value: 0.158
 coa_link: cbg-kief.pdf
 product_image: cbg-kief.jpg
 ---

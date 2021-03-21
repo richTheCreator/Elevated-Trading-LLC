@@ -7,11 +7,14 @@ imageInfo:
   image: distillate-w_logo.png
 title: Delta 8 Distillate
 category: Distillate
-thc: 0
-cbd: 0
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: ∆8 THC
+    value: 92.5
+  - type: ∆9 THC
+    value: 0.02
 coa_link: d8-distillate-coa-website.pdf
 details:
   info: []

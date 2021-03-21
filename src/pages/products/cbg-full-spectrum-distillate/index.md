@@ -7,11 +7,14 @@ imageInfo:
   image: distillate.jpg
 title: CBG | Distillate
 category: Distillate
-thc: 1
-cbd: 4
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBG
+    value: 79.7
+  - type: ∆9 THC
+    value: 1.28
 coa_link: cbg-distillate-coa-website.pdf
 details:
   info: []

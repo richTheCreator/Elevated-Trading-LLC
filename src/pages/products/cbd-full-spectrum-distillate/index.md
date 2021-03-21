@@ -7,11 +7,14 @@ imageInfo:
   image: Distillate.jpg
 title: CBD | Distillate
 category: Distillate
-thc: 2
-cbd: 85
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBD
+    value: 85
+  - type: ∆9 THC
+    value: 2
 coa_link: elevated-trading-fsd-website.pdf
 details:
   info: []

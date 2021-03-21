@@ -7,11 +7,14 @@ imageInfo:
   image: cbd-isolate.jpg
 title: CBD | Water-Soluble Powder
 category: Isolate
-thc: 0.03
-cbd: 12
 weights:
   - metric: kg
     value: 1
+cannabinoids:
+  - type: CBD
+    value: 12
+  - type: ∆9 THC
+    value: 0.03
 coa_link: water-soluble-coa-website.pdf
 details:
   info: []

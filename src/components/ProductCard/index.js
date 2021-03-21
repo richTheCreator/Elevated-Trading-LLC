@@ -16,9 +16,11 @@ const ProductCard = ({
   post: {
     id,
     fields,
-    frontmatter: { title, category, thc, cbd, imageInfo }
+    frontmatter: { title, category, imageInfo, cannabinoids }
   }
 }) => {
+  const canna1 = cannabinoids[0]
+  const canna2 = cannabinoids[1]
   return (
     <Col>
       <Link
@@ -50,8 +52,8 @@ const ProductCard = ({
                     fontSize={5}
                     borderWidth='0px 2px 0px 0px'
                   >
-                    {cbd}% <br />
-                    <span style={{ fontSize: '11.85px' }}>CBD</span>
+                    {canna1.value}% <br />
+                    <span style={{ fontSize: '11.85px' }}>{canna1.type}</span>
                   </BaseBorder>
                 </Col>
                 <Col xs={6} style={{ padding: '0px' }}>
@@ -60,9 +62,9 @@ const ProductCard = ({
                     fontSize={5}
                     borderWidth='0px 2px 0px 0px'
                   >
-                    {thc}%
+                    {canna2.value}%
                     <br />
-                    <span style={{ fontSize: '11.85px' }}>∆9-THC</span>
+                    <span style={{ fontSize: '11.85px' }}>{canna2.type}</span>
                   </BaseBorder>
                 </Col>
               </Row>
