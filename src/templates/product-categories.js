@@ -4,9 +4,11 @@ import ProductResults from '../../src/components/ProductResults'
 import SEO from '../../src/components/SEO/SEO'
 
 const ProductCategory = ({ data, count, pageContext, location }) => {
+  const metaTitle = `${pageContext.category} hemp | High quality, fair price | Elevated Trading LLC`
+
   return (
     <>
-      <SEO />
+      <SEO title={metaTitle} />
       <ProductResults
         data={data}
         pageContext={pageContext}

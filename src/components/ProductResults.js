@@ -9,7 +9,7 @@ import CategoryFilters from './CategoryFilters'
 import { Row, Col } from 'react-flexbox-grid'
 import { SectionWrapper, SectionMax } from './Containers'
 import { Button } from './Button'
-import { Heading2, Body2 } from './Typography'
+import { Heading1, Body2 } from './Typography'
 import ProductResultsPage from '../templates/product-results'
 
 const RowWrapper = styled(Row)`
@@ -19,15 +19,20 @@ const RowWrapper = styled(Row)`
   }
 `
 const ProductResults = ({ data, pageContext, location }) => {
+  console.log('pageContext', pageContext)
+
+  const categoryTitle = pageContext?.category ? pageContext.category : 'All'
   const { edges: posts } = data.allMarkdownRemark
+
+  // Scroll position helper
   useEffect(() => {
     const { key, pathname, state } = location
-    console.log('state', state)
+
     const scrollPos = `@@scroll|${state.prevPath}|${state.prevKey}`
-    console.log(scrollPos)
+
     if (typeof window !== 'undefined') {
       let currentPosition = window.sessionStorage.getItem(scrollPos)
-      console.log('currentPos', currentPosition)
+
       window.scrollTo(0, currentPosition)
     }
   })
@@ -80,9 +85,15 @@ const ProductResults = ({ data, pageContext, location }) => {
           <FeaturedCard />
           {/* PAGE DESC */}
           <RowWrapper middle='xs' mt={6}>
-            <Heading2 mt={0} mb={0} color='ivory'>
-              HEMP PRODUCTS
-            </Heading2>
+            <Heading1
+              mt={0}
+              mb={0}
+              color='ivory'
+              fontSize={['36px', '52px']}
+              lineHeight={['42px', 'auto']}
+            >
+              {categoryTitle} Products
+            </Heading1>
           </RowWrapper>
           {/* FILTERS */}
           <RowWrapper
