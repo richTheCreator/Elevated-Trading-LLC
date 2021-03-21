@@ -16,6 +16,11 @@ weights:
     value: 5
   - metric: lb
     value: 20
+cannabinoids:
+  - type: CBD
+    value: 11.8
+  - type: ∆9-THC
+    value: 0.06
 coa_link: abacus.pdf
 ---
 
