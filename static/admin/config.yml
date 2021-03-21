@@ -71,20 +71,6 @@ collections:
           default: 'Flower',
         }
       - {
-          label: '∆9 THC %',
-          name: 'thc',
-          widget: 'number',
-          valueType: 'float',
-          required: true,
-        }
-      - {
-          label: 'CBD %',
-          name: 'cbd',
-          widget: 'number',
-          valueType: 'float',
-          required: true,
-        }
-      - {
           label: 'Weight',
           name: 'weights',
           widget: 'list',

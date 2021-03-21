@@ -17,7 +17,7 @@ weights:
 cannabinoids:
   - type: ∆8 THC
     value: 10
-  - type: ∆CBD
+  - type: CBD
     value: 9.66
 coa_link: d8-bubba-10-.pdf
 ---
