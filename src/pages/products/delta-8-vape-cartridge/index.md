@@ -10,7 +10,7 @@ imageInfo:
 title: Delta 8 Vape Cartridge
 category: Vape
 weights:
-  - metric: lb
+  - metric: g
     value: 1
 cannabinoids:
   - type: ∆8 THC

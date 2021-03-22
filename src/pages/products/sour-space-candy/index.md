@@ -8,12 +8,12 @@ imageInfo:
 title: Sour Space Candy
 category: Flower
 weights:
+  - metric: g
+    value: 3.5
+  - metric: g
+    value: 7
   - metric: lb
     value: 1
-  - metric: lb
-    value: 5
-  - metric: lb
-    value: 20
 coa_link: sour-space-candy-16.75-cultivar-oregon.pdf
 cannabinoids:
   - type: CBD

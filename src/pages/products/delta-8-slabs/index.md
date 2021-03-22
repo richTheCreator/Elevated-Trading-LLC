@@ -8,6 +8,10 @@ imageInfo:
 title: Delta 8 Slabs
 category: Concentrate
 weights:
+  - metric: g
+    value: 1
+  - metric: g
+    value: 3
   - metric: lb
     value: 1
 coa_link: d8-hemp-slab.pdf

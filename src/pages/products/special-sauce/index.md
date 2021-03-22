@@ -8,12 +8,12 @@ imageInfo:
 title: Special Sauce
 category: Flower
 weights:
+  - metric: g
+    value: 3.5
+  - metric: g
+    value: 7
   - metric: lb
     value: 1
-  - metric: lb
-    value: 5
-  - metric: lb
-    value: 20
 cannabinoids:
   - type: CBD
     value: 14.8

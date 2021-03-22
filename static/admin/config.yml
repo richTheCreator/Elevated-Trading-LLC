@@ -82,7 +82,7 @@ collections:
                 name: 'metric',
                 widget: 'select',
                 multiple: false,
-                options: ['lb', 'kg'],
+                options: ['lb', 'kg', 'g', 'L', 'pcs', 'Bars'],
                 default: 'lb',
                 required: true,
               },

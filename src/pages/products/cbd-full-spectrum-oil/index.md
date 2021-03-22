@@ -8,7 +8,7 @@ imageInfo:
 title: CBD | Full-Spectrum Oil (Crude)
 category: Crude
 weights:
-  - metric: kg
+  - metric: L
     value: 1
 cannabinoids:
   - type: CBD

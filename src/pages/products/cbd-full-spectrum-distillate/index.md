@@ -8,7 +8,7 @@ imageInfo:
 title: CBD | Distillate
 category: Distillate
 weights:
-  - metric: kg
+  - metric: L
     value: 1
 cannabinoids:
   - type: CBD

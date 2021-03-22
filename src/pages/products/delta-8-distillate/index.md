@@ -8,7 +8,7 @@ imageInfo:
 title: Delta 8 Distillate
 category: Distillate
 weights:
-  - metric: kg
+  - metric: L
     value: 1
 cannabinoids:
   - type: ∆8 THC

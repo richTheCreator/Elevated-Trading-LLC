@@ -8,7 +8,7 @@ imageInfo:
 title: CBG | Distillate
 category: Distillate
 weights:
-  - metric: kg
+  - metric: L
     value: 1
 cannabinoids:
   - type: CBG

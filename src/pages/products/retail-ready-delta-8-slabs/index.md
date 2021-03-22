@@ -8,8 +8,10 @@ imageInfo:
 title: Retail-Ready Delta 8 Slabs
 category: Concentrate
 weights:
-  - metric: lb
+  - metric: g
     value: 1
+  - metric: g
+    value: 3
 cannabinoids:
   - type: ∆8 THC
     value: 79.02

@@ -10,8 +10,10 @@ imageInfo:
 title: Delta 8 Gummies
 category: Edibles
 weights:
-  - metric: lb
-    value: 1
+  - metric: pcs
+    value: 20
+  - metric: pcs
+    value: 5000
 cannabinoids:
   - type: ∆8 THC
     value: 25

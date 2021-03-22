@@ -10,8 +10,10 @@ imageInfo:
 title: Delta 8 Chocolates
 category: Edibles
 weights:
-  - metric: lb
-    value: 1
+  - metric: Bars
+    value: 10
+  - metric: Bars
+    value: 50
 cannabinoids:
   - type: ∆8 THC
     value: 25
