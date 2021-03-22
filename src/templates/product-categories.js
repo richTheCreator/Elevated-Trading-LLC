@@ -3,7 +3,7 @@ import { graphql } from 'gatsby'
 import ProductResults from '../../src/components/ProductResults'
 import SEO from '../../src/components/SEO/SEO'
 
-const ProductCategory = ({ data, count, pageContext, location }) => {
+const ProductCategory = ({ data, pageContext, location }) => {
   const metaTitle = `${pageContext.category} hemp | High quality, fair price | Elevated Trading LLC`
 
   return (
@@ -13,6 +13,7 @@ const ProductCategory = ({ data, count, pageContext, location }) => {
         data={data}
         pageContext={pageContext}
         location={location}
+        totalCount={data.allMarkdownRemark.totalCount}
       />
     </>
   )
@@ -31,6 +32,7 @@ export const pageQuery = graphql`
       }
       sort: { order: ASC, fields: frontmatter___title }
     ) {
+      totalCount
       edges {
         node {
           excerpt(pruneLength: 400)

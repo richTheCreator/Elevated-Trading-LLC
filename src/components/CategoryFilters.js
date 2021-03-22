@@ -65,7 +65,7 @@ const CategoryFilters = ({ data, location }) => {
       flexDirection='row'
       width={1}
       mt={0}
-      mb={4}
+      mb={0}
       start='xs'
       style={{
         display: 'inline-block',

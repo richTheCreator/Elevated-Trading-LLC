@@ -9,7 +9,7 @@ import CategoryFilters from './CategoryFilters'
 import { Row, Col } from 'react-flexbox-grid'
 import { SectionWrapper, SectionMax } from './Containers'
 import { Button } from './Button'
-import { Heading1, Body2 } from './Typography'
+import { Heading1, Body2, Overline } from './Typography'
 import ProductResultsPage from '../templates/product-results'
 
 const RowWrapper = styled(Row)`
@@ -18,10 +18,9 @@ const RowWrapper = styled(Row)`
     display: none;
   }
 `
-const ProductResults = ({ data, pageContext, location }) => {
-  console.log('pageContext', pageContext)
-
-  const categoryTitle = pageContext?.category ? pageContext.category : 'All'
+const ProductResults = ({ data, pageContext, location, totalCount }) => {
+  const categoryTitle = pageContext?.category ? pageContext.category : 'Hemp'
+  const productText = totalCount > 1 ? 'Products' : 'Product'
   const { edges: posts } = data.allMarkdownRemark
 
   // Scroll position helper
@@ -84,21 +83,11 @@ const ProductResults = ({ data, pageContext, location }) => {
           {/* HEMP STARTER KIT */}
           <FeaturedCard />
           {/* PAGE DESC */}
-          <RowWrapper middle='xs' mt={6}>
-            <Heading1
-              mt={0}
-              mb={0}
-              color='ivory'
-              fontSize={['36px', '52px']}
-              lineHeight={['42px', 'auto']}
-            >
-              {categoryTitle} Products
-            </Heading1>
-          </RowWrapper>
+          <Overline mt={4}> Categories </Overline>
           {/* FILTERS */}
           <RowWrapper
-            mt={4}
-            mb={4}
+            mt={2}
+            mb={0}
             start='xs'
             style={{
               display: 'inline-block',
@@ -121,6 +110,14 @@ const ProductResults = ({ data, pageContext, location }) => {
               </Button>
             ))} */}
           </RowWrapper>
+          <Heading1
+            my={3}
+            color='ivory'
+            fontSize={['24px', '32px']}
+            lineHeight={['42px', 'auto']}
+          >
+            {totalCount} {categoryTitle} {productText}
+          </Heading1>
           {/* RESULTS */}
           <Row>
             {posts &&

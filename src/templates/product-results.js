@@ -7,7 +7,11 @@ const ProductResultsPage = ({ data, location }) => {
   return (
     <>
       <SEO />
-      <ProductResults data={data} location={location} />
+      <ProductResults
+        data={data}
+        location={location}
+        totalCount={data.allMarkdownRemark.totalCount}
+      />
     </>
   )
 }
@@ -19,6 +23,7 @@ export const pageQuery = graphql`
       sort: { order: ASC, fields: [frontmatter___category] }
       filter: { frontmatter: { templateKey: { eq: "product-details" } } }
     ) {
+      totalCount
       edges {
         node {
           excerpt(pruneLength: 400)
