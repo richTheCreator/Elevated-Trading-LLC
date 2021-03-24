@@ -23,11 +23,11 @@ coa_link: d8-distillate-coa-website.pdf
 
 Elevated Trading provides compliant, 3rd party tested, hemp-derived Delta 8 distillate. 
 
-* Our liters of D8 distillate are consistently 92-95% Delta 8 concentration
-* Shipped in tamper-evident, aluminum bottles
-* Full chain of custody documentation included with each order
-* 5g sample syringe included with each batch order for independent testing
-* Aggressive discounts available for contract purchases
+* 92-95% Delta 8 concentration
+* Tamper-evident, aluminum bottles
+* Chain of custody documentation
+* 5g testing syringe included
+* Contract purchase discounts
 
 \_\_\_\_\_\_\_\_\_\_
 
