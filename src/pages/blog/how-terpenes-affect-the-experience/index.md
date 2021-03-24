@@ -1,9 +1,9 @@
 ---
 date: 2021-02-02T22:47:57.925Z
-meta_description: How Terpenes Affect the Experience
+meta_description: How Terpenes Affect the CBD Experience
 templateKey: blog-post
 product_image: keviiin-grashupfer-b5w2hwdigfc-unsplash.jpg
-title: How Terpenes Affect the Experience
+title: How Terpenes Affect the CBD Experience
 blogTags:
   - CBD
   - Retail
