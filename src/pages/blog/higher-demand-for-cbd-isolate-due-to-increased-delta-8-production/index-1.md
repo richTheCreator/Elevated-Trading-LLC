@@ -13,11 +13,9 @@ is_featured: true
 ---
 # Higher Demand for CBD Isolate Due to Increased Delta 8 Production
 
-
-
 One of the many cannabinoids in the hemp plant, Delta 8 — is a close relative of the widely known, psychoactive cannabinoid of THC, Delta 9. Delta 8 now represents one of the fastest-growing segments in the CBD market today.
 
-And as the notorious Delta 8 cannabinoid gains traction, we see a higher demand for CBD isolate. CBD isolates are the purest CBD products available on the market, produced by extracting all plant components including terpenes, flavonoids, and cannabinoids. 
+And as the notorious Delta 8 cannabinoid gains traction, we see a higher demand for [CBD isolate](https://www.elevatedtrading.com/products/isolate/). CBD isolates are the purest CBD products available on the market, produced by extracting all plant components including terpenes, flavonoids, and cannabinoids. 
 
 Pricing is all over the map — and Elevated Trading wants to provide top-level guidance on the importance of working with a supplier that can deliver consistent supply at a fair price. 
 
@@ -33,7 +31,7 @@ Elevated Trading CBD Isolate is a pure, crystalline, and flavorless pharmaceutic
 
 ## Delta 8 Driving CBD Isolate Demand and Prices
 
-Today, CBD isolate powder is used to manufacture Delta 8-infused gummies, vape carts, and gel caps. Delta 8 has stimulated massive demand for CBD isolate. 
+Today, CBD isolate powder is used to manufacture [Delta 8 infused gummies](https://www.elevatedtrading.com/products/delta-8-gummies/), vape carts, and gel caps. Delta 8 has stimulated massive demand for CBD isolate. 
 
 While nobody has a roadmap for how the elements of policy or supply chains will develop during the Delta 8 demand — you can lower CBD isolate costs when you buy wholesale.
 
