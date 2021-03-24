@@ -3,7 +3,7 @@ date: 2021-03-23T15:50:13.460Z
 meta_description: Wholesale Delta 8 Chocolate Edibles
 templateKey: blog-post
 product_image: dark-chocolate-bar-tlzguwm-1-.jpg
-title: Quality Wholesale Delta 8 Chocolate Edibles
+title: Buying Quality Wholesale Delta 8 Chocolate Edibles
 blogTags:
   - CBD
   - Delta 8
