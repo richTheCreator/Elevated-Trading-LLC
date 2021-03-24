@@ -12,8 +12,7 @@ products:
     elevating the supply chain experience across the wholesale hemp industry and
     delivering value beyond the transaction. If you’re searching for wholesale
     hemp CBD flower, bulk CBD/CBG/CBN concentrates, Delta 8, or shelf-ready
-    retail products, contact us today to discuss the wide selection of quality
-    wholesale hemp products that we offer.
+    retail products, contact us today!
 rogueValley:
   heading: Experience Superior Quality
   description: >-
