@@ -7,12 +7,10 @@ hero:
     image: /media/darkhemp.jpg
 products:
   heading: High Value, Fair Price
-  description: Elevated Trading supplies high quality, wholesale hemp products to
-    CBD manufacturers and CBD retailers across the United States. We’re
-    elevating the supply chain experience across the wholesale hemp industry and
-    delivering value beyond the transaction. If you’re searching for wholesale
-    hemp CBD flower, bulk CBD/CBG/CBN concentrates, Delta 8, or shelf-ready
-    retail products, contact us today!
+  description: Elevated Trading supplies high quality CBD, Delta 8 THC, CBN, CBG
+    and hemp flower products to manufacturers and CBD retailers across the
+    United States. We’re elevating the supply chain experience across the
+    wholesale hemp industry and delivering value beyond the transaction.
 rogueValley:
   heading: Experience Superior Quality
   description: >-
@@ -29,20 +27,17 @@ rogueValley:
     image: /media/Rouge_Valley_Hemp.jpg
 etcValues:
   heading: Elevating The Wholesale Hemp Market
-  description: >-
+  description: >
     Elevated Trading addresses the unreliable supply chain issues that have
-    plagued the wholesale hemp industry for years. We’re removing friction from
-    the buying experience and elevating your profits by helping you deliver more
-    value to your CBD customers.
-
-    With Elevated Trading on your team, you focus on growing your CBD business knowing we’re hard at work ensuring the highest quality, wholesale hemp products for your business. Contact us today to set up a free consultation with one of our CBD consultants.
+    plagued the wholesale hemp industry for years. We remove friction from your
+    buying process and deliver an unmatched customer experience. 
   peeksImage: /media/mountain_peeks.png
   backgroundImg: /media/Rouge_Valley_Hemp.jpg
   values:
     - value: Quality
-      description: All of our wholesale hemp products are 3rd party tested multiple
-        times throughout the supply chain, and we supply certified COAs with
-        every order.
+      description: "All of our wholesale hemp products are 3rd-party tested multiple
+        times throughout the supply chain to ensure compliance, and we provide
+        COAs with each order. "
     - value: Reliability
       description: Orders are shipped within 24-48 hours of payment, and we stand
         behind every wholesale hemp product that we sell. If you’re not happy,
@@ -51,17 +46,21 @@ etcValues:
       description: If we tell you that we can deliver a wholesale hemp product or
         service for your CBD business, we will make it happen. Period.
 farming:
-  heading: Equity Driven Farms
+  heading: Delta 8 THC Products
   description: >-
-    Let’s face it, without the cultivators putting in the hard work during the
-    grow season, the CBD industry would not be possible. We’re passionate about
-    delivering the highest value for our customers while ensuring that the
-    farming community is profitable for future harvests.
+    Delta 8 THC popularity is growing rapidly among consumers, and we provide a
+    full range of compliant, Delta 8 manufacturing and retail products. Check
+    out our products page for everything from bulk Delta 8 distillate to Delta 8
+    infused edibles, D8 flower, and D8 Moonrocks. 
 
-    Our customers are welcome to visit our farms and lab facilities to see how much care and effort goes into maintaining a premium, compliant, and consistent portfolio of wholesale hemp products.
+
+    Delta 8 THC, short for Delta 8 tetrahydrocannabinol, is just one of the many cannabinoids present in the cannabis plant. Delta 8 is naturally occurring in the cannabis plant, but only in trace amounts. The majority of the Delta 8 on the market today is hemp-derived by isolating CBD from hemp flower and then converting the CBD isolate into Delta 8 distillate. The effects of Delta 8 do create a psychoactive effect, or "high", but it is much less potent than the Delta 9 THC which is typically associated with cannabis. 
+
+
+    All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill. 
   backgroundImg:
-    alt: Wholesale CBD Flower
-    image: /media/rogue_valley_hempfarm.jpg
+    alt: Delta 8 Distillate D8
+    image: /media/etc-distill_syringe-12.jpg
 supplyChain:
   heading: Integrated In Your Supply Chain
   description: >
