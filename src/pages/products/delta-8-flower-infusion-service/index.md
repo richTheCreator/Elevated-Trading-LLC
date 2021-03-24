@@ -27,6 +27,10 @@ We offer a 100% satisfaction guarantee on the process, and we stand behind each 
 
 Note: The quality of your input material will directly affect the output material. Coating your flower with Delta 8 distillate and CBG kief will increase the cannabinoid content of the flower, but it will not drastically change the appearance of your bud structure. 
 
-Each component of the process is 3rd party lab-tested and compliant for the 2018 Farm Bill. All products listed on the site and in our process are hemp-derived, federally legal, and contain less than 0.3% Delta-9 THC. 
-
 Contact us today to discuss pricing and logistics.
+
+## What is Delta 8? 
+
+Delta 8 THC, short for Delta 8 tetrahydrocannabinol, is just one of the many cannabinoids present in the cannabis plant. Delta 8 is naturally occurring in the cannabis plant, but only in trace amounts. The majority of the Delta 8 on the market today is hemp-derived by isolating CBD from hemp flower and then converting the CBD isolate into Delta 8 distillate. The effects of Delta 8 do create a psychoactive effect, or "high", but it is much less potent than the Delta 9 THC which is typically associated with cannabis.
+
+All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill.
