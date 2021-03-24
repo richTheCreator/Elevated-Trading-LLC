@@ -19,7 +19,7 @@ rogueValley:
 
     Delta 8 THC - All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill.  
 
-    Wholesale Concentrates - formulated in premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
+    Manufacturing inputs - formulated in premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
 
     Retail-Ready CBD products - We supply the wholesale hemp flower, CBD, and Delta 8 consumer products that you need.
   backgroundImg:
