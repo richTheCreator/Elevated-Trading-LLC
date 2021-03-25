@@ -2,7 +2,7 @@
 date: 2021-03-25T14:50:16.851Z
 meta_description: "Delta 8: High quality Delta 8 Wholesale Liters"
 templateKey: blog-post
-product_image: delta8cart.jpg
+product_image: etc-distill_syringe-12.jpg
 title: What is Delta 8?
 blogTags:
   - CBD
