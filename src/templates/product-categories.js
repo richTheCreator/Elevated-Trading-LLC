@@ -4,6 +4,7 @@ import ProductResults from '../../src/components/ProductResults'
 import SEO from '../../src/components/SEO/SEO'
 
 const ProductCategory = ({ data, pageContext, location }) => {
+  console.log('data', data)
   const metaTitle = `${pageContext.category} hemp | High quality, fair price | Elevated Trading LLC`
 
   return (
@@ -13,7 +14,7 @@ const ProductCategory = ({ data, pageContext, location }) => {
         data={data}
         pageContext={pageContext}
         location={location}
-        totalCount={data.allMarkdownRemark.totalCount}
+        totalCount={data.products.totalCount}
       />
     </>
   )
@@ -23,7 +24,7 @@ export default ProductCategory
 
 export const pageQuery = graphql`
   query CategoryPage($category: String) {
-    allMarkdownRemark(
+    products: allMarkdownRemark(
       filter: {
         frontmatter: {
           category: { eq: $category }

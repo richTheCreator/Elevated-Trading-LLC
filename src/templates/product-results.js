@@ -4,13 +4,14 @@ import ProductResults from '../../src/components/ProductResults'
 import SEO from '../../src/components/SEO/SEO'
 
 const ProductResultsPage = ({ data, location }) => {
+  console.log('data', data)
   return (
     <>
-      <SEO />
+      <SEO title={data.page.frontmatter.meta_description} />
       <ProductResults
         data={data}
         location={location}
-        totalCount={data.allMarkdownRemark.totalCount}
+        totalCount={data.products.totalCount}
       />
     </>
   )
@@ -19,7 +20,7 @@ export default ProductResultsPage
 
 export const pageQuery = graphql`
   query ProductResultsQuery {
-    allMarkdownRemark(
+    products: allMarkdownRemark(
       sort: { order: ASC, fields: [frontmatter___category] }
       filter: { frontmatter: { templateKey: { eq: "product-details" } } }
     ) {
@@ -52,6 +53,13 @@ export const pageQuery = graphql`
             date(formatString: "MMMM DD, YYYY")
           }
         }
+      }
+    }
+    page: markdownRemark(
+      frontmatter: { templateKey: { eq: "product-results" } }
+    ) {
+      frontmatter {
+        meta_description
       }
     }
   }

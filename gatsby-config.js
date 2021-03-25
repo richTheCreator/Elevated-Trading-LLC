@@ -31,7 +31,7 @@ module.exports = {
       },
       {
         name: 'HEMP STARTER KIT',
-        link: '/starter-kit'
+        link: '/hemp-starter-kit'
       },
       {
         name: 'LAB RESULTS',

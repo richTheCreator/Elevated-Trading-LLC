@@ -44,7 +44,7 @@ const LinkStyle = styled.a`
   display: table-cell;
   height: 55px;
   padding: 0px 24px;
-  cursor:pointer;
+  cursor: pointer;
   text-decoration: none;
   color: ${(props) => props.theme.colors.black};
   letter-spacing: ${(props) => props.theme.letterSpacings[8]};
@@ -56,7 +56,7 @@ const LinkTo = styled(Link)`
   display: table-cell;
   height: 55px;
   padding: 0px 24px;
-  cursor:pointer;
+  cursor: pointer;
   text-decoration: none;
   color: ${(props) => props.theme.colors.black};
   letter-spacing: ${(props) => props.theme.letterSpacings[8]};
@@ -93,15 +93,16 @@ const MenuList = styled(Col)`
   background: ${(props) => props.theme.colors.white};
 `
 
-function makeClassComponent (WrappedComponent) {
+function makeClassComponent(WrappedComponent) {
   return class extends React.Component {
-    render () {
+    render() {
       return <WrappedComponent {...this.props} />
     }
   }
 }
 
-const mailTo = 'mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company'
+const mailTo =
+  'mailto:sales@elevatedtrading.com?subject=Contact%20Elevated%20Trading%20Company'
 
 const sendEmail = (e) => {
   e.preventDefault()
@@ -128,12 +129,7 @@ const NavbarLG = ({ menuLinks, theme, menuClick }) => (
         {menuLinks.map((navItems) =>
           navItems.name !== 'Home' ? (
             <Row style={{ display: 'table' }}>
-              <LinkTo
-                cover
-                fontSize={2}
-                fontWeight={2}
-                to={navItems.link}
-              >
+              <LinkTo cover fontSize={2} fontWeight={2} to={navItems.link}>
                 {navItems.name}
               </LinkTo>
             </Row>
@@ -227,15 +223,19 @@ const Navbar = ({ menuLinks }) => {
 
   return (
     <NavWrapper>
-      <Link to={'/starter-kit'} style={{ textDecoration: 'none' }}>
+      <Link to={'/hemp-starter-kit'} style={{ textDecoration: 'none' }}>
         <InfoBanner justifyContent='center'>
-          <Body2 textAlign='center' color='white' style={{ textDecoration: 'underline' }}>
+          <Body2
+            textAlign='center'
+            color='white'
+            style={{ textDecoration: 'underline' }}
+          >
             New hemp starter kit - now available →
           </Body2>
         </InfoBanner>
       </Link>
       <NavSection style={{ height: '75px' }}>
-        <NavbarLG menuLinks={menuLinks} menuClick={menuClick}/>
+        <NavbarLG menuLinks={menuLinks} menuClick={menuClick} />
         <NavbarSM menuLinks={menuLinks} toggleMenu={toggleMenu} />
       </NavSection>
       <AnimatedMenu

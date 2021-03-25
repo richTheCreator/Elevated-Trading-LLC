@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Row, Col } from 'react-flexbox-grid'
 import {
-  Heading4,
+  Heading1,
   Button as ButtonText,
   Caption
 } from '../../../components/Typography'
@@ -92,9 +92,17 @@ const Hero = ({
               Save with a subscription
             </Caption>
           </Banner>
-          <Heading4 mb={2} mt={2} textAlign='center' color='black'>
+          <Heading1
+            mb={2}
+            mt={2}
+            fontSize={8}
+            fontFamily='sans'
+            lineHeight={6}
+            textAlign='center'
+            color='black'
+          >
             {title}
-          </Heading4>
+          </Heading1>
           <Row style={{ width: '100%' }}>
             <BaseBorder xs={3} borderWidth='2px 2px 2px 0px' pl={0}>
               <ButtonText textAlign='left' fontSize={'18px'} color='black'>

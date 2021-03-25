@@ -21,7 +21,7 @@ const RowWrapper = styled(Row)`
 const ProductResults = ({ data, pageContext, location, totalCount }) => {
   const categoryTitle = pageContext?.category ? pageContext.category : 'Hemp'
   const productText = totalCount > 1 ? 'Products' : 'Product'
-  const { edges: posts } = data.allMarkdownRemark
+  const { edges: posts } = data.products
 
   // Scroll position helper
   useEffect(() => {
