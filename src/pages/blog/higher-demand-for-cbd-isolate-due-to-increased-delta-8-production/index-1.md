@@ -9,7 +9,7 @@ blogTags:
   - Concentrate
   - Manufacturing
   - Delta 8
-is_featured: true
+is_featured: false
 ---
 # Higher Demand for CBD Isolate Due to Increased Delta 8 Production
 
