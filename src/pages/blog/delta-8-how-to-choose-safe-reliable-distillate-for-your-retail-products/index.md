@@ -8,7 +8,7 @@ blogTags:
   - CBD
   - Delta 8
   - Manufacturing
-is_featured: false
+is_featured: true
 ---
 # What is Delta 8?
 
