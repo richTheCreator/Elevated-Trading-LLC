@@ -15,13 +15,13 @@ rogueValley:
   heading: Experience Superior Quality
   description: >-
     Wholesale Hemp Flower - Elevated Trading sources our sun-grown, wholesale
-    hemp flower from the Rogue Valley of Southern Oregon (often referred to as
-    the “Napa Valley of Hemp” due to the region’s microclimate, soil quality,
-    and responsible farming practices).
+    hemp flower from the Rogue Valley of Southern Oregon.
 
-    Wholesale Concentrates - Our wholesale concentrates are formulated in premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
+    Delta 8 THC - All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill.  
 
-    Retail-Ready CBD products - Are you opening a CBD retail store? We supply the wholesale hemp products that you need, and we go an extra step with our 1 on 1 consultations to make sure the products fit your CBD retail aesthetic.
+    Manufacturing inputs - formulated in premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
+
+    Retail-Ready CBD products - We supply the wholesale hemp flower, CBD, and Delta 8 consumer products that you need.
   backgroundImg:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
