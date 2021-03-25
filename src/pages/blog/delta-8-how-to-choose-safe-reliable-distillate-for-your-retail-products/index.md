@@ -1,9 +1,9 @@
 ---
-date: 2020-12-14T15:50:16.851Z
-meta_description: "Delta 8: High quality Delta 8 Wholesale Distillate "
+date: 2021-03-25T14:50:16.851Z
+meta_description: "Delta 8: High quality Delta 8 Wholesale Liters"
 templateKey: blog-post
 product_image: delta8cart.jpg
-title: What is Delta 8 Distillate?
+title: What is Delta 8?
 blogTags:
   - CBD
   - Delta 8
