@@ -7,12 +7,15 @@ import FeaturedBlogCard from './BlogCard'
 const FeaturedBlog = () => {
   const { markdownRemark } = useStaticQuery(query)
   return (
-    <SectionWrapper bg='black' mb={0} pb={0}>
-      <SectionMax style={{ margin: 'auto' }} pb={0}>
-        <FeaturedBlogCard data={markdownRemark} />
-      </SectionMax>
-    </SectionWrapper>
-
+    <>
+      {markdownRemark?.frontmatter?.is_featured && (
+        <SectionWrapper bg='black' mb={0} pb={0}>
+          <SectionMax style={{ margin: 'auto' }} pb={0}>
+            <FeaturedBlogCard data={markdownRemark} />
+          </SectionMax>
+        </SectionWrapper>
+      )}
+    </>
   )
 }
 
@@ -20,7 +23,12 @@ export { FeaturedBlog }
 
 const query = graphql`
   query featuredBlogPost {
-    markdownRemark(frontmatter: { templateKey: { eq: "blog-post" }, is_featured: { eq: true} }) {
+    markdownRemark(
+      frontmatter: {
+        templateKey: { eq: "blog-post" }
+        is_featured: { eq: true }
+      }
+    ) {
       excerpt(pruneLength: 200)
       fields {
         slug
