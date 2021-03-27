@@ -10,4 +10,3 @@
   to = "/hemp-starter-kit"
   status = 301
   force = false
-  query = {path = ":path"}
