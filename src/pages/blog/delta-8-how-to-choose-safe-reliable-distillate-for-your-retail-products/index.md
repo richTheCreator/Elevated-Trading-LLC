@@ -1,20 +1,22 @@
 ---
-date: 2020-12-14T15:50:16.851Z
-meta_description: "Delta 8: High quality Delta 8 Wholesale Distillate "
+date: 2021-03-25T14:50:16.851Z
+meta_description: "Delta 8: High quality Delta 8 Wholesale Liters"
 templateKey: blog-post
-product_image: delta8cart.jpg
-title: What is Delta 8 Distillate?
+product_image: etc-distill_syringe-12.jpg
+title: What is Delta 8?
 blogTags:
   - CBD
   - Delta 8
   - Manufacturing
-is_featured: false
+is_featured: true
 ---
+# What is Delta 8?
+
 Products comprising of Delta 8 are flourishing across the hemp-derived CBD industry. If you’re like most retailers, you may be wondering how to choose safe, reliable Delta 8 distillate for your store. Elevated Trading has put together this guide to help clear up some of the unknowns surrounding Delta 8.
 
 Cannabidiol (CBD) and Delta 9 tetrahydrocannabinol (THC) are the two rich cannabinoids. Discovered in the 1970s, Delta 8 tetrahydrocannabinol is another abundant cannabinoid. CBD is non-psychoactive and found in high concentrations in hemp plants. At the same time, THC is the psychoactive compound in cannabis plants, renowned for its ability to produce intoxicating effects.
 
-**What is Delta 8?**
+**Delta 8 Explained**
 
 Delta 8 is an isomer of Delta 9 THC. Typical cannabis plants can have THC levels reaching above 20 percent, whereas Delta 8 THC levels remain significantly less than 1 percent (trace amounts). Certainly not a new kid on the block, Delta 8 has recently fueled-up the retail side of the hemp industry. When hemp derived, it’s legal, prevalent, therapeutic — and now — widely accessible.
 
@@ -33,9 +35,13 @@ Although the end-user effects of Delta 8 and Delta 9 THC are different, the mole
 
 Research indicates Delta 8 enables consumers to feel less anxiety-provoked, less sedated, and produces a clear-headed ambiance.
 
+**The National Cancer institute says this about Delta 8**
+
+“D*elta-8-tetrahydrocannabinol* is an analogue of tetrahydrocannabinol (THC) with antiemetic, anxiolytic, appetite-stimulating, analgesic, and neuroprotective properties. Delta-8-tetrahydrocannabinol (delta-8-THC) binds to the cannabinoid G-protein coupled receptor CB1, located in the central nervous system; CB1 receptor activation inhibits adenyl cyclase, increases mitogen-activated protein kinase activities, modulates several potassium channel conductances and inhibits N- and P/Q-type Ca2+ channels. This agent exhibits a lower psychotropic potency than delta-9-tetrahydrocannabinol (delta-9-THC), the primary form of THC found in cannabis.”
+
 **Where to Buy Delta 8 Products**
 
-For retailers, it’s crucial to buy Delta 8 distillate from a reputable vendor who sells hemp-derived CBD products.
+For retailers, it’s crucial to buy Delta 8 products from a reputable vendor who sells hemp-derived CBD products.
 
 **Elevated Trading Insider Tip:** Always ask to see the product’s Certificate of Analysis (COA). A COA is an official report from an unbiased third-party lab that has analyzed the product. **Retailers should refuse to buy any hemp-derived product from a company that won’t provide third-party lab results.**
 
