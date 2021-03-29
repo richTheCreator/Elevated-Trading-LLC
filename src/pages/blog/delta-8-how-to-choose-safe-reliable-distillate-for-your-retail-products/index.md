@@ -35,7 +35,7 @@ Although the end-user effects of Delta 8 and Delta 9 THC are different, the mole
 
 Research indicates Delta 8 enables consumers to feel less anxiety-provoked, less sedated, and produces a clear-headed ambiance.
 
-**The National Cancer institute says this about Delta 8**
+**The National Cancer institute says [this](https://www.cancer.gov/publications/dictionaries/cancer-drug/def/delta-8-tetrahydrocannabinol?redirect=true) about Delta 8**
 
 “D*elta-8-tetrahydrocannabinol* is an analogue of tetrahydrocannabinol (THC) with antiemetic, anxiolytic, appetite-stimulating, analgesic, and neuroprotective properties. Delta-8-tetrahydrocannabinol (delta-8-THC) binds to the cannabinoid G-protein coupled receptor CB1, located in the central nervous system; CB1 receptor activation inhibits adenyl cyclase, increases mitogen-activated protein kinase activities, modulates several potassium channel conductances and inhibits N- and P/Q-type Ca2+ channels. This agent exhibits a lower psychotropic potency than delta-9-tetrahydrocannabinol (delta-9-THC), the primary form of THC found in cannabis.”
 
