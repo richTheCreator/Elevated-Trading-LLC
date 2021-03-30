@@ -1,7 +1,6 @@
 ---
 date: 2021-03-30T15:00:46.748Z
-meta_description: "Learn what to look for in a reputable CBD and Delta 8 bulk
-  wholesale supplier "
+meta_description: Learn what to look for in a reputable CBD and Delta 8 bulk wholesale supplier.
 templateKey: blog-post
 product_image: cbd-crystals-isolate-np8m6wb-1-.jpg
 title: Bulk Concentrates - What to Expect From Suppliers
