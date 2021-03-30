@@ -13,15 +13,19 @@ is_featured: false
 ---
 # Bulk Concentrates - What to Expect from Suppliers
 
-Elevated Trading supplies [high-quality, wholesale hemp products](https://www.elevatedtrading.com/products/) to CBD manufacturers across the United States. We form deep, strategic relationships with our CBD customers to ensure you receive value well beyond the transaction. ![A picture containing indoor, food, green
 
-Description automatically generated](https://lh4.googleusercontent.com/AclO_y6XpR57GDrqicw09UMtQxaXdYv3mxncTU3ZN0HdM3pFRYROOog1-OkYZfSBDYV6z4C67yZ5BsaCf8XppjtOP1tCg6lc8LQdDXizqN5lDVevH-ClzMdwLmBN6CLPTXvcH3I)
 
-If you’re searching for bulk CBD/CBG/CBN concentrates, Delta 8, or shelf-ready retail products, we’re elevating the supply chain experience across the wholesale hemp industry. Our wholesale concentrates are formulated in premier laboratories across the United States, ensuring we deliver compliant, top-quality products at the most competitive prices.
+![Bulk CBD and Delta 8 Concentrates](cbd-crystals-isolate-np8m6wb-1-.jpg "Bulk CBD and Delta 8 Concentrates")
+
+
+
+Elevated Trading supplies [high quality CBD, Delta 8 THC, CBN, CBG and hemp flower products](https://www.elevatedtrading.com/products) to manufacturers and CBD retailers across the United States. We’re elevating the supply chain experience and delivering value beyond the transaction. Our wholesale concentrates are formulated in premier laboratories across the United States, ensuring we deliver compliant, top-quality products at the most competitive prices.
 
 The most significant factor when buying wholesale CBD concentrate is the quality of the product. As we mentioned earlier, the CBD market is thriving with reputable suppliers — and unfortunately, also a gamut of less than reputable companies. 
 
 The goal at [Elevated Trading](https://www.elevatedtrading.com/) is to provide all manufacturers — big or small — access to our high-quality products. We understand there are many options out there and knowing how to find a high-quality bulk concentrate supplier is critical. 
+
+
 
 ## What to Expect from a CBD Concentrate Supplier?
 
