@@ -10,78 +10,93 @@ blogTags:
   - Hemp Flower
 is_featured: false
 ---
-## How Terpenes Affect the Experience?
 
-At Elevated Trading, we’re in conversations with retailers across the country every day. It’s not surprising that we get to learn a lot about the different CBD markets and how consumers are educating themselves when it comes to high quality [CBD flower](https://www.elevatedtrading.com/products). Increasingly, retailers and consumers alike are realizing it’s not just the CBD percentage, but how big of an impact terpenes make on the overall experience. 
+At Elevated Trading, we’re in conversations with retailers across the country every day. It’s not surprising that we get to learn a lot about the different CBD markets and how consumers are educating themselves when it comes to high quality [CBD flower](https://www.elevatedtrading.com/products). Increasingly, retailers and consumers alike are realizing it’s not just the CBD percentage, but how big of an impact terpenes make on the overall experience.
 
-Variations in terpene strains and content significantly alter the physiological effects that hemp has on a user. What does this mean? Terpenes enhance the benefits of CBD hemp via the endocannabinoid system. When combined with CBD, terpene blends create a more balanced and pleasant experience and encourage users to be more focused, have more energy, or be calmer. 
+Variations in terpene strains and content significantly alter the physiological effects that hemp has on a user. What does this mean? Terpenes enhance the benefits of CBD hemp via the endocannabinoid system. When combined with CBD, terpene blends create a more balanced and pleasant experience and encourage users to be more focused, have more energy, or be calmer.
 
-### Let’s check out the different types of terpenes:
+## Let's check out the types of terpenes
 
-**Myrcene**
+### Myrcene
 
-* Aroma: Earthy, cloves, musky
+**Aroma**: Earthy, cloves, musky
 
-  Vaporizes: 332ºF (167ºC)
+**Vaporizes**: 332ºF (167ºC)
 
-  Potential effects: Calming, sedating, relaxing
+**Potential effects**: Calming, sedating, relaxing
 
-**Limonene**
+<hr>
 
-* Aroma: Citrus
+### Limonene
 
-  Vaporizes: 348ºF (176ºC)
+**Aroma**: Citrurs
 
-  Potential effects: Heightened mood, elevated ambiance, fight depression, anxiety and stress relief
+**Vaporizes**: 348ºF (176ºC)
 
-**Caryophyllene**
+**Potential effects**: Heightened mood, elevated ambiance, fight depression, anxiety and stress relief
 
-* Aroma: Pepper, spicy, woody
+<hr>
 
-  Vaporizes: 266ºF (130ºC)
+### Caryophyllene
 
-  Potential effects: Anxiety and stress relief
+**Aroma**: Pepper, spicy, woody
 
-**Terpinolene**
+**Vaporizes**: 266ºF (130ºC)
 
-* Aroma: Piney, floral, herbal
+**Potential effects**: Anxiety and stress relief
 
-  Vaporizes: 366ºF (186ºC)
+<hr>
 
-  Potential effects: Elevates mood, good uplifting vibes, motivating
+### Terpinolene
 
-**Pinene**
+**Aroma**: Piney, floral, herbal
 
-* Aroma: Pine
+**Vaporizes**: 366ºF (186ºC)
 
-  Vaporizes: 311ºF (155ºC)
+**Potential effects**: Elevates mood, good uplifting vibes, motivating
 
-  Potential effects: More alert, memory preservation, counteracts some THC effects
+<hr>
 
-**Humulene**
+### Pinene
 
-* Aroma: Woody, earthy
+**Aroma**: Pine
 
-  Vaporizes: 222ºF (106ºC)
+**Vaporizes**: 311ºF (155ºC)
 
-**Ocimene**
+**Potential effects**: More alert, memory preservation, counteracts some THC effects
 
-* Aroma: Sweet, herbal, woody
+<hr>
 
-  Vaporizes: 122ºF (50ºC)
+### Humulene
 
-**Linalool**
+**Aroma**: Woody, earthy
 
-* Aroma: Floral
+**Vaporizes**: 222ºF (106ºC)
 
-  Vaporizes: 388ºF (198ºC)
+<hr>
 
-  Potential effects: Memory and mood enhancement, sedation, relaxing
+### Ocimene
+
+**Aroma**: Sweet, herbal, woody
+
+**Vaporizes**: 122ºF (50ºC)
+
+<hr>
+
+### Linalool
+
+**Aroma**: Floral
+
+**Vaporizes**: 388ºF (198ºC)
+
+**Potential effects**: Memory and mood enhancement, sedation, relaxing
 
 ### This is just the beginning: 
 
-Researchers are only scraping the surface of the many potential benefits of terpenes found in hemp flower — researchers have yet to unlock the full potential of what terpenes bring to the table.  
+Researchers are only scraping the surface of the many potential benefits of terpenes found in hemp flower — researchers have yet to unlock the full potential of what terpenes bring to the table.
 
-**Elevated pro tip:** If your local CBD retail shop is only touting the “high CBD percentage”, but not talking about the different terpenes present in the flower, you’re only receiving part of the story. Elevate your knowledge around terpenes and expect more from your local retail shop.
+#### Elevated Insider tip:
+
+> If your local CBD retail shop is only touting the “high CBD percentage”, but not talking about the different terpenes present in the flower, you’re only receiving part of the story. Elevate your knowledge around terpenes and expect more from your local retail shop.
 
 **At [Elevated Trading](https://www.elevatedtrading.com/), we offer a wide assortment of CBD distillates and isolates, as well as wholesale CBD hemp flower. Up your game. Elevate!**

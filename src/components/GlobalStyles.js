@@ -15,7 +15,7 @@ export const GlobalStyle = createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
   blockquote {
-    border-left: 5px solid ${theme.colors.lightGrey};
+    border-left: 5px solid #cccccc;
     padding-left: 1.5rem;
     margin-left: 0px;
     margin-right: 1.5rem;
@@ -25,46 +25,51 @@ export const GlobalStyle = createGlobalStyle`
     padding-top: 0;
     margin-bottom: 1.5rem;
   }
+  blockquote p {
+    font-size: 21px;
+    line-height: 36px;
+    color: #cccccc;
   }
   h1 {
     font-size: ${theme.fontSizes[11]};
     font-weight: ${theme.fontWeights[2]};
-    color: ${theme.colors.black};
+    color: ${theme.colors.ivory};
     line-height: ${theme.lineHeights[7]};
     letter-spacing: ${theme.letterSpacings[0]};
     font-family: ${theme.fonts.sans}
   }
   h2 {
-    font-size: ${theme.fontSizes[10]};
-    font-weight: ${theme.fontWeights[2]};
-    color: ${theme.colors.black};
-    line-height: ${theme.lineHeights[8]};
-    letter-spacing: ${theme.letterSpacings[1]};
-    font-family: ${theme.fonts.sans}
-  }
-  h3 {
     font-size: ${theme.fontSizes[9]};
     font-weight: ${theme.fontWeights[2]};
-    color: ${theme.colors.black};
+    color: ${theme.colors.ivory};
     line-height: ${theme.lineHeights[7]};
-    letter-spacing: ${theme.letterSpacings[0]};
+    letter-spacing: ${theme.letterSpacings[1]};
+    font-family: ${theme.fonts.sans};
+    margin-bottom: ${theme.space[4]}px;
+  }
+  h3 {
+    font-size: ${theme.fontSizes[8]};
+    font-weight: ${theme.fontWeights[2]};
+    color: ${theme.colors.ivory};
+    line-height: ${theme.lineHeights[6]};
+    letter-spacing: ${theme.letterSpacings[5]};
     font-family: ${theme.fonts.sans};
     margin-bottom: ${theme.space[1]}
 
   }
   h4 {
-    font-size: ${theme.fontSizes[8]};
+    font-size: 24px;
     font-weight: ${theme.fontWeights[2]};
-    color: ${theme.colors.black};
-    line-height: ${theme.lineHeights[6]};
-    letter-spacing: ${theme.letterSpacings[5]};
+    color: ${theme.colors.ivory};
+    line-height: 38px;
+    letter-spacing: ${theme.letterSpacings[7]};
     font-family: ${theme.fonts.sans};
-    margin: 16px 0px;
+    margin: 2px 0px;
   }
   h5 {
     font-size: ${theme.fontSizes[8]};
     font-weight: ${theme.fontWeights[2]};
-    color: ${theme.colors.black};
+    color: ${theme.colors.ivory};
     line-height: ${theme.lineHeights[5]};
     letter-spacing: ${theme.letterSpacings[5]};
     margin: 16px 0px;
@@ -72,29 +77,31 @@ export const GlobalStyle = createGlobalStyle`
   h6 {
     font-size: ${theme.fontSizes[7]};
     font-weight: ${theme.fontWeights[2]};
-    color: ${theme.colors.black};
+    color: ${theme.colors.ivory};
     line-height: ${theme.lineHeights[3]};
     letter-spacing: ${theme.letterSpacings[5]};
     margin: 8px 0px;
   }
   p {
-    font-size: ${theme.fontSizes[6]};
+    font-size: ${theme.fontSizes[7]};
     font-weight: 300;
-    color: ${theme.colors.darkGrey};
-    line-height: ${theme.lineHeights[4]};
+    color: ${theme.colors.ivory};
+    line-height: ${theme.lineHeights[5]};
     letter-spacing: ${theme.letterSpacings[7]};
     margin: 8px 0px;
   }
   li {
     padding: 8px 0px;
-    font-size: ${theme.fontSizes[6]};
-    font-weight: 300;
-    color: ${theme.colors.darkGrey};
+    font-size: ${theme.fontSizes[7]};
     line-height: ${theme.lineHeights[4]};
     letter-spacing: ${theme.letterSpacings[7]};
   }
   li p {
     margin:0px;
+    color: ${theme.colors.ivory}
+  }
+  a {
+    color: ${theme.colors.ivory}
   }
   .outlinedFont {
     font-weight: 800;
@@ -127,9 +134,9 @@ export const GlobalStyle = createGlobalStyle`
   .Blog-Description p{
     margin: 16px 0px
   }
-  .Blog-Description *{
-    color: ${theme.colors.ivory}
-  }
+  // .Blog-Description *{
+  //   color: ${theme.colors.ivory}
+  // }
   .Blog-Description p span {
     width: 100%;
     margin-top:32px;
