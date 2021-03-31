@@ -7,7 +7,7 @@ import { FeaturedBlog } from '../components/FeaturedBlog'
 const BlogResultsPage = ({ data, location }) => {
   return (
     <>
-      <SEO />
+      <SEO title={'The Hemp Blog by Elevated Trading LLC'} />
       <FeaturedBlog />
       <BlogResults data={data} location={location} />
     </>

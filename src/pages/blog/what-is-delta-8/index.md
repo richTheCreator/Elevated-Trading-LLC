@@ -19,21 +19,7 @@ Cannabidiol (CBD) and Delta 9 tetrahydrocannabinol (THC) are the two rich cannab
 
 Delta 8 is an isomer of Delta 9 THC. Typical cannabis plants can have THC levels reaching above 20 percent, whereas Delta 8 THC levels remain significantly less than 1 percent (trace amounts). Certainly not a new kid on the block, Delta 8 has recently fueled-up the retail side of the hemp industry. When hemp derived, it’s legal, prevalent, therapeutic — and now — widely accessible.
 
-<<<<<<< HEAD:src/pages/blog/what-is-delta-8/index.md
 ### The Difference Between Delta 8 and Delta 9 THC
-=======
-Delta 8 products are sold in many of the same forms as CBD products, including:
-
-* Delta 8 [Distillate](https://www.elevatedtrading.com/products/delta-8-distillate/)
-* Delta 8 [Chocolate](https://www.elevatedtrading.com/products/wholesale-delta-8-chocolates/)
-* Delta 8 Vape Cartridges
-* Delta 8 [Gummies](https://www.elevatedtrading.com/products/delta-8-gummies/)
-* Delta 8 Gel Caps
-* Delta 8 [Dabs](https://www.elevatedtrading.com/products/delta-8-slabs/)
-* Delta 8 [Hemp Flower](https://www.elevatedtrading.com/products/flower/)
-
-**The Difference Between Delta 8 and Delta 9 THC**
->>>>>>> 1cc75f2331889922be7a8e7d3d8a5615c7ca1ec7:src/pages/blog/delta-8-how-to-choose-safe-reliable-distillate-for-your-retail-products/index.md
 
 Although the end-user effects of Delta 8 and Delta 9 THC are different, the molecular structures are astonishingly comparable. Scientifically speaking, only one double bond separates Delta 8 from Delta 9 THC molecules. The word delta describes the important double bond. Delta 8 has a double bond on the eighth carbon, while Delta 9 THC has a double bond on the ninth carbon on the molecule’s chain.
 
