@@ -22,8 +22,9 @@ Delta 8 is an isomer of Delta 9 THC. Typical cannabis plants can have THC levels
 
 Delta 8 products are sold in many of the same forms as CBD products, including:
 
-* Delta 8 Tinctures
-* Delta 8 [Vape Cartridges](https://www.elevatedtrading.com/products/delta-8-vape-cartridge/)
+* Delta 8 [Distillate](https://www.elevatedtrading.com/products/delta-8-distillate/)
+* Delta 8 [Chocolate](https://www.elevatedtrading.com/products/wholesale-delta-8-chocolates/)
+* Delta 8 Vape Cartridges
 * Delta 8 [Gummies](https://www.elevatedtrading.com/products/delta-8-gummies/)
 * Delta 8 Gel Caps
 * Delta 8 [Dabs](https://www.elevatedtrading.com/products/delta-8-slabs/)
