@@ -4,7 +4,7 @@ meta_description: "Elevated Trading policies cover CBD shipping, return,
   exchange, refund, and privacy all in one place.  "
 templateKey: policies
 hero:
-  heading: Policies
+  heading: Policies page
 ---
 #### Shipping Policy
 
