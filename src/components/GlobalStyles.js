@@ -148,7 +148,7 @@ export const GlobalStyle = createGlobalStyle`
   .PDP-Description *{
     color: ${theme.colors.ivory}
   }
-  .Policies-Description{
+  .Policies-Description *{
     color: ${theme.colors.black}
   }
 `
