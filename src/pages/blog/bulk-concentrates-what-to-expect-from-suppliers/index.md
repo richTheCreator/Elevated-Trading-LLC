@@ -36,6 +36,8 @@ Elevated Trading Insider Tip: Ask the supplier what packaging they use to ship t
 
 All Elevated Trading products are third-party tested for quality. We provide a [Certificate of Analysis (CoA)](https://www.elevatedtrading.com/lab-results) for all our hemp-derived CBD products so that you may easily discern the contents and ingredients.
 
-Elevated Trading Bonus: We include a sample syringe in every order for our customers to conduct an independent lab analysis (should they choose to do so), which speaks to our company’s transparency.
+#### Elevated Trading Bonus:
+
+> We include a sample syringe in every order for our customers to conduct an independent lab analysis (should they choose to do so), which speaks to our company’s transparency.
 
 Elevate your profit with Elevated Trading.
