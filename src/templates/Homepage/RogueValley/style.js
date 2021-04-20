@@ -13,5 +13,5 @@ export const BackgroundContainer = styled(BackgroundImage)`
   align-items: center;
   position: relative;
   margin-left: auto;
-  margin-right: auto;s
+  margin-right: auto;
 `
