@@ -14,9 +14,9 @@ weights:
     value: 50
 cannabinoids:
   - type: ∆8 THC
-    value: 150
+    value: 15
   - type: ∆9 THC
-    value: 0.02
+    value: 0.051
 coa_link: lucy-j-brands_d8-chain-of-custody_updated-4.22.21.pdf
 ---
 ## **DELTA 8 TAKES YOUR LUCY J’S EXPERIENCE TO THE NEXT LEVEL.**
