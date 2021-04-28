@@ -28,4 +28,4 @@ Lucy J’s Pre Rolls are made with 100% premium hemp flower creating a smoother 
 
 **Wholesale and Distribution Pricing based on MOQ.**
 
-Contact us for details or visit us at [www.lucyjcbd.com](www.lucyjcbd.com).
+Contact us for details or visit the [Lucy J Website](https://lucyjcbd.com/).
