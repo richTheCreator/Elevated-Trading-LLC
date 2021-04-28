@@ -5,7 +5,7 @@ meta_description: Lucy J's Delta 8 Pre Rolls - The life of the party! - High
   experience!
 templateKey: product-details
 imageInfo:
-  image: afc3809f-1575-45dc-aacd-9721afb9f767.jpeg
+  image: lucy-j-delta-8-pre-roll-web-pic.jpeg
   alt: Lucy J's Delta 8 Pre Rolls
 title: Lucy J's Delta 8 Pre Rolls
 category: Flower
@@ -19,7 +19,7 @@ cannabinoids:
     value: 0.02
 coa_link: lucy-j-brands_d8-chain-of-custody_updated-4.22.21.pdf
 ---
-**DELTA 8 TAKES YOUR LUCY J’S EXPERIENCE TO THE NEXT LEVEL.**
+## **DELTA 8 TAKES YOUR LUCY J’S EXPERIENCE TO THE NEXT LEVEL.**
 
 Lucy J’s D8 pre rolls are the perfect companion to elevate all of your life’s adventures. If CBD is a night on the couch relaxing, Delta 8 is the life of the party! These joints are made with our premium hemp flower alongside the Delta 8 THC that provides an incredibly smooth smoke and enjoyable experience. Elevate your day with Lucy J!
 
@@ -30,11 +30,11 @@ Lucy J’s D8 pre rolls are the perfect companion to elevate all of your life’
 * 100% Hemp-Derived 
 * Product is intoxicating - see disclaimers below
 
-**Wholesale and Distribution Pricing based on MOQ.**
+### **Wholesale and Distribution Pricing based on MOQ.**
 
-Contact us for details or visit us at [www.lucyjcbd.com](www.lucyjcbd.com).
+Contact us for details or visit the [Lucy J Website](https://lucyjcbd.com/).[](www.lucyjcbd.com)
 
-
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__
 
 Delta 8 THC (D8), short for Delta 8 tetrahydrocannabinol, is just one of the many cannabinoids present in the cannabis plant. Delta 8 is naturally occurring in the cannabis plant, but only in trace amounts. The majority of the Delta 8 on the market today is hemp-derived by isolating CBD from hemp flower and then converting the CBD isolate into Delta 8 distillate. The effects of Delta 8 do create a psychoactive effect, or "high", but it is much less potent than the Delta 9 THC which is typically associated with cannabis.
 
