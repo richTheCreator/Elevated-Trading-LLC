@@ -5,7 +5,7 @@ meta_description: Lucy J's Delta 8 Pre Rolls - The life of the party! - High
   experience!
 templateKey: product-details
 imageInfo:
-  image: lucy-j-delta-8-pre-roll-web-pic.jpeg
+  image: edited-li-lucy-j-d8-pic.jpg
   alt: Lucy J's Delta 8 Pre Rolls
 title: Lucy J's Delta 8 Pre Rolls
 category: Flower
@@ -14,9 +14,9 @@ weights:
     value: 50
 cannabinoids:
   - type: ∆8 THC
-    value: 150
+    value: 15
   - type: ∆9 THC
-    value: 0.02
+    value: 0.051
 coa_link: lucy-j-brands_d8-chain-of-custody_updated-4.22.21.pdf
 ---
 ## **DELTA 8 TAKES YOUR LUCY J’S EXPERIENCE TO THE NEXT LEVEL.**
