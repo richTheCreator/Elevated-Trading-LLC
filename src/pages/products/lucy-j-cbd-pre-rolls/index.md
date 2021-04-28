@@ -4,7 +4,7 @@ meta_description: "Lucy J's CBD Pre Rolls - Create chill vibes with your tribe -
   A smooth CBD smoke for a relaxing day! "
 templateKey: product-details
 imageInfo:
-  image: 45635b58-6da9-4d67-9121-1d3b955a2364.jpeg
+  image: lucy-j-cbd-pre-roll-web-pic.jpeg
   alt: "Lucy J's CBD Pre Roll "
 title: "Lucy J's CBD Pre Rolls "
 category: Flower
