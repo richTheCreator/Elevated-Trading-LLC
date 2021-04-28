@@ -1,12 +1,12 @@
 ---
 date: 2021-04-28T18:51:46.735Z
-meta_description: "Lucy J CBD Pre Rolls - Create chill vibes with your tribe - A
-  smooth CBD smoke for a relaxing day! "
+meta_description: "Lucy J's CBD Pre Rolls - Create chill vibes with your tribe -
+  A smooth CBD smoke for a relaxing day! "
 templateKey: product-details
 imageInfo:
   image: 45635b58-6da9-4d67-9121-1d3b955a2364.jpeg
-  alt: "Lucy J CBD Pre Roll "
-title: "Lucy J CBD Pre Rolls "
+  alt: "Lucy J's CBD Pre Roll "
+title: "Lucy J's CBD Pre Rolls "
 category: Flower
 weights:
   - metric: pcs
@@ -26,8 +26,6 @@ Lucy J’s Pre Rolls are made with 100% premium hemp flower creating a smoother 
 * Gravity-fed counter display
 * 100% premium top flower
 
-
-
-Wholesale and Distribution Pricing based on MOQ.
+**Wholesale and Distribution Pricing based on MOQ.**
 
 Contact us for details or visit us at [www.lucyjcbd.com](www.lucyjcbd.com).
