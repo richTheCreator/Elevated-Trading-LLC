@@ -1,0 +1,25 @@
+---
+meta_description: Elevated Trading CBG Full-Spectrum Oil (Crude)
+details:
+  info: []
+date: 2020-08-25T22:18:19.304Z
+templateKey: product-details
+imageInfo:
+  alt: CBG full spectrum oil
+  image: crude.jpg
+title: CBG | Full-Spectrum Oil (Crude)
+category: Crude
+weights:
+  - metric: L
+    value: 1
+cannabinoids:
+  - type: CBG
+    value: 65
+  - type: ∆9 THC
+    value: 1.28
+coa_link: coa-placeholder.pdf
+---
+
+AROUND 65% CBG; AROUND 6% MINOR CANNABINOIDS (CBC, CBD, CBN)
+
+Crude refers to the base product produced after the initial extraction process. This is the most accurate representation of the plant material post extraction. This "crude" oil still contains Chlorophyll, terpenes, flavonoids, and phytocannabinoids giving it a dark green to black hue. Once added to products it will transfer a brown to green coloration to the finished product. Crude is optimal for products that require a low price point where protecting flavor is not a concern. We recommend using in gel caps, pain creams, lotion, topicals, and tinctures where the natural flavors of the plant are encouraged.
