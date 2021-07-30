@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 hero:
-  heading: Better Wholesale Hemp
+  heading: Elevate Your Experience
   backgroundImg:
     alt: CBD | Delta 8 | Hemp Flower | Distillate
     image: /media/darkhemp.jpg
@@ -13,15 +13,14 @@ products:
     wholesale hemp industry and delivering value beyond the transaction.
 rogueValley:
   heading: Experience Superior Quality
-  description: >-
-    Wholesale Hemp Flower - Elevated Trading sources our sun-grown, wholesale
-    hemp flower from the Rogue Valley of Southern Oregon.
+  description: |-
+    Wholesale Hemp Flower (CBD / Delta 8)
 
-    Delta 8 THC - All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill.  
+    Delta 8 THC Products
 
-    Manufacturing inputs - formulated in premier laboratories across the United States ensuring we deliver compliant, top quality products at the most competitive prices. 
+    Retail-Ready Packaging
 
-    Retail-Ready CBD products - We supply the wholesale hemp flower, CBD, and Delta 8 consumer products that you need.
+    Bulk Concentrates
   backgroundImg:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
@@ -53,12 +52,11 @@ farming:
     out our products page for everything from bulk Delta 8 distillate to Delta 8
     infused edibles, D8 flower, and D8 Moonrocks.
 
-    Delta 8 THC, short for Delta 8 tetrahydrocannabinol, is just one of the many cannabinoids present in the cannabis plant. Delta 8 is naturally occurring in the cannabis plant (trace amounts). The majority of the Delta 8 on the market today is hemp-derived by isolating CBD from hemp flower and then converting the CBD isolate into Delta 8 distillate. Delta 8 does create a psychoactive effect, or "high", but it is less potent than Delta 9 THC which is typically associated with cannabis. 
 
     All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill.
   backgroundImg:
     alt: Delta 8 Wholesale D8
-    image: /media/etc-distill_syringe-12.jpg
+    image: /media/ebfdc096-b582-44a4-991b-dfd94ba1625e.jpeg
 supplyChain:
   heading: Integrated In Your Supply Chain
   description: >
@@ -116,9 +114,6 @@ subscription:
         predictable profit margins for your stores.
       value: Predictable Projections
 shipping:
-  description: "Orders are shipped within 24-48 hours of payment (with tracking).
-    All of our hemp flower is vacuum-sealed in TerpeneFresh bags which are
-    specifically designed to lock in the freshness and maintain terpene quality
-    of hemp flower. We stand behind all of our products with a delivery and
-    satisfaction guarantee. "
+  description: "Orders are shipped within 24-48 hours of payment. We stand behind
+    all of our products with a delivery and satisfaction guarantee. "
 ---
