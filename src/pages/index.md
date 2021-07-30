@@ -13,14 +13,15 @@ products:
     wholesale hemp industry and delivering value beyond the transaction.
 rogueValley:
   heading: Experience Superior Quality
-  description: |-
-    Wholesale Hemp Flower (CBD / Delta 8)
+  description: >-
+    Transparency and consistency are the guiding principles you can expect when
+    purchasing your products through Elevated Trading. 
 
-    Delta 8 THC Products
 
-    Retail-Ready Packaging
+    All of our products are guaranteed so you can purchase with confidence. If you're not happy with the products, we will replace or buy back through our 100% satisfaction guarantee. 
 
-    Bulk Concentrates
+
+    Call us today to learn more! 
   backgroundImg:
     alt: Test
     image: /media/Rouge_Valley_Hemp.jpg
@@ -45,13 +46,12 @@ etcValues:
       description: If we tell you that we can deliver a wholesale hemp product or
         service for your CBD business, we will make it happen. Period.
 farming:
-  heading: Delta 8 THC Products
+  heading: Delta 8 Products
   description: >-
     Delta 8 THC popularity is growing rapidly among consumers, and we provide a
     full range of compliant, Delta 8 manufacturing and retail products. Check
     out our products page for everything from bulk Delta 8 distillate to Delta 8
-    infused edibles, D8 flower, and D8 Moonrocks.
-
+    infused edibles, D8 flower, and D8 Moonrocks. 
 
     All of the Delta 8 products sold by Elevated Trading are hemp-derived and contain less than 0.3% Delta 9 THC making the product federally legal under the 2018 Farm Bill.
   backgroundImg:
@@ -64,7 +64,7 @@ supplyChain:
     Elevated Trading delivers a world-class buying experience for our
     customers.  
 
-    We’re removing the friction from the buying process and help clients find a profitable product mix that supports the unique essence of your retail brand. 
+    We help clients find a profitable product mix that supports the unique essence of your retail brand. 
 
     We don’t just sell products, we solve problems.
   backgroundImg:
