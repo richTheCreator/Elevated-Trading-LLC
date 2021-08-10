@@ -46,7 +46,7 @@ etcValues:
       description: If we tell you that we can deliver a wholesale hemp product or
         service for your CBD business, we will make it happen. Period.
 farming:
-  heading: Delta 8 Products
+  heading: 𝝙8-THC Products
   description: >-
     Delta 8 THC popularity is growing rapidly among consumers, and we provide a
     full range of compliant, Delta 8 manufacturing and retail products. Check
