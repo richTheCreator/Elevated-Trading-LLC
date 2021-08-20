@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 hero:
-  heading: Elevated CBD | Delta 8 Experience
+  heading: Elevated Wholesale Experience
   backgroundImg:
     alt: CBD | Delta 8 | Hemp Flower | Distillate
     image: /media/darkhemp.jpg
