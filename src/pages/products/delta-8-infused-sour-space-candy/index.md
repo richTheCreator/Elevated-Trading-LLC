@@ -1,11 +1,10 @@
 ---
 date: 2021-02-18T20:06:03.092Z
-meta_description: 'Elevated Trading Delta 8 Infused Flower: Sour Space Candy'
+meta_description: "Elevated Trading Delta 8 Infused Flower: Sour Space Candy"
 templateKey: product-details
 imageInfo:
   image: img_0329.jpg-d8-sour-space-candy.jpg
   alt: Delta 8 Infused Sour Space Candy
-title: Delta 8 Infused Sour Space Candy
 category: Flower
 weights:
   - metric: g
@@ -14,13 +13,14 @@ weights:
     value: 7
   - metric: lb
     value: 1
+coa_link: d8-sour-space-candy.pdf
+product_image: img_0329.jpg-d8-sour-space-candy.jpg
+title: Delta 8 Infused Sour Space Candy
 cannabinoids:
   - type: ∆8 THC
-    value: 31
+    value: 14.48
   - type: CBD
-    value: 7.47
-coa_link: d8-sour-space-candy-31-.pdf
-product_image: img_0329.jpg-d8-sour-space-candy.jpg
+    value: 9.26
 ---
 
 - Sun-grown Oregon CBD Flower
