@@ -24,10 +24,9 @@ cannabinoids:
   - type: Total T
     value: 0.17
 ---
-
-- Sativa
-- Wholesale White CBG Flower Contains 12.9% CBGa
-- Sun-grown Oregon CBD Flower
-- Hand Trimmed Buds
-- Lab Tested for Compliance and No Pesticides
-- Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
+* Sativa
+* Wholesale White CBG Flower Contains 12.49% CBG
+* Sun-grown Oregon CBD Flower
+* Hand Trimmed Buds
+* Lab Tested for Compliance and No Pesticides
+* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
