@@ -1,12 +1,16 @@
 ---
+meta_description: "Elevated Trading CBD Hemp Flower: Blueberry Diesel"
+details:
+  info: []
 date: 2020-12-08T14:00:47.392Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Blueberry Diesel'
 templateKey: product-details
 imageInfo:
   image: blueberry-diesel.jpg
   alt: Blueberry Diesel
-title: Blueberry Diesel
 category: Flower
+coa_link: blueberry-diesel.pdf
+product_image: blueberry-diesel.jpg
+title: Blueberry Diesel
 weights:
   - metric: g
     value: 3.5
@@ -16,13 +20,9 @@ weights:
     value: 1
 cannabinoids:
   - type: CBD
-    value: 16.98
+    value: 13.83
   - type: ∆9 THC
-    value: 0.05
-coa_link: blueberry-diesel-hemp-flower-1-.pdf
-details:
-  info: []
-product_image: blueberry-diesel.jpg
+    value: 0.3
 ---
 
 - Indica Hybrid
