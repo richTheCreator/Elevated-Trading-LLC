@@ -22,9 +22,8 @@ cannabinoids:
   - type: CBD
     value: 9.26
 ---
-
-- Sun-grown Oregon CBD Flower
-- Delta 8 Infused Flower - 31% Delta 8
-- Hand Trimmed Buds
-- Lab Tested for Compliance and No Pesticides
-- Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
+* Sun-grown Oregon CBD Flower
+* Delta 8 Infused Flower - 14.48% Delta 8
+* Hand Trimmed Buds
+* Lab Tested for Compliance and No Pesticides
+* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
