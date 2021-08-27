@@ -1,11 +1,10 @@
 ---
 date: 2021-02-18T19:11:08.653Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Orange CBG'
+meta_description: "Elevated Trading CBD Hemp Flower: Orange CBG"
 templateKey: product-details
 imageInfo:
   image: orange-cbg.jpg
   alt: Orange CBG
-title: Orange CBG
 category: Flower
 weights:
   - metric: g
@@ -14,18 +13,18 @@ weights:
     value: 7
   - metric: lb
     value: 1
+coa_link: orange-cbg.pdf
+product_image: orange-cbg.jpg
+title: Orange CBG
 cannabinoids:
   - type: CBG
-    value: 10.7
+    value: 11.97
   - type: Total T
-    value: 0.03
-coa_link: oregon-blueberry-full-panel-13-.pdf
-product_image: orange-cbg.jpg
+    value: 0.15
 ---
-
-- Sativa
-- Wholesale CBG Flower contains 10.7% CBG
-- Sun-grown Oregon CBG Flower
-- Hand Trimmed Buds
-- Lab Tested for Compliance and No Pesticides
-- Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
+* Sativa
+* Wholesale CBG Flower contains 11.97% CBG
+* Sun-grown Oregon CBG Flower
+* Hand Trimmed Buds
+* Lab Tested for Compliance and No Pesticides
+* Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
