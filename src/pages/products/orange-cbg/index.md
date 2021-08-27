@@ -19,7 +19,7 @@ cannabinoids:
     value: 10.7
   - type: Total T
     value: 0.03
-coa_link: orange-cbg.pdf
+coa_link: oregon-blueberry-full-panel-13-.pdf
 product_image: orange-cbg.jpg
 ---
 
