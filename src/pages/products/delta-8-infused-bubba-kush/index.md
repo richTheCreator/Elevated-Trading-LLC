@@ -22,7 +22,6 @@ cannabinoids:
 coa_link: d8-bubba-kush.pdf
 ---
 * Sun-grown Oregon CBD Flower
-* Delta 8 Infused Flower
 * Hand Trimmed Buds
 * Lab Tested for Compliance and No Pesticides
 * Federal Farm Bill Compliant - Less Than 0.3% Delta 9 THC
