@@ -173,7 +173,7 @@ const Hero = ({
             })}
           />
           <Row style={{ padding: '0px' }}>
-            <Col xs={8} style={{ paddingLeft: '0px' }}>
+            <Col xs={coa_link ? 8 : 12} style={{ paddingLeft: '0px' }}>
               <Button
                 bg={'sage'}
                 width='100%'
@@ -185,20 +185,22 @@ const Hero = ({
                 REQUEST PRICE
               </Button>
             </Col>
-            <Col xs={4} style={{ paddingRight: '0px' }}>
-              <LinkButton
-                color='black'
-                display='flex'
-                width='100%'
-                height='100%'
-                justifyItems='center'
-                alignItems='center'
-                borderColor='black'
-                href={coa_link.publicURL}
-              >
-                <StyledFileIcon pr={2} /> COA
-              </LinkButton>
-            </Col>
+            {coa_link && (
+              <Col xs={4} style={{ paddingRight: '0px' }}>
+                <LinkButton
+                  color='black'
+                  display='flex'
+                  width='100%'
+                  height='100%'
+                  justifyItems='center'
+                  alignItems='center'
+                  borderColor='black'
+                  href={coa_link.publicURL}
+                >
+                  <StyledFileIcon pr={2} /> COA
+                </LinkButton>
+              </Col>
+            )}
           </Row>
         </TextContainer>
       </SectionMax>
