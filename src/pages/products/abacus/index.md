@@ -1,11 +1,11 @@
 ---
 date: 2021-02-18T17:03:13.311Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Abacus'
+meta_description: "Elevated Trading CBD Hemp Flower: Cherry Abacus"
 templateKey: product-details
 imageInfo:
   alt: Testing deploy time
-  image: abacus.jpg
-title: Abacus
+  image: cbd-frosted-kush-png-1k-x-1k.png
+title: Cherry Abacus
 category: Flower
 weights:
   - metric: g
@@ -16,10 +16,10 @@ weights:
     value: 1
 cannabinoids:
   - type: CBD
-    value: 11.8
+    value: 17.48
   - type: ∆9 THC
-    value: 0.06
-coa_link: abacus.pdf
+    value: 0.102
+coa_link: aacd451-cherryabacus110421-12032021-61aa60b28388e.pdf
 ---
 
 - Sun-grown Oregon CBD Flower
