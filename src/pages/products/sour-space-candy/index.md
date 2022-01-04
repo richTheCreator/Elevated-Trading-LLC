@@ -1,12 +1,16 @@
 ---
+meta_description: "Elevated Trading CBD Hemp Flower: Sour Space Candy"
+details:
+  info: []
 date: 2020-08-24T18:33:45.703Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Sour Space Candy'
 templateKey: product-details
 imageInfo:
-  image: sour-space-candy.jpg
+  image: lj-cbd-new-ssc-nobg.png
   alt: Sour Space Candy
-title: Sour Space Candy
 category: Flower
+coa_link: sour-space-candy-16.75-cultivar-oregon.pdf
+product_image: sour-space-candy.jpg
+title: Sour Space Candy
 weights:
   - metric: g
     value: 3.5
@@ -14,15 +18,11 @@ weights:
     value: 7
   - metric: lb
     value: 1
-coa_link: sour-space-candy-16.75-cultivar-oregon.pdf
 cannabinoids:
   - type: CBD
     value: 15.9
   - type: ∆9 THC
     value: 0.02
-details:
-  info: []
-product_image: sour-space-candy.jpg
 ---
 
 - Sativa
