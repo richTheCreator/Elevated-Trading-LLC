@@ -5,7 +5,7 @@ details:
 date: 2020-08-24T18:33:45.703Z
 templateKey: product-details
 imageInfo:
-  image: lj-cbd-new-ssc-nobg.png
+  image: lj-cbd-new-ssc-nobg-1-.png
   alt: Sour Space Candy
 category: Flower
 coa_link: sour-space-candy-16.75-cultivar-oregon.pdf
