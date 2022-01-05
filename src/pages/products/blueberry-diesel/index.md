@@ -5,7 +5,7 @@ details:
 date: 2020-12-08T14:00:47.392Z
 templateKey: product-details
 imageInfo:
-  image: blueberry-diesel.jpg
+  image: cbd-blueberry-diesel-png-1k-x-1k.png
   alt: Blueberry Diesel
 category: Flower
 coa_link: blueberry-diesel.pdf
