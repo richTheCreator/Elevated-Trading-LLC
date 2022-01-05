@@ -1,10 +1,12 @@
 ---
+meta_description: "Elevated Trading CBD Hemp Flower: Blue Pineapple"
+details:
+  info: []
 date: 2020-12-13T20:07:54.393Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Blue Pineapple'
 templateKey: product-details
 imageInfo:
   alt: Blue pineapple cbd flower
-  image: blue-pineapple.jpg
+  image: cbd-blueberry-diesel-png-1k-x-1k.png
 title: Blue Pineapple
 category: Flower
 weights:
@@ -20,8 +22,6 @@ cannabinoids:
   - type: ∆9 THC
     value: 0.03
 coa_link: blue-pineapple-hemp-flower.pdf
-details:
-  info: []
 ---
 
 - Sun-grown Oregon CBD Flower
