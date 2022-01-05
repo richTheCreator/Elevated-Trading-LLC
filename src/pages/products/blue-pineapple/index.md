@@ -6,7 +6,7 @@ date: 2020-12-13T20:07:54.393Z
 templateKey: product-details
 imageInfo:
   alt: Blue pineapple cbd flower
-  image: cbd-blueberry-diesel-png-1k-x-1k.png
+  image: lj-cbd-new-bluepine-nobg.png
 title: Blue Pineapple
 category: Flower
 weights:
