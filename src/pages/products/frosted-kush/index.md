@@ -1,11 +1,10 @@
 ---
 date: 2021-02-18T18:50:29.149Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Frosted Kush'
+meta_description: "Elevated Trading CBD Hemp Flower: Frosted Kush"
 templateKey: product-details
 imageInfo:
-  image: frosted-kush.jpg
+  image: cbd-frosted-kush-png-1k-x-1k.png
   alt: Frosted Kush
-title: Frosted Kush
 category: Flower
 weights:
   - metric: g
@@ -14,13 +13,14 @@ weights:
     value: 7
   - metric: lb
     value: 1
+coa_link: frosted-kush.pdf
+product_image: frosted-kush.jpg
+title: Frosted Kush
 cannabinoids:
   - type: CBD
     value: 11.4
   - type: ∆9 THC
     value: 0.02
-coa_link: frosted-kush.pdf
-product_image: frosted-kush.jpg
 ---
 
 - Indica Hybrid
