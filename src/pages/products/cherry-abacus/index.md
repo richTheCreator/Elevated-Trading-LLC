@@ -3,7 +3,7 @@ date: 2021-12-30T20:46:56.046Z
 meta_description: "Elevated Trading CBD Hemp Flower: Cherry Abacus"
 templateKey: product-details
 imageInfo:
-  image: cbd-frosted-kush-png-1k-x-1k.png
+  image: cherry-abacus-2022-nobg.png
   alt: Testing deploy time
 title: Cherry Abacus
 category: Flower
