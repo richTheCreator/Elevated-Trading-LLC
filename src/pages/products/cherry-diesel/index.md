@@ -3,7 +3,7 @@ date: 2021-12-30T20:07:24.549Z
 meta_description: "Elevated Trading CBD Hemp Flower: Cherry Diesel"
 templateKey: product-details
 imageInfo:
-  image: cbd-blueberry-diesel-png-1k-x-1k.png
+  image: cherry-diesel-2022-nobg.png
   alt: Testing deploy time
 title: Cherry Diesel
 category: Flower
