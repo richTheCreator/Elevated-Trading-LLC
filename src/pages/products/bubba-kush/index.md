@@ -1,12 +1,16 @@
 ---
+meta_description: "Elevated Trading CBD Hemp Flower: Bubba Kush"
+details:
+  info: []
 date: 2020-08-24T23:07:59.226Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Bubba Kush'
 templateKey: product-details
 imageInfo:
-  image: bubba-kush.jpg
+  image: wedding-cake-kush-2022-nobg.png
   alt: Bubba Kush
-title: Bubba Kush
 category: Flower
+coa_link: bubba-kush-full-panel.pdf
+product_image: bubba-kush.jpg
+title: Bubba Kush
 weights:
   - metric: g
     value: 3.5
@@ -19,10 +23,6 @@ cannabinoids:
     value: 10.1
   - type: ∆9 THC
     value: 0.2
-coa_link: bubba-kush-full-panel.pdf
-details:
-  info: []
-product_image: bubba-kush.jpg
 ---
 
 - Sun-grown Oregon CBD Flower
