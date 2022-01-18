@@ -3,7 +3,7 @@ date: 2021-02-18T20:00:37.688Z
 meta_description: "Elevated Trading Delta 8 Flower: CBG"
 templateKey: product-details
 imageInfo:
-  image: img_0103_d8-cbg.jpg
+  image: d8-cbg-2022-nobg.png
   alt: "Delta 8 Flower: CBG"
 category: Flower
 weights:
