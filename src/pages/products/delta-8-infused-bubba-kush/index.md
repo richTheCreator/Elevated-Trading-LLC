@@ -4,7 +4,7 @@ meta_description: "Elevated Trading Delta 8 Flower: Bubba Kush"
 templateKey: product-details
 imageInfo:
   alt: Delta 8 Bubba Kush
-  image: img_0301.jpg-d8-bubba-kush-1-.jpg
+  image: d8-bubba-kush-2022-nobg.png
 title: Delta 8 Bubba Kush
 category: Flower
 weights:
@@ -16,10 +16,10 @@ weights:
     value: 1
 cannabinoids:
   - type: ∆8 THC
-    value: 5.93
+    value: 23.57
   - type: CBD
-    value: 13.46
-coa_link: d8-bubba-kush.pdf
+    value: 11.84
+coa_link: bubbakushd8_22.pdf
 ---
 * Sun-grown Oregon CBD Flower
 * Hand Trimmed Buds
