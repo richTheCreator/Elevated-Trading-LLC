@@ -3,7 +3,7 @@ date: 2021-02-18T20:08:20.628Z
 meta_description: "Elevated Trading Delta 8 Flower: Special Sauce"
 templateKey: product-details
 imageInfo:
-  image: img_0312.jpg-d8-special-sauce.jpg
+  image: d8-special-sauce-2022-nobg.png
   alt: "Delta 8 Special Sauce "
 category: Flower
 weights:
@@ -13,14 +13,14 @@ weights:
     value: 7
   - metric: lb
     value: 1
-coa_link: d8-special-sauce.pdf
+coa_link: d8-special-sauce-elevated-2022-coa.pdf
 product_image: img_0312.jpg-d8-special-sauce.jpg
 title: "Delta 8 Special Sauce "
 cannabinoids:
   - type: ∆8 THC
-    value: 10.85
+    value: 22.38
   - type: CBD
-    value: 12.3
+    value: 8.637
 ---
 * Sun-grown Oregon CBD Flower
 * Delta 8 Flower - 10.85% Delta 8
