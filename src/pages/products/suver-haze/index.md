@@ -3,7 +3,7 @@ date: 2021-12-30T19:19:20.764Z
 meta_description: "Elevated Trading CBD Hemp Flower: Suver Haze"
 templateKey: product-details
 imageInfo:
-  image: cbd-special-sauce-png-1k-x-1k.png
+  image: sour-blueberry-2022-nobg.png
   alt: Testing deploy time
 title: Suver Haze
 category: Flower
