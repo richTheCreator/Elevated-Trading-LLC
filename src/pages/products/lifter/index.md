@@ -1,12 +1,16 @@
 ---
+meta_description: "Elevated Trading CBD Hemp Flower: Lifter"
+details:
+  info: []
 date: 2020-08-24T18:25:04.678Z
-meta_description: 'Elevated Trading CBD Hemp Flower: Lifter'
 templateKey: product-details
 imageInfo:
-  image: lifter.jpg
+  image: lifter-2022-nobg.png
   alt: Lifter
-title: Lifter
 category: Flower
+coa_link: lifter-full-panel.pdf
+product_image: lifter.jpg
+title: Lifter
 weights:
   - metric: g
     value: 3.5
@@ -19,10 +23,6 @@ cannabinoids:
     value: 11.9
   - type: ∆9 THC
     value: 0.02
-coa_link: lifter-full-panel.pdf
-details:
-  info: []
-product_image: lifter.jpg
 ---
 
 - Sun-Grown Oregon CBD Flower
