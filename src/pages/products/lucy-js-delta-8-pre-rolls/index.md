@@ -5,7 +5,7 @@ meta_description: Lucy J's Delta 8 Pre Rolls - The life of the party! - High
   experience!
 templateKey: product-details
 imageInfo:
-  image: edited-li-lucy-j-d8-pic.jpg
+  image: d8-prerolls-nobg.png
   alt: Lucy J's Delta 8 Pre Rolls
 title: Lucy J's Delta 8 Pre Rolls
 category: Flower
