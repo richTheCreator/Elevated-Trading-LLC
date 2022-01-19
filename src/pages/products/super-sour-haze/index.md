@@ -3,7 +3,7 @@ date: 2021-12-30T18:45:30.488Z
 meta_description: "Elevated Trading CBD Hemp Flower: Super Sour Haze"
 templateKey: product-details
 imageInfo:
-  image: lj-cbd-new-ssc-nobg.png
+  image: sour-haze-2022-nobg.png
   alt: Testing Deploy time
 title: Super Sour Haze
 category: Flower
