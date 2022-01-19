@@ -3,7 +3,7 @@ date: 2021-02-18T19:06:18.317Z
 meta_description: "Elevated Trading CBD Hemp Flower: Special Sauce"
 templateKey: product-details
 imageInfo:
-  image: cbd-special-sauce-png-1k-x-1k.png
+  image: special-sauce-2022-nobg.png
   alt: Special Sauce
 category: Flower
 weights:
