@@ -21,8 +21,6 @@ cannabinoids:
     value: 8.741
 coa_link: d8-sour-lifter-elevated-2022-coa.pdf
 ---
-
-
 * Sun-grown Oregon CBD Flower
 * Hand Trimmed Buds
 * Lab Tested for Compliance and No Pesticides
