@@ -3,7 +3,7 @@ date: 2021-02-18T18:59:41.288Z
 meta_description: "Elevated Trading CBD Hemp Flower: Sour Lifter"
 templateKey: product-details
 imageInfo:
-  image: lj-cbd-new-bluepine-nobg.png
+  image: sour-lifter-2022-nobg.png
   alt: Sour Lifter
 category: Flower
 weights:
@@ -13,7 +13,7 @@ weights:
     value: 7
   - metric: lb
     value: 1
-coa_link: aacc395-sourlifter1025-12032021-61aa6dd2b58e7.pdf
+coa_link: cbd-sour-lifter_10-21.pdf
 product_image: sour-lifter.jpg
 title: Sour Lifter
 cannabinoids:
