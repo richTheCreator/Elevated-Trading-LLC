@@ -1,11 +1,11 @@
 ---
 date: 2022-01-25T20:18:33.621Z
-meta_description: Lucy J Live Resin Delta 8 Disposable - Platinum Cookies
+meta_description: Lucy J Live Resin Delta 8 Disposables
 templateKey: product-details
 imageInfo:
-  image: live-resin-disposables_indica-nobg.png
-  alt: Live Resin Delta 8 Disposable - Platinum Cookies
-title: Live Resin Delta 8 Disposable - Platinum Cookies
+  image: live-resin-disposables-2-nobg.png
+  alt: Lucy J's Live Resin Delta 8 Disposables
+title: Lucy J's Live Resin Delta 8 Disposables
 category: Vape
 weights:
   - metric: g
