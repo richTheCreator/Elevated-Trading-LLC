@@ -1,6 +1,6 @@
 ---
 date: 2022-01-25T20:18:33.621Z
-meta_description: Lucy J Live Resin Delta 8 Disposables
+meta_description: Lucy J Live Resin D8 Disposable
 templateKey: product-details
 imageInfo:
   image: live-resin-disposables-2-nobg.png
