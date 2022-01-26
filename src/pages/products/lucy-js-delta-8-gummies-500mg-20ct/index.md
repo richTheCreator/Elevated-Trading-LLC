@@ -4,8 +4,8 @@ meta_description: Lucy J's Delta 8 Gummies - 20ct
 templateKey: product-details
 imageInfo:
   image: lucy-j-d8-gummies-20ct-group-no-background.png
-  alt: "Lucy J's Delta 8 Gummies 500mg - 20ct "
-title: "Lucy J's Delta 8 Gummies 500mg - 20ct "
+  alt: "Lucy J's Delta 8 Gummies - 20ct "
+title: "Lucy J's Delta 8 Gummies - 20ct "
 category: Edibles
 weights:
   - metric: pcs
@@ -13,12 +13,13 @@ weights:
 cannabinoids:
   - type: ∆9 THC
     value: 500
-  - type: ∆9 THC
-    value: 1.04
+  - type: ∆8 THC
+    value: 25
 coa_link: lucy-j-brands-25mg-gummies-coas_site-1.pdf
 ---
+Elevated Trading supplies wholesale products only. For individual purchases, visit: https://lucyjcbd.com/
 
-
+* Available in Strawnana, Passionfruit Mango, Watermelon & Green Apple
 * 25mg of Delta 8 THC per gummy (500mg per jar)
 * Vegan, Non-GMO, Gluten free
 * Infused with Delta 8 THC
