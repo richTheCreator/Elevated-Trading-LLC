@@ -11,10 +11,10 @@ weights:
   - metric: pcs
     value: 20
 cannabinoids:
-  - type: ∆9 THC
-    value: 500
   - type: ∆8 THC
-    value: 25
+    value: 500
+  - type: CBD
+    value: 0
 coa_link: lucy-j-brands-25mg-gummies-coas_site-1.pdf
 ---
 Elevated Trading supplies wholesale products only. For individual purchases, visit: https://lucyjcbd.com/
