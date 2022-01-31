@@ -4,7 +4,7 @@ meta_description: Lucy J's Delta 8 Gummies (12pk Bags) - 10ct Display
 templateKey: product-details
 imageInfo:
   image: lj-12pk-display-nobg.png
-  alt: Lucy J Delta 8 Gummies - (12pk Bags)
+  alt: Lucy J Delta 8 Gummies - 12pk
 title: Lucy J Delta 8 Gummies - (12pk Bags)
 category: Edibles
 weights:
