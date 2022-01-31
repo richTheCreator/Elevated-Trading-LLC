@@ -17,7 +17,7 @@ cannabinoids:
     value: 0
 coa_link: lucy-j-brands-25mg-gummies-coas_site-1.pdf
 ---
-Elevated Trading supplies wholesale products only. For individual purchases, visit: https://lucyjcbd.com/
+Elevated Trading supplies wholesale products only. For individual purchases, visit: https://lucyjcbd.com/product/delta-8-thc-gummies-500mg/
 
 * Available in Strawnana, Passionfruit Mango, Watermelon & Green Apple
 * 25mg of Delta 8 THC per gummy (500mg per jar)
