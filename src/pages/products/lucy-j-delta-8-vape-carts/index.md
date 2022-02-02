@@ -12,7 +12,7 @@ weights:
     value: 1
 cannabinoids:
   - type: ∆8 THC
-    value: 930
+    value: 93
   - type: ∆9 THC
     value: 0.039
 coa_link: lucy-js-d8-distillate_full-panel-testing_12.2.21-1.pdf
