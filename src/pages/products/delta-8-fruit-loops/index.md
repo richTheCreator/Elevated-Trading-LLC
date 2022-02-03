@@ -16,10 +16,10 @@ weights:
     value: 1
 cannabinoids:
   - type: ∆8 THC
-    value: 18.35
+    value: 24.57
   - type: CBD
-    value: 10.18
-coa_link: fruitloopsd8_22.pdf
+    value: 8.376
+coa_link: d8-fruit-loops-elevated-2022-coa.pdf
 ---
 
 
