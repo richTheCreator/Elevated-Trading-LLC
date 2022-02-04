@@ -20,7 +20,7 @@ cannabinoids:
   - type: CBD
     value: 23.13
   - type: ∆9 THC
-    value: 0.34
+    value: 0.12
 coa_link: blue-pineapple.pdf
 ---
 
