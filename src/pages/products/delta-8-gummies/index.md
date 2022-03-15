@@ -26,11 +26,10 @@ Elevated Trading's wholesale Delta 8 THC gummies are the best tasting Delta 8 gu
 
 Available in the following flavors:
 
-* Kiwi Grapefruit
-* Strawberry
-* Pomegranate
-* Mango Passion Fruit
-* Birthday Cake
+* Apple
+* Passionfruit Mango
+* Strawberry Banana 
+* Watermelon
 
 \_\_\_\_\_\_
 
