@@ -8,7 +8,7 @@ imageInfo:
   image: lifter-2022-nobg.png
   alt: Lifter
 category: Flower
-coa_link: lifter-full-panel.pdf
+coa_link: elevated-2022-coa-cbd-lifter.pdf
 product_image: lifter.jpg
 title: Lifter
 weights:
@@ -20,9 +20,9 @@ weights:
     value: 1
 cannabinoids:
   - type: CBD
-    value: 11.9
+    value: 13
   - type: ∆9 THC
-    value: 0.02
+    value: 0.09
 ---
 
 - Sun-Grown Oregon CBD Flower
