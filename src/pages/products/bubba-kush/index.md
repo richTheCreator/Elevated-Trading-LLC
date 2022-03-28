@@ -8,7 +8,7 @@ imageInfo:
   image: wedding-cake-kush-2022-nobg.png
   alt: Bubba Kush
 category: Flower
-coa_link: bubba-kush-full-panel.pdf
+coa_link: elevated-2022-coa-cbd-bubba-kush.pdf
 product_image: bubba-kush.jpg
 title: Bubba Kush
 weights:
@@ -20,9 +20,9 @@ weights:
     value: 1
 cannabinoids:
   - type: CBD
-    value: 10.1
+    value: 14
   - type: ∆9 THC
-    value: 0.2
+    value: 0.12
 ---
 
 - Sun-grown Oregon CBD Flower
