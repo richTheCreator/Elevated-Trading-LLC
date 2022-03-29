@@ -8,7 +8,7 @@ imageInfo:
   image: b.diesel-2022-nobg.png
   alt: Blueberry Diesel
 category: Flower
-coa_link: blueberry-diesel.pdf
+coa_link: elevated-2022-coa-cbd-blueberry-diesel.pdf
 product_image: blueberry-diesel.jpg
 title: Blueberry Diesel
 weights:
@@ -20,9 +20,9 @@ weights:
     value: 1
 cannabinoids:
   - type: CBD
-    value: 13.83
-  - type: ∆9 THC
-    value: 0.3
+    value: 13
+  - type: ∆8 THC
+    value: 0.34
 ---
 
 - Indica Hybrid
