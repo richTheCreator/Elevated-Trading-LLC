@@ -13,14 +13,14 @@ weights:
     value: 7
   - metric: lb
     value: 1
-coa_link: special-sauce-15.56-cultivar-oregon.pdf
+coa_link: elevated-2022-coa-cbd-special-sauce.pdf
 product_image: special-sauce.jpg
 title: Special Sauce
 cannabinoids:
   - type: CBD
-    value: 14.8
+    value: 13
   - type: ∆9 THC
-    value: 0.02
+    value: 0.18
 ---
 
 - Sativa Hybrid
