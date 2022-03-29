@@ -16,10 +16,10 @@ weights:
     value: 1
 cannabinoids:
   - type: ∆8 THC
-    value: 43.76
+    value: 20.19
   - type: CBD
-    value: 4.39
-coa_link: wedding-cake-d8.pdf
+    value: 7.25
+coa_link: elevated-2022-coa-d8-wedding-cake-kush.pdf
 ---
 
 
