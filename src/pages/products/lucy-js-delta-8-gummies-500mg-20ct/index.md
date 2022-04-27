@@ -3,7 +3,7 @@ date: 2022-01-25T21:25:17.272Z
 meta_description: Lucy J's Delta 8 Gummies - 20ct
 templateKey: product-details
 imageInfo:
-  image: lucy-j-d8-gummies-20ct-group-no-background.png
+  image: lj-20ct-stack.png
   alt: "Lucy J's Delta 8 Gummies - 20ct "
 title: "Lucy J's Delta 8 Gummies - 20ct "
 category: Edibles
