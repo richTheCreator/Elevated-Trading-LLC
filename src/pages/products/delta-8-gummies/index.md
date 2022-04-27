@@ -6,7 +6,7 @@ date: 2020-11-02T16:07:48.592Z
 templateKey: product-details
 imageInfo:
   alt: Delta 8 gummies
-  image: d8gummy.jpg
+  image: et-site-d8-combo-.png
 title: Delta 8 Gummies
 category: Edibles
 weights:
