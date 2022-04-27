@@ -3,7 +3,7 @@ date: 2022-04-22T19:26:56.520Z
 meta_description: Elevated Trading 10mg D9/10mg CBD Gummies - 1:1
 templateKey: product-details
 imageInfo:
-  image: 11-combo-.png
+  image: et-site-11-combo-.png
   alt: 1:1 D9/CBD Gummies
 title: "1:1 D9/CBD Gummies "
 category: Edibles
