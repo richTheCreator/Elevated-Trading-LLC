@@ -4,8 +4,8 @@ meta_description: "Elevated Trading CBD Hemp Flower: Garlic Cookies"
 templateKey: product-details
 imageInfo:
   image: garlic-cookies.png
-  alt: CBD Garlic Cookies (GMO)
-title: CBD Garlic Cookies (GMO)
+  alt: Garlic Cookies (GMO)
+title: Garlic Cookies (GMO)
 category: Flower
 weights:
   - metric: g
