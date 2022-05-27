@@ -13,14 +13,14 @@ weights:
     value: 7
   - metric: lb
     value: 1
-coa_link: cbd-sour-lifter_10-21.pdf
+coa_link: elevated-2022-coa-cbd-sour-lifter.pdf
 product_image: sour-lifter.jpg
 title: Sour Lifter
 cannabinoids:
   - type: CBD
-    value: 19.675
+    value: 16
   - type: ∆9 THC
-    value: 0.166
+    value: 0.17
 ---
 
 
