@@ -18,10 +18,10 @@ weights:
     value: 1
 cannabinoids:
   - type: CBD
-    value: 23.13
+    value: 17
   - type: ∆9 THC
-    value: 0.12
-coa_link: blue-pineapple.pdf
+    value: 0.07
+coa_link: elevated-2022-coa-cbd-blue-pineapple.pdf
 ---
 
 - Sun-grown Oregon CBD Flower
