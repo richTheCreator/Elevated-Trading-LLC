@@ -37,7 +37,7 @@
     "gatsby-remark-relative-images": "0.3.0",
     "gatsby-source-filesystem": "^3.0.0",
     "gatsby-source-stripe": "^3.0.7",
-    "gatsby-transformer-remark": "^3.0.0",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^3.0.0",
     "global": "^4.4.0",
     "gsap": "^3.5.1",
